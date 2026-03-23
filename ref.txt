@@ -1,0 +1,12 @@
+Academic papers (theory, not buildable projects):
+
+An Amazon research team published a paper on contradiction detection in RAG systems, investigating three types: self-contradictory documents, contradicting document pairs, and conditional contradictions where a third document creates conflict between two others. arXiv But their work is about evaluating LLMs as validators on synthetic data — not a working tool.
+LegalWiz is a multi-agent framework for contradiction detection in legal documents, generating synthetic legal-style documents with six structured contradiction types. arXiv Domain-specific to law, and it's a benchmark framework, not an end-user tool.
+A medical RAG paper found that contradictions between highly similar abstracts degrade performance, leading to inconsistencies and reduced factual accuracy in model answers. arXiv Again, evaluation-focused, not a product.
+
+GitHub projects (related but different):
+
+ClaimeAI is a fact-checking system built with LangGraph that breaks text into verifiable claims and cross-references them with web searches to generate accuracy reports. GitHub This checks claims against the web — not against other documents in a corpus.
+OpenFactVerification provides a pipeline for breaking texts into claims, generating queries, crawling for evidence, and verifying claims. GitHub Same idea — single-claim verification, not cross-document contradiction detection.
+CONTRADOC is a dataset of 449 self-contradictory and 442 non-contradictory documents sourced from CNN, Wikipedia, and story summaries. GitHub It's a dataset, not a tool.
+

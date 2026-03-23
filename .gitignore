@@ -1,0 +1,47 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Data (articles are manually managed; keep structure, ignore content)
+data/topic_a/articles/*.txt
+data/topic_b/articles/*.txt
+
+# Generated pipeline outputs (reproducible, no need to track)
+data/topic_a/propositions/
+data/topic_b/propositions/
+data/topic_a/contradiction_pairs.json
+data/topic_b/contradiction_pairs.json
+data/topic_a/graph_data.json
+data/topic_b/graph_data.json
+data/topic_a/graph.html
+data/topic_b/graph.html
+
+# ChromaDB (large binary files)
+chroma_db/
+
+# HuggingFace model cache
+.cache/
+*.bin
+*.safetensors
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

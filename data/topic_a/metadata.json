@@ -1,0 +1,587 @@
+{
+  "articles": [
+    {
+      "article_id": "aljazeera_001",
+      "filename": "aljazeera_001.txt",
+      "source_name": "Al Jazeera",
+      "publish_date": "2026-03-22",
+      "political_lean": "global-south-leaning",
+      "url": "https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks",
+      "topic_tags": [
+        "negotiations",
+        "diplomacy",
+        "sanctions",
+        "shadow-fleet",
+        "elections"
+      ],
+      "body_length": 2827,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.082168+00:00"
+    },
+    {
+      "article_id": "aljazeera_002",
+      "filename": "aljazeera_002.txt",
+      "source_name": "Al Jazeera",
+      "publish_date": "2026-03-11",
+      "political_lean": "territorial-control, counterattack, recruitment, Black-Sea, casualties",
+      "url": "https://www.aljazeera.com/news/2026/3/11/ukraine-records-first-territorial-gains-since-2023-amid-russian-army-woes",
+      "topic_tags": [],
+      "body_length": 6203,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.082646+00:00"
+    },
+    {
+      "article_id": "aljazeera_003",
+      "filename": "aljazeera_003.txt",
+      "source_name": "Al Jazeera",
+      "publish_date": "2026-03-14",
+      "political_lean": "global-south-leaning",
+      "url": "https://www.aljazeera.com/news/2026/3/14/eu-sanctions-against-russia-renewed-amid-deadly-attacks-on-ukraine",
+      "topic_tags": [
+        "sanctions",
+        "energy-infrastructure",
+        "EU",
+        "civilian-casualties",
+        "shadow-fleet"
+      ],
+      "body_length": 3798,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.083076+00:00"
+    },
+    {
+      "article_id": "aljazeera_004",
+      "filename": "aljazeera_004.txt",
+      "source_name": "Al Jazeera",
+      "publish_date": "2026-02-24",
+      "political_lean": "global-south-leaning",
+      "url": "https://www.aljazeera.com/news/2026/2/24/russia-ukraine-war-list-of-key-events-day-1461",
+      "topic_tags": [
+        "daily-summary",
+        "frontline-advances",
+        "sanctions",
+        "EU",
+        "energy-infrastructure",
+        "diplomacy"
+      ],
+      "body_length": 5716,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.094571+00:00"
+    },
+    {
+      "article_id": "apnews_001",
+      "filename": "apnews_001.txt",
+      "source_name": "Associated Press",
+      "publish_date": "2026-02-04",
+      "political_lean": "centrist",
+      "url": "https://apnews.com/article/russia-ukraine-war-trump-peace-deal-diplomacy-563358928ede87d5a08ed5f4082a4d7c",
+      "topic_tags": [
+        "negotiations",
+        "diplomacy",
+        "timeline",
+        "peace-plan",
+        "security-guarantees"
+      ],
+      "body_length": 4178,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.106354+00:00"
+    },
+    {
+      "article_id": "apnews_002",
+      "filename": "apnews_002.txt",
+      "source_name": "Associated Press",
+      "publish_date": "2026-02-23",
+      "political_lean": "centrist",
+      "url": "https://apnews.com/article/russia-ukraine-war-numbers-f023cd82917ccb29ad2dda54ea589249",
+      "topic_tags": [
+        "casualties",
+        "territorial-control",
+        "refugees",
+        "military-aid",
+        "anniversary",
+        "background"
+      ],
+      "body_length": 4544,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.117246+00:00"
+    },
+    {
+      "article_id": "bbc_001",
+      "filename": "bbc_001.txt",
+      "source_name": "BBC",
+      "publish_date": "2026-02-24",
+      "political_lean": "western-mainstream",
+      "url": "https://www.bbc.com/news/live/cre08q9dergt?page=2",
+      "topic_tags": [
+        "anniversary",
+        "casualties",
+        "territorial-control",
+        "sanctions",
+        "diplomacy",
+        "EU",
+        "energy-infrastructure"
+      ],
+      "body_length": 6942,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.127123+00:00"
+    },
+    {
+      "article_id": "bbc_002",
+      "filename": "bbc_002.txt",
+      "source_name": "BBC",
+      "publish_date": "2026-02-24",
+      "political_lean": "western-mainstream",
+      "url": "https://www.bbc.com/news/articles/c0l0k4389g2o",
+      "topic_tags": [
+        "territorial-control",
+        "frontline-advances",
+        "starlink",
+        "ceasefire",
+        "negotiations",
+        "energy-infrastructure",
+        "background"
+      ],
+      "body_length": 7835,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.135130+00:00"
+    },
+    {
+      "article_id": "bbc_003",
+      "filename": "bbc_003.txt",
+      "source_name": "BBC",
+      "publish_date": "2026-02-18",
+      "political_lean": "western-mainstream",
+      "url": "https://www.bbc.com/news/articles/c0k1xj0d708o",
+      "topic_tags": [
+        "negotiations",
+        "ceasefire",
+        "territorial-control",
+        "diplomacy",
+        "Donbas",
+        "nuclear-plant"
+      ],
+      "body_length": 5218,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.146639+00:00"
+    },
+    {
+      "article_id": "csis_001",
+      "filename": "csis_001.txt",
+      "source_name": "CSIS (Center for Strategic and International Studies)",
+      "publish_date": "2026-01-27",
+      "political_lean": "Western-think-tank",
+      "url": "https://www.csis.org/analysis/russias-grinding-war-ukraine",
+      "topic_tags": [
+        "casualties",
+        "territorial-control",
+        "Russia-economy",
+        "attrition",
+        "analysis",
+        "military-aid",
+        "China"
+      ],
+      "body_length": 7120,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.147198+00:00"
+    },
+    {
+      "article_id": "ecotimes_001",
+      "filename": "ecotimes_001.txt",
+      "source_name": "Economic Times",
+      "publish_date": "2026-03-22",
+      "political_lean": "Indian-mainstream",
+      "url": "https://economictimes.indiatimes.com/news/india/russia-says-ukraines-india-activities-aimed-at-destabilising-region/articleshow/129736867.cms",
+      "topic_tags": [
+        "Russia-Ukraine",
+        "terrorism",
+        "India",
+        "NATO-weapons",
+        "drones"
+      ],
+      "body_length": 1091,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.147602+00:00"
+    },
+    {
+      "article_id": "fox_001",
+      "filename": "fox_001.txt",
+      "source_name": "Fox News",
+      "publish_date": "2026-02-07",
+      "political_lean": "right-leaning",
+      "url": "https://www.foxnews.com/world/zelenskyy-claims-us-gave-ukraine-russia-deadline-reach-peace-agreement",
+      "topic_tags": [
+        "negotiations",
+        "diplomacy",
+        "deadline",
+        "POW-exchange",
+        "energy-infrastructure"
+      ],
+      "body_length": 3417,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.156444+00:00"
+    },
+    {
+      "article_id": "fox_002",
+      "filename": "fox_002.txt",
+      "source_name": "Fox News",
+      "publish_date": "2026-03-19",
+      "political_lean": "right-leaning",
+      "url": "https://www.foxnews.com/world/ukraine-peace-talks-situational-pause-middle-east-conflict-intensifies-kremlin",
+      "topic_tags": [
+        "negotiations",
+        "diplomacy",
+        "pause",
+        "Middle-East",
+        "Iran"
+      ],
+      "body_length": 2361,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.164710+00:00"
+    },
+    {
+      "article_id": "fox_003",
+      "filename": "fox_003.txt",
+      "source_name": "Fox News",
+      "publish_date": "2026-03-07",
+      "political_lean": "right-leaning",
+      "url": "https://www.foxnews.com/politics/trump-says-hatred-between-putin-ukrainian-counterpart-blocking-peace-deal-cites-worsening-death-toll",
+      "topic_tags": [
+        "negotiations",
+        "diplomacy",
+        "casualties",
+        "Trump",
+        "ceasefire"
+      ],
+      "body_length": 1944,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.173904+00:00"
+    },
+    {
+      "article_id": "gt_001",
+      "filename": "gt_001.txt",
+      "source_name": "Global Times",
+      "publish_date": "2026-03-10",
+      "political_lean": "Chinese-state-affiliated",
+      "url": "http://globaltimes.cn/page/202603/1356706.shtml",
+      "topic_tags": [
+        "diplomacy",
+        "Iran",
+        "oil-prices",
+        "Trump",
+        "Putin",
+        "Ukraine-crisis",
+        "geopolitics"
+      ],
+      "body_length": 6337,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.174501+00:00"
+    },
+    {
+      "article_id": "gt_002",
+      "filename": "gt_002.txt",
+      "source_name": "Global Times",
+      "publish_date": "2026-03-18",
+      "political_lean": "Chinese-state-affiliated",
+      "url": "https://www.globaltimes.cn/page/202603/1357149.shtml",
+      "topic_tags": [
+        "China",
+        "geopolitics",
+        "Iran",
+        "Western-criticism",
+        "opinion"
+      ],
+      "body_length": 3936,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.183819+00:00"
+    },
+    {
+      "article_id": "ind_001",
+      "filename": "ind_001.txt",
+      "source_name": "The Independent",
+      "publish_date": "2026-03-23",
+      "political_lean": "western-mainstream",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-offensive-casualties-b2943554.html",
+      "topic_tags": [
+        "casualties",
+        "air-defense",
+        "Iran",
+        "starlink",
+        "negotiations",
+        "NATO",
+        "drone-strikes",
+        "Hungary"
+      ],
+      "body_length": 5807,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.184395+00:00"
+    },
+    {
+      "article_id": "kyivind_001",
+      "filename": "kyivind_001.txt",
+      "source_name": "Kyiv Independent",
+      "publish_date": "2026-03-22",
+      "political_lean": "Ukrainian-perspective",
+      "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-destroys-russian-buk-air-defenses-in-flurry-of-strikes-military-says/",
+      "topic_tags": [
+        "air-defense",
+        "drone-strikes",
+        "energy-infrastructure",
+        "negotiations",
+        "civilian-casualties"
+      ],
+      "body_length": 8932,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.184902+00:00"
+    },
+    {
+      "article_id": "kyivind_002",
+      "filename": "kyivind_002.txt",
+      "source_name": "Kyiv Independent",
+      "publish_date": "2026-03-21",
+      "political_lean": "Ukrainian-perspective",
+      "url": "https://kyivindependent.com/news-from-occupied-ukraine-russia-detains-seniors-for-donations-to-ukraines-armed-forces-intensifies-conscription-and-plans-to-relocate-nearly-114-000-russians-in-occupied-territories/",
+      "topic_tags": [
+        "occupation",
+        "resettlement",
+        "conscription",
+        "war-crimes",
+        "Crimea",
+        "China",
+        "Iran"
+      ],
+      "body_length": 6654,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.195774+00:00"
+    },
+    {
+      "article_id": "kyivind_003",
+      "filename": "kyivind_003.txt",
+      "source_name": "Kyiv Independent",
+      "publish_date": "2026-03-17",
+      "political_lean": "Ukrainian-perspective",
+      "url": "https://kyivindependent.com/russia-unveils-plans-to-resettle-occupied-ukrainian-territories-media-reports/",
+      "topic_tags": [
+        "occupation",
+        "resettlement",
+        "infrastructure",
+        "Donbas",
+        "Mariupol"
+      ],
+      "body_length": 2936,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.205327+00:00"
+    },
+    {
+      "article_id": "kyivind_004",
+      "filename": "kyivind_004.txt",
+      "source_name": "Kyiv Independent",
+      "publish_date": "2025-08-27",
+      "political_lean": "Ukrainian-perspective",
+      "url": "https://kyivindependent.com/its-poison-across-occupied-ukraine-russia-has-caused-a-devastating-water-crisis-it-cannot-fix/",
+      "topic_tags": [
+        "occupation",
+        "water-crisis",
+        "infrastructure",
+        "Crimea",
+        "Kahovka-Dam",
+        "humanitarian"
+      ],
+      "body_length": 7154,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.215534+00:00"
+    },
+    {
+      "article_id": "kyivind_005",
+      "filename": "kyivind_005.txt",
+      "source_name": "Kyiv Independent",
+      "publish_date": "2026-03-23",
+      "political_lean": "Ukrainian-perspective",
+      "url": "https://kyivindependent.com/ukraine-brings-war-back-to-russia-and-russians-begin-to-feel-it/",
+      "topic_tags": [
+        "deep-strikes",
+        "public-opinion",
+        "Russia-domestic",
+        "internet-blackouts",
+        "energy-infrastructure",
+        "drone-strikes"
+      ],
+      "body_length": 7870,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.225169+00:00"
+    },
+    {
+      "article_id": "mostimes_001",
+      "filename": "mostimes_001.txt",
+      "source_name": "The Moscow Times",
+      "publish_date": "2026-03-23",
+      "political_lean": "Russian-independent",
+      "url": "https://www.themoscowtimes.com/2026/03/23/ukraine-strikes-primorsk-port-in-northwestern-russia-damaging-fuel-reservoirs-a92302",
+      "topic_tags": [
+        "deep-strikes",
+        "energy-infrastructure",
+        "oil-exports",
+        "drone-strikes",
+        "Strait-of-Hormuz"
+      ],
+      "body_length": 1872,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.225678+00:00"
+    },
+    {
+      "article_id": "mostimes_002",
+      "filename": "mostimes_002.txt",
+      "source_name": "The Moscow Times",
+      "publish_date": "2026-03-22",
+      "political_lean": "Russian-independent",
+      "url": "https://www.themoscowtimes.com/2026/03/22/us-ukrainian-teams-meet-in-bid-to-revive-talks-on-ukraine-war-a92296",
+      "topic_tags": [
+        "negotiations",
+        "diplomacy",
+        "peace-talks",
+        "Iran"
+      ],
+      "body_length": 1768,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.234494+00:00"
+    },
+    {
+      "article_id": "reuters_001",
+      "filename": "reuters_001.txt",
+      "source_name": "Reuters",
+      "publish_date": "2026-03-16",
+      "political_lean": "western-mainstream",
+      "url": "https://www.reuters.com/world/europe/russia-has-taken-12-settlements-ukraine-first-two-weeks-march-top-general-says-2026-03-16/",
+      "topic_tags": [
+        "territorial-control",
+        "frontline-advances",
+        "negotiations"
+      ],
+      "body_length": 2981,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.235065+00:00"
+    },
+    {
+      "article_id": "reuters_002",
+      "filename": "reuters_002.txt",
+      "source_name": "Reuters",
+      "publish_date": "2026-03-02",
+      "political_lean": "western-mainstream",
+      "url": "https://www.reuters.com/world/europe/ukraines-military-makes-gains-southeast-region-zaporizhzhia-kyiv-says-2026-03-02/",
+      "topic_tags": [
+        "territorial-control",
+        "frontline-advances",
+        "counterattack",
+        "starlink"
+      ],
+      "body_length": 2681,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.235662+00:00"
+    },
+    {
+      "article_id": "reuters_003",
+      "filename": "reuters_003.txt",
+      "source_name": "Reuters",
+      "publish_date": "2026-03-22",
+      "political_lean": "western-mainstream",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-urges-allies-keep-up-pressure-russia-ahead-talks-with-us-2026-03-22/",
+      "topic_tags": [
+        "negotiations",
+        "diplomacy",
+        "sanctions",
+        "elections",
+        "POW-exchange"
+      ],
+      "body_length": 2275,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.236182+00:00"
+    },
+    {
+      "article_id": "reuters_004",
+      "filename": "reuters_004.txt",
+      "source_name": "Reuters",
+      "publish_date": "2024-06-14",
+      "political_lean": "western-mainstream",
+      "url": "https://www.reuters.com/world/europe/major-events-russian-invasion-ukraine-2024-06-14/",
+      "topic_tags": [
+        "timeline",
+        "background",
+        "territorial-control",
+        "counteroffensive",
+        "mobilisation"
+      ],
+      "body_length": 6848,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.245222+00:00"
+    },
+    {
+      "article_id": "scmp_001",
+      "filename": "scmp_001.txt",
+      "source_name": "South China Morning Post",
+      "publish_date": "2026-03-18",
+      "political_lean": "Asia-perspective",
+      "url": "https://www.scmp.com/news/world/europe/article/3346941/zelensky-starmer-urge-continued-support-ukraine-iran-conflict-steals-focus",
+      "topic_tags": [
+        "diplomacy",
+        "Iran",
+        "drones",
+        "UK",
+        "air-defense",
+        "energy-infrastructure",
+        "sanctions"
+      ],
+      "body_length": 5554,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.254129+00:00"
+    },
+    {
+      "article_id": "sw_001",
+      "filename": "sw_001.txt",
+      "source_name": "ISW (Institute for the Study of War)",
+      "publish_date": "2026-03-22",
+      "political_lean": "Western-think-tank",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-march-22-2026/",
+      "topic_tags": [
+        "frontline-advances",
+        "counterattack",
+        "mobilisation",
+        "air-defense",
+        "drone-strikes",
+        "order-of-battle",
+        "NATO",
+        "Belarus"
+      ],
+      "body_length": 7787,
+      "proposition_count": 0,
+      "status": "raw",
+      "date_registered": "2026-03-23T10:39:14.254774+00:00"
+    }
+  ]
+}
