@@ -39,3 +39,13 @@ Tier 2 — Groq (LLM verification):
 - Rate limit: 30 RPM, 14,400 RPD (free tier) — well within limits
 - Sleep: 2 sec between calls → ~36 seconds total for Groq phase
 - Cost: $0 — Groq free tier (llama-3.1-8b-instant)
+
+Phase 5 — Graph Builder
+-------------------------
+- Input: contradiction_pairs.json (~37 pairs for topic_a)
+- NetworkX graph construction: <1 second
+- Louvain community detection: <1 second (fast even for large graphs)
+- PyVis HTML generation: <5 seconds
+- Total time: ~5-10 seconds (near instant)
+- Output: graph_data.json (~55 nodes, ~37 edges) + graph.html (interactive viz)
+- Cost: $0 — all local libraries (NetworkX, PyVis, python-louvain)

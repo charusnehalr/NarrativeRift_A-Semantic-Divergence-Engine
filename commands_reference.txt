@@ -68,3 +68,22 @@ print(f'Total pairs: {len(pairs)} | Groq verified: {tier2} | DeBERTa only: {len(
 
 # Reset and re-run if you change thresholds (file is overwritten automatically)
 uv run python -m src.nli_engine --topic topic_a
+
+
+Phase 5 — Graph Builder
+-------------------------
+# Build contradiction graph from NLI pairs
+# Loads contradiction_pairs.json → builds NetworkX graph → Louvain clustering
+# Saves graph_data.json (for Streamlit) and graph.html (open in browser)
+uv run python -m src.graph_builder --topic topic_a
+
+# Open the interactive graph in browser (do NOT use VSCode preview)
+# File location: data/topic_a/graph.html
+# Right-click → Open With → Chrome or Edge
+
+# Verify graph output
+python -c "
+import json
+data = json.load(open('data/topic_a/graph_data.json'))
+print(f'Nodes: {data[\"total_nodes\"]} | Edges: {data[\"total_edges\"]} | Communities: {data[\"total_communities\"]}')
+"

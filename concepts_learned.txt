@@ -135,6 +135,39 @@ Where used: src/nli_engine.py — seen_pairs set prevents scoring the same pair 
             since proposition A querying B and proposition B querying A would
             both return the same pair without deduplication.
 
+8. Graph-Based Contradiction Representation
+-------------------------------------------
+What: Contradiction pairs are stored as a network graph where propositions are nodes
+      and contradictions are edges. This lets you see patterns across many sources
+      at once — which outlets cluster together, which claims are most disputed, etc.
+
+NetworkX:
+  - Python library for building and analysing graphs
+  - Undirected graph (G.add_node, G.add_edge) — direction doesn't matter for contradictions
+  - Node/edge attributes store all metadata (text, source, confidence, reasoning)
+  - Used here to build the graph structure before handing off to PyVis for rendering
+
+Louvain Community Detection:
+  - Algorithm that groups nodes into "communities" — clusters of closely connected nodes
+  - In this context: a community = a set of propositions that all contradict each other
+    around the same claim (e.g. all disagreements about Russian troop count)
+  - Resolution parameter (config: LOUVAIN_RESOLUTION=1.0) controls cluster granularity:
+    < 1.0 = fewer, bigger clusters | > 1.0 = more, smaller clusters
+  - Output: dict mapping each node → community_id (integer)
+
+PyVis:
+  - Wraps NetworkX graphs into interactive HTML using vis.js under the hood
+  - Node size = degree (how many contradictions a proposition is involved in)
+  - Node colour = news source (so you can see which outlet each claim is from)
+  - Edge label = confidence score (0.0–1.0)
+  - Edge shade = darker red = higher confidence contradiction
+  - Hover tooltip = full proposition text + source + date + Groq reasoning
+  - Output is a self-contained HTML file — open in any browser, no server needed
+
+Where NOT to use PyVis:
+  - Production dashboards (use D3.js or Plotly instead — more control)
+  - Graphs with thousands of nodes (PyVis is slow above ~500 nodes)
+
 2. Lazy Singleton Pattern
 --------------------------
 What: A module-level variable initialized to None, loaded only on first use, then reused.

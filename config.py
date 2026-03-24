@@ -60,14 +60,22 @@ def get_topic_config(topic_key: str) -> dict:
     return cfg
 
 
-# ── Gemini API ─────────────────────────────────────────────────────────────────
+# ── Gemini API (used for chunking only) ────────────────────────────────────────
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 GEMINI_MODEL_NAME = "gemini-2.5-flash"
 GEMINI_RPM_LIMIT = 5           # free tier: 5 requests per minute
 GEMINI_SLEEP_BETWEEN_CALLS = 60 / GEMINI_RPM_LIMIT  # ~4 seconds
 GEMINI_MAX_RETRIES = 3
 GEMINI_TEMPERATURE = 0.1        # low temp for consistent extraction
-GEMINI_NLI_BATCH_SIZE = 5       # pairs per Tier 2 Gemini call
+GEMINI_NLI_BATCH_SIZE = 5       # pairs per Tier 2 batch (kept for reference)
+
+# ── Groq API (used for NLI Tier 2) ────────────────────────────────────────────
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_MODEL_NAME = "llama-3.1-8b-instant"  # free tier: 14,400 RPD, 30 RPM
+GROQ_RPM_LIMIT = 30
+GROQ_SLEEP_BETWEEN_CALLS = 60 / GROQ_RPM_LIMIT  # 2 seconds
+GROQ_MAX_RETRIES = 3
+GROQ_NLI_BATCH_SIZE = 5        # pairs per Tier 2 Groq call
 
 # ── BGE-M3 Embeddings ──────────────────────────────────────────────────────────
 BGE_MODEL_NAME = "BAAI/bge-m3"
@@ -84,9 +92,9 @@ NLI_ENTAILMENT_IDX = 1
 NLI_NEUTRAL_IDX = 2
 
 # Routing thresholds for two-tier system
-NLI_ACCEPT_THRESHOLD = 0.7      # contradiction score > this → accept as contradiction
+NLI_ACCEPT_THRESHOLD = 0.85     # contradiction score > this → accept as contradiction
 NLI_REJECT_THRESHOLD = 0.4      # contradiction score < this → reject (not a contradiction)
-# Between REJECT and ACCEPT thresholds → escalate to Gemini Tier 2
+# Between REJECT and ACCEPT thresholds → escalate to Groq Tier 2
 
 # ── Reranker ──────────────────────────────────────────────────────────────────
 RERANKER_MODEL_NAME = "cross-encoder/ms-marco-MiniLM-L-6-v2"
