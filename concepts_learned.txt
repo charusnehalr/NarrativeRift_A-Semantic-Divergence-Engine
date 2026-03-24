@@ -63,6 +63,21 @@ Where NOT to use:
   - Production at scale (millions of vectors) — use Pinecone, Weaviate, or Qdrant instead
   - When you need distributed/multi-node search
 
+How querying works (why you get text back, not numbers):
+  ChromaDB stores BOTH the vector AND the original text together on upsert:
+    collection.upsert(embeddings=[...], documents=["original text"], ...)
+  When you query:
+    1. Your query text is embedded into a 1024-dim vector
+    2. ChromaDB compares it against all stored vectors using cosine similarity
+    3. It returns the top-K closest matches
+    4. For each match it returns the stored "documents" (original text) + metadata
+  The text is never decoded from the vector — that is mathematically impossible.
+  The vector is only used for FINDING the match. The text was stored alongside it.
+
+  Query flow:
+    "ceasefire negotiations" → [0.12, -0.34, ...] → compare → top-5 matches
+                                                               → return original sentences + scores
+
 Where used: src/vector_store.py — stores all proposition embeddings, queried during
             contradiction detection to find similar propositions across articles
 

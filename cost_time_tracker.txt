@@ -10,8 +10,16 @@ Phase 2 — Proposition Chunking (Gemini)
 
 Phase 3 — Embedding + ChromaDB (BGE-M3)
 -----------------------------------------
+Storing (one-time):
 - ~31 articles x ~50 propositions avg = ~1550 total propositions to embed
 - BGE-M3 on CPU: batch_size=4, ~4GB RAM required
 - Estimated time: ~25-35 minutes for all 1550 propositions (one-time run, results persist to disk)
 - ChromaDB storage: ~6MB on disk for 1550 x 1024-dim float vectors
 - Cost: $0 — BGE-M3 is a local model, ChromaDB is local, no API calls
+
+Retrieving (every query):
+- Query text is embedded first: ~0.5-1 sec per query on CPU (single embed_single() call)
+- ChromaDB similarity search over 1550 vectors: <100ms (HNSW index, very fast even on CPU)
+- Total per query: ~1-2 seconds end-to-end
+- Retrieval happens at pipeline runtime (contradiction detection) — not a one-time cost
+- Cost: $0 — all local, no API calls

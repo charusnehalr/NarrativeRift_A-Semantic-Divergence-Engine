@@ -26,3 +26,20 @@ uv run python -m src.chunker --mode all
 
 # Different topic
 uv run python -m src.chunker --mode all --max 19 --topic topic_b
+
+
+Phase 3 — Embedding + ChromaDB
+--------------------------------
+# Embed a single article and store in ChromaDB
+# Loads propositions JSON → embeds with BGE-M3 → upserts into ChromaDB
+uv run python -m src.vector_store --mode single --article aljazeera_001
+
+# Embed all chunked articles for a topic (skips already-embedded ones)
+uv run python -m src.vector_store --mode all --topic topic_a
+
+# Check stats — how many propositions are stored in ChromaDB for a topic
+uv run python -m src.vector_store --mode stats --topic topic_a
+
+# Semantic query — embed your query text and find the 5 most similar propositions
+# Returns prop_id, cosine similarity score, text, source, and date
+uv run python -m src.vector_store --mode query --topic topic_a --query "ceasefire negotiations"
