@@ -15,8 +15,8 @@
         "elections"
       ],
       "body_length": 2827,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 60,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.082168+00:00"
     },
     {
@@ -28,8 +28,8 @@
       "url": "https://www.aljazeera.com/news/2026/3/11/ukraine-records-first-territorial-gains-since-2023-amid-russian-army-woes",
       "topic_tags": [],
       "body_length": 6203,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 60,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.082646+00:00"
     },
     {
@@ -47,8 +47,8 @@
         "shadow-fleet"
       ],
       "body_length": 3798,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 54,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.083076+00:00"
     },
     {
@@ -67,8 +67,8 @@
         "diplomacy"
       ],
       "body_length": 5716,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 60,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.094571+00:00"
     },
     {
@@ -86,8 +86,8 @@
         "security-guarantees"
       ],
       "body_length": 4178,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 51,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.106354+00:00"
     },
     {
@@ -106,8 +106,8 @@
         "background"
       ],
       "body_length": 4544,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 65,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.117246+00:00"
     },
     {
@@ -127,8 +127,8 @@
         "energy-infrastructure"
       ],
       "body_length": 6942,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 76,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.127123+00:00"
     },
     {
@@ -148,8 +148,8 @@
         "background"
       ],
       "body_length": 7835,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 63,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.135130+00:00"
     },
     {
@@ -168,8 +168,8 @@
         "nuclear-plant"
       ],
       "body_length": 5218,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 80,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.146639+00:00"
     },
     {
@@ -189,8 +189,8 @@
         "China"
       ],
       "body_length": 7120,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 82,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.147198+00:00"
     },
     {
@@ -208,8 +208,8 @@
         "drones"
       ],
       "body_length": 1091,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 26,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.147602+00:00"
     },
     {
@@ -227,8 +227,8 @@
         "energy-infrastructure"
       ],
       "body_length": 3417,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 54,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.156444+00:00"
     },
     {
@@ -246,8 +246,8 @@
         "Iran"
       ],
       "body_length": 2361,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 36,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.164710+00:00"
     },
     {
@@ -265,8 +265,8 @@
         "ceasefire"
       ],
       "body_length": 1944,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 26,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.173904+00:00"
     },
     {
@@ -286,8 +286,8 @@
         "geopolitics"
       ],
       "body_length": 6337,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 39,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.174501+00:00"
     },
     {
@@ -305,8 +305,8 @@
         "opinion"
       ],
       "body_length": 3936,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 53,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.183819+00:00"
     },
     {
@@ -327,8 +327,8 @@
         "Hungary"
       ],
       "body_length": 5807,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 69,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.184395+00:00"
     },
     {
@@ -346,8 +346,8 @@
         "civilian-casualties"
       ],
       "body_length": 8932,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 55,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.184902+00:00"
     },
     {
@@ -367,8 +367,8 @@
         "Iran"
       ],
       "body_length": 6654,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 49,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.195774+00:00"
     },
     {
@@ -386,8 +386,8 @@
         "Mariupol"
       ],
       "body_length": 2936,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 55,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.205327+00:00"
     },
     {
@@ -406,8 +406,8 @@
         "humanitarian"
       ],
       "body_length": 7154,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 59,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.215534+00:00"
     },
     {
@@ -426,8 +426,8 @@
         "drone-strikes"
       ],
       "body_length": 7870,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 60,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.225169+00:00"
     },
     {
@@ -445,8 +445,8 @@
         "Strait-of-Hormuz"
       ],
       "body_length": 1872,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 32,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.225678+00:00"
     },
     {
@@ -463,8 +463,8 @@
         "Iran"
       ],
       "body_length": 1768,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 33,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.234494+00:00"
     },
     {
@@ -480,8 +480,8 @@
         "negotiations"
       ],
       "body_length": 2981,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 44,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.235065+00:00"
     },
     {
@@ -498,8 +498,8 @@
         "starlink"
       ],
       "body_length": 2681,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 37,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.235662+00:00"
     },
     {
@@ -517,8 +517,8 @@
         "POW-exchange"
       ],
       "body_length": 2275,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 45,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.236182+00:00"
     },
     {
@@ -536,8 +536,8 @@
         "mobilisation"
       ],
       "body_length": 6848,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 48,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.245222+00:00"
     },
     {
@@ -557,8 +557,8 @@
         "sanctions"
       ],
       "body_length": 5554,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 54,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.254129+00:00"
     },
     {
@@ -579,8 +579,8 @@
         "Belarus"
       ],
       "body_length": 7787,
-      "proposition_count": 0,
-      "status": "raw",
+      "proposition_count": 86,
+      "status": "chunked",
       "date_registered": "2026-03-23T10:39:14.254774+00:00"
     }
   ]

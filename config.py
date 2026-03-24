@@ -62,8 +62,8 @@ def get_topic_config(topic_key: str) -> dict:
 
 # ── Gemini API ─────────────────────────────────────────────────────────────────
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GEMINI_MODEL_NAME = "gemini-2.0-flash"
-GEMINI_RPM_LIMIT = 15           # free tier: 15 requests per minute
+GEMINI_MODEL_NAME = "gemini-2.5-flash"
+GEMINI_RPM_LIMIT = 5           # free tier: 5 requests per minute
 GEMINI_SLEEP_BETWEEN_CALLS = 60 / GEMINI_RPM_LIMIT  # ~4 seconds
 GEMINI_MAX_RETRIES = 3
 GEMINI_TEMPERATURE = 0.1        # low temp for consistent extraction

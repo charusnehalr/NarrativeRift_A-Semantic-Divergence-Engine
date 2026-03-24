@@ -1,6 +1,7 @@
 """
 chunker.py — Proposition-level chunking via Gemini Flash.
 
+This is atomic propositions
 For each article, calls Gemini to extract atomic, self-contained factual
 propositions (Dense X Retrieval style). Saves results to per-article JSON
 and updates metadata status: raw → chunked.
@@ -11,8 +12,8 @@ import logging
 import time
 from pathlib import Path
 
-import google.generativeai as genai
-from google.generativeai import GenerationConfig
+from google import genai
+from google.genai import types
 from tenacity import (
     retry,
     retry_if_exception_type,
@@ -32,26 +33,19 @@ from src.utils import (
 logger = logging.getLogger("sde.chunker")
 
 # ── Gemini client (initialised lazily) ────────────────────────────────────────
-_gemini_model = None
+_gemini_client = None
 
 
-def _get_gemini_model():
-    global _gemini_model
-    if _gemini_model is None:
+def _get_gemini_client():
+    global _gemini_client
+    if _gemini_client is None:
         if not config.GOOGLE_API_KEY:
             raise RuntimeError(
                 "GOOGLE_API_KEY is not set. Copy .env.template to .env and add your key."
             )
-        genai.configure(api_key=config.GOOGLE_API_KEY)
-        _gemini_model = genai.GenerativeModel(
-            model_name=config.GEMINI_MODEL_NAME,
-            generation_config=GenerationConfig(
-                response_mime_type="application/json",
-                temperature=config.GEMINI_TEMPERATURE,
-            ),
-        )
-        logger.info("Gemini model '%s' initialised", config.GEMINI_MODEL_NAME)
-    return _gemini_model
+        _gemini_client = genai.Client(api_key=config.GOOGLE_API_KEY)
+        logger.info("Gemini client initialised (model: %s)", config.GEMINI_MODEL_NAME)
+    return _gemini_client
 
 
 # ── Prompt ────────────────────────────────────────────────────────────────────
@@ -99,8 +93,15 @@ def build_chunking_prompt(article_text: str) -> str:
 def _call_gemini_raw(prompt: str) -> str:
     """Call Gemini and return the raw text response. Retries on any error."""
     try:
-        model = _get_gemini_model()
-        response = model.generate_content(prompt)
+        client = _get_gemini_client()
+        response = client.models.generate_content(
+            model=config.GEMINI_MODEL_NAME,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                temperature=config.GEMINI_TEMPERATURE,
+            ),
+        )
         # Rate-limit: sleep to stay under 15 RPM
         time.sleep(config.GEMINI_SLEEP_BETWEEN_CALLS)
         return response.text
@@ -240,7 +241,7 @@ def chunk_article(topic_key: str, article_id: str) -> list[dict]:
 
 # ── Batch entry point ─────────────────────────────────────────────────────────
 
-def chunk_all_articles(topic_key: str, skip_existing: bool = True) -> dict:
+def chunk_all_articles(topic_key: str, skip_existing: bool = True, max_articles: int = None) -> dict:
     """
     Chunk all articles with status 'raw' for a topic.
 
@@ -263,6 +264,9 @@ def chunk_all_articles(topic_key: str, skip_existing: bool = True) -> dict:
         logger.info("No articles to chunk for %s (all up-to-date or errored)", topic_key)
         return {}
 
+    if max_articles:
+        to_process = to_process[:max_articles]
+
     logger.info("Chunking %d articles for %s...", len(to_process), topic_key)
     results = {}
     for article in to_process:
@@ -280,3 +284,36 @@ def chunk_all_articles(topic_key: str, skip_existing: bool = True) -> dict:
         {k: v for k, v in results.items()},
     )
     return results
+
+
+# ── Quick test ────────────────────────────────────────────────────────────────
+# Run from project root:
+#   python src/chunker.py
+
+if __name__ == "__main__":
+    import argparse
+    from src.utils import setup_logging
+    setup_logging()
+
+    parser = argparse.ArgumentParser(description="Chunk articles into propositions")
+    parser.add_argument("--mode", choices=["single", "all"], required=True, help="single: one article | all: batch")
+    parser.add_argument("--article", default="aljazeera_001", help="article_id for single mode")
+    parser.add_argument("--max", type=int, default=None, help="max articles to process in all mode")
+    parser.add_argument("--topic", default="topic_a", help="topic key")
+    args = parser.parse_args()
+
+    if args.mode == "single":
+        print(f"\nChunking '{args.article}' ...\n")
+        props = chunk_article(args.topic, args.article)
+        print(f"\n--- {len(props)} propositions extracted ---\n")
+        for p in props:
+            print(f"[{p['prop_id']}] ({p['topic_hint']})")
+            print(f"  {p['text']}")
+            print()
+
+    elif args.mode == "all":
+        print(f"\nChunking articles for '{args.topic}' (max={args.max}) ...\n")
+        results = chunk_all_articles(args.topic, skip_existing=True, max_articles=args.max)
+        print("\n--- Results ---")
+        for article_id, result in results.items():
+            print(f"  {article_id}: {result}")
