@@ -30,7 +30,7 @@ logger = logging.getLogger("sde.nli_engine")
 # ── Singleton models ───────────────────────────────────────────────────────────
 _reranker = None
 _deberta_nli = None
-_gemini_model = None
+_groq_client = None
 
 
 def load_reranker():
@@ -56,23 +56,16 @@ def load_deberta_nli():
     return _deberta_nli
 
 
-def _get_gemini_model():
-    """Lazy-load Gemini model for Tier 2 NLI."""
-    global _gemini_model
-    if _gemini_model is None:
-        import google.generativeai as genai
-        from google.generativeai import GenerationConfig
-        if not config.GOOGLE_API_KEY:
-            raise RuntimeError("GOOGLE_API_KEY not set.")
-        genai.configure(api_key=config.GOOGLE_API_KEY)
-        _gemini_model = genai.GenerativeModel(
-            model_name=config.GEMINI_MODEL_NAME,
-            generation_config=GenerationConfig(
-                response_mime_type="application/json",
-                temperature=0.1,
-            ),
-        )
-    return _gemini_model
+def _get_groq_client():
+    """Lazy-load Groq client for Tier 2 NLI."""
+    global _groq_client
+    if _groq_client is None:
+        from groq import Groq
+        if not config.GROQ_API_KEY:
+            raise RuntimeError("GROQ_API_KEY not set. Add it to .env.")
+        _groq_client = Groq(api_key=config.GROQ_API_KEY)
+        logger.info("Groq client initialised for NLI Tier 2 (model: %s)", config.GROQ_MODEL_NAME)
+    return _groq_client
 
 
 # ── Reranker ──────────────────────────────────────────────────────────────────
@@ -201,33 +194,44 @@ def build_gemini_nli_prompt(pairs: list[dict]) -> str:
 @retry(
     retry=retry_if_exception_type(Exception),
     wait=wait_exponential(multiplier=1, min=4, max=60),
-    stop=stop_after_attempt(config.GEMINI_MAX_RETRIES),
+    stop=stop_after_attempt(config.GROQ_MAX_RETRIES),
     reraise=True,
 )
-def _call_gemini_nli_raw(prompt: str) -> str:
-    model = _get_gemini_model()
-    response = model.generate_content(prompt)
-    time.sleep(config.GEMINI_SLEEP_BETWEEN_CALLS)
-    return response.text
+def _call_groq_nli_raw(prompt: str) -> str:
+    client = _get_groq_client()
+    response = client.chat.completions.create(
+        model=config.GROQ_MODEL_NAME,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=config.GEMINI_TEMPERATURE,
+    )
+    time.sleep(config.GROQ_SLEEP_BETWEEN_CALLS)
+    return response.choices[0].message.content
 
 
-def call_gemini_nli(pairs: list[dict]) -> list[dict]:
+def call_groq_nli(pairs: list[dict]) -> list[dict]:
     """
-    Call Gemini for batched NLI classification (Tier 2).
+    Call Groq for batched NLI classification (Tier 2).
     Returns list of verdict dicts with pair_index, verdict, confidence, reasoning.
     """
     prompt = build_gemini_nli_prompt(pairs)
-    raw = _call_gemini_nli_raw(prompt)
+    raw = _call_groq_nli_raw(prompt)
+    import re
+    # Strip markdown code fences if present
+    raw = re.sub(r"```(?:json)?\s*", "", raw).strip().rstrip("`").strip()
     try:
-        verdicts = json.loads(raw)
+        parsed = json.loads(raw)
+        if isinstance(parsed, list):
+            verdicts = parsed
+        elif isinstance(parsed, dict):
+            verdicts = next((v for v in parsed.values() if isinstance(v, list)), [])
+        else:
+            verdicts = []
     except json.JSONDecodeError:
-        import re
         match = re.search(r"\[.*\]", raw, re.DOTALL)
         if match:
             verdicts = json.loads(match.group(0))
         else:
-            logger.warning("Gemini NLI returned non-JSON: %s", raw[:300])
-            # Return neutral verdict for all pairs on parse failure
+            logger.warning("Groq NLI returned non-JSON: %s", raw[:300])
             verdicts = [
                 {"pair_index": p["pair_index"], "verdict": "UNRELATED",
                  "confidence": 0.5, "reasoning": "Parse error — defaulting to UNRELATED"}
@@ -375,11 +379,8 @@ def detect_contradictions_for_topic(topic_key: str) -> list[dict]:
                 "date_b": cand_meta.get("publish_date", article_lookup.get(cand_article_id, {}).get("publish_date", "")),
             }
 
-            if tier_decision == "accept":
-                partial["final_verdict"] = "contradiction"
-                partial["final_confidence"] = nli_result["contradiction"]
-                all_results.append(partial)
-            elif tier_decision == "tier2":
+            if tier_decision in ("accept", "tier2"):
+                # All non-rejected pairs go to Groq for temporal/nuance verification
                 tier2_queue.append({
                     "pair_index": len(tier2_queue),
                     "prop_a": prop_text,
@@ -393,13 +394,13 @@ def detect_contradictions_for_topic(topic_key: str) -> list[dict]:
             # tier_decision == 'reject' → discard
 
         if idx % 50 == 0:
-            logger.info("Progress: %d/%d propositions processed, %d pairs found so far",
-                        idx + 1, len(all_props), len(all_results))
+            logger.info("Progress: %d/%d propositions processed, %d queued for Groq so far",
+                        idx + 1, len(all_props), len(tier2_queue))
 
     # Process Tier 2 queue in batches
     if tier2_queue:
-        logger.info("Running Gemini Tier 2 on %d borderline pairs...", len(tier2_queue))
-        batch_size = config.GEMINI_NLI_BATCH_SIZE
+        logger.info("Running Groq Tier 2 on %d pairs for temporal/nuance verification...", len(tier2_queue))
+        batch_size = config.GROQ_NLI_BATCH_SIZE
         for batch_start in range(0, len(tier2_queue), batch_size):
             batch = tier2_queue[batch_start: batch_start + batch_size]
             # Re-index pair_index within this batch
@@ -407,9 +408,9 @@ def detect_contradictions_for_topic(topic_key: str) -> list[dict]:
                 item["pair_index"] = i
 
             try:
-                verdicts = call_gemini_nli(batch)
+                verdicts = call_groq_nli(batch)
             except Exception as exc:
-                logger.error("Gemini Tier 2 batch failed: %s", exc)
+                logger.error("Groq Tier 2 batch failed: %s", exc)
                 verdicts = []
 
             verdict_map = {v["pair_index"]: v for v in verdicts}
@@ -443,3 +444,29 @@ def detect_contradictions_for_topic(topic_key: str) -> list[dict]:
 
     save_contradiction_pairs(topic_key, all_results)
     return all_results
+
+
+# ── Quick test ────────────────────────────────────────────────────────────────
+# Run from project root:
+#   uv run python -m src.nli_engine --topic topic_a
+
+if __name__ == "__main__":
+    import argparse
+    from src.utils import setup_logging
+    setup_logging()
+
+    parser = argparse.ArgumentParser(description="Run contradiction detection pipeline")
+    parser.add_argument("--topic", default="topic_a", help="topic key")
+    args = parser.parse_args()
+
+    print(f"\nRunning contradiction detection for '{args.topic}' ...\n")
+    results = detect_contradictions_for_topic(args.topic)
+    print(f"\n--- Done ---")
+    print(f"  Contradictions found : {len(results)}")
+    if results:
+        print(f"\nSample (first 3):")
+        for r in results[:3]:
+            print(f"\n  [{r['pair_id']}]")
+            print(f"  A ({r['source_a']}): {r['prop_a_text'][:80]}")
+            print(f"  B ({r['source_b']}): {r['prop_b_text'][:80]}")
+            print(f"  verdict={r['final_verdict']} | confidence={r['final_confidence']}")
