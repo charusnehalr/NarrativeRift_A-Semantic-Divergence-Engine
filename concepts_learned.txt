@@ -1,0 +1,76 @@
+Semantic Divergence Engine — Concepts Learned
+==============================================
+
+1. Propositional Chunking
+--------------------------
+What: Breaking a document into atomic, self-contained factual sentences (one claim each).
+      Unlike semantic chunking (splits by token/sentence count), this extracts meaning-units
+      that can stand alone without context — pronouns replaced with proper names.
+Where used: src/chunker.py — Gemini extracts propositions from each article.
+            Output stored in data/topic_a/propositions/props_{article_id}.json
+
+3. BGE-M3 Embeddings
+---------------------
+What: A multilingual embedding model by BAAI that produces dense vectors (1024-dim).
+      Converts text into a list of numbers that capture semantic meaning — similar meaning
+      = similar numbers. Used to find propositions that talk about the same thing across
+      different articles, even if worded differently.
+
+Why good here:
+  - Multilingual — handles articles from RT (Russian framing), Al Jazeera (Arabic context),
+    SCMP (Chinese perspective) that may use different vocabulary for the same event
+  - Dense vectors work well with ChromaDB's cosine similarity search
+  - Strong performance on short factual sentences (propositions are short)
+
+Where to use:
+  - Semantic similarity search across documents
+  - Finding paraphrases or related claims from different sources
+  - Any task where meaning matters more than exact words
+
+Where NOT to use:
+  - Exact keyword search (use BM25/full-text search instead)
+  - When you need explainability (vectors are black boxes)
+  - Real-time applications on CPU with many documents — BGE-M3 is ~4GB RAM and slow on CPU
+
+Where used: src/embedder.py — embeds all propositions, returns list[list[float]] for ChromaDB
+            src/vector_store.py — uses embed_single() to embed query text before similarity search
+
+
+4. ChromaDB
+------------
+What: A local vector database that stores embeddings and lets you query by similarity.
+      Think of it like a regular database, but instead of searching by exact value,
+      you search by "closest meaning" using cosine similarity on the stored vectors.
+
+Why good here:
+  - Zero setup — runs locally, no server, no Docker, just a folder on disk
+  - Persists to disk (PersistentClient) so embeddings survive restarts
+  - Supports metadata filtering (e.g. query only propositions from a specific source)
+  - Free, open source
+
+Key rules learned (gotchas):
+  - hnsw:space must be set to "cosine" at collection creation — cannot change later
+  - All metadata values must be flat scalars (str/int/float/bool) — no lists or dicts
+  - On Windows, paths must use forward slashes (Path.as_posix()) — backslashes break SQLite
+  - Two separate PersistentClient instances for topic_a and topic_b — never share clients
+  - Use upsert (not add) so re-runs are idempotent (safe to run twice)
+
+Where to use:
+  - Local similarity search without needing a cloud service
+  - Prototypes and portfolio projects where simplicity matters
+
+Where NOT to use:
+  - Production at scale (millions of vectors) — use Pinecone, Weaviate, or Qdrant instead
+  - When you need distributed/multi-node search
+
+Where used: src/vector_store.py — stores all proposition embeddings, queried during
+            contradiction detection to find similar propositions across articles
+
+
+2. Lazy Singleton Pattern
+--------------------------
+What: A module-level variable initialized to None, loaded only on first use, then reused.
+      Avoids loading heavy models at import time. Fails at the right time (when actually called).
+Where used: src/chunker.py — _gemini_model = None, loaded in _get_gemini_model()
+            src/embedder.py — _bge_model = None, loaded in load_bge_model()
+            src/nli_engine.py — reranker and DeBERTa models use the same pattern

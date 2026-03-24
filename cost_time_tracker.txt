@@ -1,0 +1,17 @@
+Semantic Divergence Engine — Cost & Time Tracker
+=================================================
+
+Phase 2 — Proposition Chunking (Gemini)
+----------------------------------------
+- ~31 Gemini API calls (one per article)
+- ~4 seconds sleep between each = ~2 minutes total
+- Token usage: ~2000 tokens/article x 31 = ~62K tokens — well within 1M/day free tier
+- Cost: $0 — all on Gemini free tier
+
+Phase 3 — Embedding + ChromaDB (BGE-M3)
+-----------------------------------------
+- ~31 articles x ~50 propositions avg = ~1550 total propositions to embed
+- BGE-M3 on CPU: batch_size=4, ~4GB RAM required
+- Estimated time: ~25-35 minutes for all 1550 propositions (one-time run, results persist to disk)
+- ChromaDB storage: ~6MB on disk for 1550 x 1024-dim float vectors
+- Cost: $0 — BGE-M3 is a local model, ChromaDB is local, no API calls
