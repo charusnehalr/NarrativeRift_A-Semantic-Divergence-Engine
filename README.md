@@ -64,13 +64,13 @@ Articles (raw text)
 <!-- Add screenshots here after running the app -->
 <!-- Suggested: overview metrics, contradiction graph, browse pairs section -->
 
-| Dashboard Overview | Contradiction Graph |
-|---|---|
-| ![Overview](docs/screenshots/overview.png) | ![Graph](docs/screenshots/graph.png) |
+<img width="1818" height="910" alt="image" src="https://github.com/user-attachments/assets/3a493ff9-479d-4d4e-92ad-8a27f3044f68" />
+<img width="1794" height="778" alt="image" src="https://github.com/user-attachments/assets/47b48e38-7ab4-45fa-9962-dd03c626196d" />
+<img width="1828" height="901" alt="image" src="https://github.com/user-attachments/assets/34576e5a-da17-4bf0-9ce2-e9a21097d452" />
+<img width="1791" height="721" alt="image" src="https://github.com/user-attachments/assets/ce1d4f4e-226e-456c-a81f-1f5131b42d2a" />
+<img width="1800" height="881" alt="image" src="https://github.com/user-attachments/assets/727e1924-4a42-48f6-86f3-7a33dbf0bc11" />
+<img width="1792" height="882" alt="image" src="https://github.com/user-attachments/assets/d7c84cec-6697-44bc-a37e-365f62761b03" />
 
-| Browse Pairs | Source Analytics |
-|---|---|
-| ![Pairs](docs/screenshots/pairs.png) | ![Analytics](docs/screenshots/analytics.png) |
 
 ---
 
