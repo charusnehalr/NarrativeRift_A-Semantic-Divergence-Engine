@@ -1,0 +1,28 @@
+NarrativeRift — Commands Reference
+====================================
+
+Setup
+------
+# Create virtual environment
+uv venv narrativerift
+
+# Install dependencies
+uv pip install -r requirements.txt --python narrativerift/Scripts/python.exe
+
+# Activate virtual environment
+narrativerift\Scripts\activate
+
+
+Phase 2 — Chunking
+-------------------
+# Single article test
+uv run python -m src.chunker --mode single --article aljazeera_001
+
+# Batch with limit (use when daily quota is limited)
+uv run python -m src.chunker --mode all --max 19
+
+# Batch all articles (no limit)
+uv run python -m src.chunker --mode all
+
+# Different topic
+uv run python -m src.chunker --mode all --max 19 --topic topic_b
