@@ -1,0 +1,574 @@
+{
+  "article_id": "bbc_002",
+  "source_name": "BBC",
+  "total_propositions": 63,
+  "propositions": [
+    {
+      "prop_id": "bbc_002_prop_000",
+      "text": "The war in Ukraine is in its fifth year.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine war duration",
+      "source_sentence": "The war in Ukraine is now in its fifth year.",
+      "prop_index": 0,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_001",
+      "text": "Over the past few months, Russian forces have slowly expanded the amount of territory Russian forces control.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian territorial expansion",
+      "source_sentence": "Over the past few months, Russian forces have slowly expanded the amount of territory they control, mostly in the east of Ukraine, and have continued their barrage of air strikes on Kyiv and other cities.",
+      "prop_index": 1,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_002",
+      "text": "Russian forces have mostly expanded territory in the east of Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian expansion location",
+      "source_sentence": "Over the past few months, Russian forces have slowly expanded the amount of territory they control, mostly in the east of Ukraine, and have continued their barrage of air strikes on Kyiv and other cities.",
+      "prop_index": 2,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_003",
+      "text": "Russian forces have continued their barrage of air strikes on Kyiv and other cities.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian air strikes",
+      "source_sentence": "Over the past few months, Russian forces have slowly expanded the amount of territory they control, mostly in the east of Ukraine, and have continued their barrage of air strikes on Kyiv and other cities.",
+      "prop_index": 3,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_004",
+      "text": "Ukrainian President Volodymyr Zelensky stated that some 55,000 Ukrainian soldiers have been killed.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian soldier casualties",
+      "source_sentence": "Some 55,000 Ukrainian soldiers have been killed, according to Ukrainian President Volodymyr Zelensky, while the BBC has confirmed the names of almost 160,000 people killed fighting on Russia's side.",
+      "prop_index": 4,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_005",
+      "text": "The BBC has confirmed the names of almost 160,000 people killed fighting on Russia's side.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian side casualties",
+      "source_sentence": "Some 55,000 Ukrainian soldiers have been killed, according to Ukrainian President Volodymyr Zelensky, while the BBC has confirmed the names of almost 160,000 people killed fighting on Russia's side.",
+      "prop_index": 5,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_006",
+      "text": "Analysts at the US-based Institute for the Study of War (ISW) say Russia took about 4,700 sq km of territory in 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian territorial gains 2025",
+      "source_sentence": "Analysts at the US-based Institute for the Study of War (ISW), say Russia took about 4,700 sq km (1,800 sq miles) of territory in 2025 - an area about twice the size of the city of Moscow - although Russia claims to have taken 6,000 sq km.",
+      "prop_index": 6,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_007",
+      "text": "The territory Russia took in 2025 is an area about twice the size of the city of Moscow.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian gains comparison",
+      "source_sentence": "Analysts at the US-based Institute for the Study of War (ISW), say Russia took about 4,700 sq km (1,800 sq miles) of territory in 2025 - an area about twice the size of the city of Moscow - although Russia claims to have taken 6,000 sq km.",
+      "prop_index": 7,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_008",
+      "text": "Russia claims to have taken 6,000 sq km of territory in 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's territorial claims",
+      "source_sentence": "Analysts at the US-based Institute for the Study of War (ISW), say Russia took about 4,700 sq km (1,800 sq miles) of territory in 2025 - an area about twice the size of the city of Moscow - although Russia claims to have taken 6,000 sq km.",
+      "prop_index": 8,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_009",
+      "text": "In eastern Ukraine, Moscow's war machine has been churning mile by mile through the fields of the Luhansk and Donetsk regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian advances Donbas",
+      "source_sentence": "In eastern Ukraine, Moscow's war machine has been churning mile by mile through the wide open fields of the Luhansk and Donetsk regions - also known as the Donbas - surrounding and overwhelming villages and towns.",
+      "prop_index": 9,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_010",
+      "text": "The Luhansk and Donetsk regions are also known as the Donbas.",
+      "is_factual_claim": true,
+      "topic_hint": "Donbas region definition",
+      "source_sentence": "In eastern Ukraine, Moscow's war machine has been churning mile by mile through the wide open fields of the Luhansk and Donetsk regions - also known as the Donbas - surrounding and overwhelming villages and towns.",
+      "prop_index": 10,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_011",
+      "text": "Russia has been trying to gain full control of the Luhansk, Donetsk, Zaporizhzhia, and Kherson regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia seeks regional control",
+      "source_sentence": "It has been trying to gain full control of the area along with two more regions to the west - Zaporizhzhia and Kherson.",
+      "prop_index": 11,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_012",
+      "text": "Shortly after the invasion, Russia held referendums to try to annexe these regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia annexation referendums",
+      "source_sentence": "Shortly after the invasion, Russia held referendums to try to annexe all these regions - in the same way it had annexed Crimea in 2014 - but it has never had them under full control.",
+      "prop_index": 12,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_013",
+      "text": "Russia annexed Crimea in 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia annexed Crimea",
+      "source_sentence": "Shortly after the invasion, Russia held referendums to try to annexe all these regions - in the same way it had annexed Crimea in 2014 - but it has never had them under full control.",
+      "prop_index": 13,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_014",
+      "text": "Russia has never had the Luhansk, Donetsk, Zaporizhzhia, and Kherson regions under full control.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia lacks full control",
+      "source_sentence": "Shortly after the invasion, Russia held referendums to try to annexe all these regions - in the same way it had annexed Crimea in 2014 - but it has never had them under full control.",
+      "prop_index": 14,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_015",
+      "text": "There is some evidence that Elon Musk's decision to deny Russian forces access to his Starlink satellite-based internet service at the start of February has given Ukraine an advantage.",
+      "is_factual_claim": true,
+      "topic_hint": "Starlink denial Ukraine advantage",
+      "source_sentence": "There is some evidence that Elon Musk's decision to deny Russian forces access to his Starlink satellite-based internet service at the start of February has given Ukraine an advantage.",
+      "prop_index": 15,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_016",
+      "text": "Ukraine requested the Starlink denial as evidence grew that Starlink was enabling Russian forces to mount increasingly accurate attacks.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine requested Starlink denial",
+      "source_sentence": "Ukraine requested the move as evidence grew that Starlink was enabling Russian forces to mount increasingly accurate attacks, including multiple instances of units being attached to drones, allowing operators to use real-time video links to guide drones on to targets.",
+      "prop_index": 16,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_017",
+      "text": "Starlink was enabling Russian forces to attach units to drones, allowing operators to use real-time video links to guide drones on to targets.",
+      "is_factual_claim": true,
+      "topic_hint": "Starlink aided Russian drones",
+      "source_sentence": "Ukraine requested the move as evidence grew that Starlink was enabling Russian forces to mount increasingly accurate attacks, including multiple instances of units being attached to drones, allowing operators to use real-time video links to guide drones on to targets.",
+      "prop_index": 17,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_018",
+      "text": "In some areas of the long front line, especially east of the city of Zaporizhzhia, Russian forces appear to have been forced to retreat.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian forces retreat",
+      "source_sentence": "In some areas of the long front line, especially east of the city of Zaporizhzhia, Russian forces appear to have been forced to retreat.",
+      "prop_index": 18,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_019",
+      "text": "A US-backed peace plan was unveiled in November.",
+      "is_factual_claim": true,
+      "topic_hint": "US-backed peace plan",
+      "source_sentence": "It comes after a US-backed peace plan unveiled in November, suggested Ukraine could cede control of all of Luhansk, Donetsk and Crimea, along with the areas of Zaporizhzhia and Kherson that Russia currently occupies, to Moscow.",
+      "prop_index": 19,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_020",
+      "text": "The US-backed peace plan suggested Ukraine could cede control of all of Luhansk, Donetsk and Crimea to Moscow.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace plan territorial cession",
+      "source_sentence": "It comes after a US-backed peace plan unveiled in November, suggested Ukraine could cede control of all of Luhansk, Donetsk and Crimea, along with the areas of Zaporizhzhia and Kherson that Russia currently occupies, to Moscow.",
+      "prop_index": 20,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_021",
+      "text": "The US-backed peace plan suggested Ukraine could cede control of the areas of Zaporizhzhia and Kherson that Russia currently occupies to Moscow.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace plan occupied territories",
+      "source_sentence": "It comes after a US-backed peace plan unveiled in November, suggested Ukraine could cede control of all of Luhansk, Donetsk and Crimea, along with the areas of Zaporizhzhia and Kherson that Russia currently occupies, to Moscow.",
+      "prop_index": 21,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_022",
+      "text": "Under the US-backed peace plan, Ukrainian forces would have had to withdraw from parts of Donetsk they still hold.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace plan Ukrainian withdrawal",
+      "source_sentence": "Ukrainian forces would have had to withdraw from parts of Donetsk they still hold and this would become a demilitarised area under de facto Russian control.",
+      "prop_index": 22,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_023",
+      "text": "Under the US-backed peace plan, parts of Donetsk would become a demilitarised area under de facto Russian control.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace plan Donetsk demilitarization",
+      "source_sentence": "Ukrainian forces would have had to withdraw from parts of Donetsk they still hold and this would become a demilitarised area under de facto Russian control.",
+      "prop_index": 23,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_024",
+      "text": "Under the US-backed peace plan, Russian forces would withdraw from the small areas of Ukraine they currently occupy outside Luhansk, Donetsk, Crimea, Zaporizhzhia, and Kherson.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace plan Russian withdrawal",
+      "source_sentence": "Russian forces would withdraw from the small areas of Ukraine they currently occupy outside those regions.",
+      "prop_index": 24,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_025",
+      "text": "Ukrainian President Volodymyr Zelensky has consistently said Ukraine will not hand over the Donbas in exchange for peace.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky Donbas stance",
+      "source_sentence": "Zelensky has consistently said Ukraine will not hand over the Donbas in exchange for peace, saying such a concession could be used as a springboard for future attacks by Russia.",
+      "prop_index": 25,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_026",
+      "text": "Ukrainian President Volodymyr Zelensky said such a concession could be used as a springboard for future attacks by Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky concession warning",
+      "source_sentence": "Zelensky has consistently said Ukraine will not hand over the Donbas in exchange for peace, saying such a concession could be used as a springboard for future attacks by Russia.",
+      "prop_index": 26,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_027",
+      "text": "A recent report by the ISW describes a \"fortress belt\" running 50km through western Donetsk.",
+      "is_factual_claim": true,
+      "topic_hint": "ISW fortress belt report",
+      "source_sentence": "A recent report by the ISW describes a \"fortress belt\" running 50km (31 miles) through western Donetsk.",
+      "prop_index": 27,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_028",
+      "text": "Ukraine has spent the last 11 years reinforcing the fortress belt and establishing significant defence industrial and defensive infrastructure.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine defense infrastructure",
+      "source_sentence": "\"Ukraine has spent the last 11 years pouring time, money, and effort into reinforcing the fortress belt and establishing significant defence industrial and defensive infrastructure,\" it writes.",
+      "prop_index": 28,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_029",
+      "text": "A Russian summer offensive near the eastern town of Pokrovsk did make rapid advances just north of the town.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian offensive Pokrovsk",
+      "source_sentence": "A Russian summer offensive near the eastern town of Pokrovsk did make rapid advances just north of the town and Russia has recently made advances in the town itself and to the east of nearby Kostyantynivka.",
+      "prop_index": 29,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_030",
+      "text": "Russia has recently made advances in the town of Pokrovsk itself and to the east of nearby Kostyantynivka.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian advances Pokrovsk",
+      "source_sentence": "A Russian summer offensive near the eastern town of Pokrovsk did make rapid advances just north of the town and Russia has recently made advances in the town itself and to the east of nearby Kostyantynivka.",
+      "prop_index": 30,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_031",
+      "text": "Pokrovsk was once a key logistics hub for Ukraine's military.",
+      "is_factual_claim": true,
+      "topic_hint": "Pokrovsk logistics hub",
+      "source_sentence": "The town, once a key logistics hub for Ukraine's military, is already in ruins.",
+      "prop_index": 31,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_032",
+      "text": "Pokrovsk is already in ruins.",
+      "is_factual_claim": true,
+      "topic_hint": "Pokrovsk ruins",
+      "source_sentence": "The town, once a key logistics hub for Ukraine's military, is already in ruins.",
+      "prop_index": 32,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_033",
+      "text": "Russian officials previously claimed to have captured Pokrovsk.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian claim Pokrovsk capture",
+      "source_sentence": "Russian officials previously claimed to have captured Pokrovsk, known in Russian as Krasnoarmeysk, which includes a major road and railway junction that used to connect the upper parts of the Donetsk region with key cities to the west, such as Dnipro.",
+      "prop_index": 33,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_034",
+      "text": "Pokrovsk includes a major road and railway junction that used to connect the upper parts of the Donetsk region with key cities to the west.",
+      "is_factual_claim": true,
+      "topic_hint": "Pokrovsk transport junction",
+      "source_sentence": "Russian officials previously claimed to have captured Pokrovsk, known in Russian as Krasnoarmeysk, which includes a major road and railway junction that used to connect the upper parts of the Donetsk region with key cities to the west, such as Dnipro.",
+      "prop_index": 34,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_035",
+      "text": "Ukraine says it still holds northern parts of Pokrovsk.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine holds Pokrovsk",
+      "source_sentence": "But Ukraine says it still holds northern parts of the town.",
+      "prop_index": 35,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_036",
+      "text": "The fall of Pokrovsk would be Russia's biggest battlefield victory since it took the city of Avdiivka about 40km to the east in early 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "Pokrovsk fall significance",
+      "source_sentence": "Its fall would be Russia's biggest battlefield victory since it took the city of Avdiivka about 40km (25 miles) to the east in early 2024 and could give Moscow a platform to drive north towards the two biggest remaining Ukrainian-controlled cities in the Donetsk region, Kramatorsk and Sloviansk.",
+      "prop_index": 36,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_037",
+      "text": "The fall of Pokrovsk could give Moscow a platform to drive north towards Kramatorsk and Sloviansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Pokrovsk fall strategic",
+      "source_sentence": "Its fall would be Russia's biggest battlefield victory since it took the city of Avdiivka about 40km (25 miles) to the east in early 2024 and could give Moscow a platform to drive north towards the two biggest remaining Ukrainian-controlled cities in the Donetsk region, Kramatorsk and Sloviansk.",
+      "prop_index": 37,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_038",
+      "text": "Kramatorsk and Sloviansk are the two biggest remaining Ukrainian-controlled cities in the Donetsk region.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian-controlled cities",
+      "source_sentence": "Its fall would be Russia's biggest battlefield victory since it took the city of Avdiivka about 40km (25 miles) to the east in early 2024 and could give Moscow a platform to drive north towards the two biggest remaining Ukrainian-controlled cities in the Donetsk region, Kramatorsk and Sloviansk.",
+      "prop_index": 38,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_039",
+      "text": "Ukraine is losing ground.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine losing ground",
+      "source_sentence": "Ukraine is losing ground, but the ISW notes Russia has been trying to take Pokrovsk - a town of about 23 sq km - for nearly two years and that the cities in the fortress belt are \"significantly larger\".",
+      "prop_index": 39,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_040",
+      "text": "The ISW notes Russia has been trying to take Pokrovsk for nearly two years.",
+      "is_factual_claim": true,
+      "topic_hint": "ISW Russia Pokrovsk efforts",
+      "source_sentence": "Ukraine is losing ground, but the ISW notes Russia has been trying to take Pokrovsk - a town of about 23 sq km - for nearly two years and that the cities in the fortress belt are \"significantly larger\".",
+      "prop_index": 40,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_041",
+      "text": "Pokrovsk is a town of about 23 sq km.",
+      "is_factual_claim": true,
+      "topic_hint": "Pokrovsk size",
+      "source_sentence": "Ukraine is losing ground, but the ISW notes Russia has been trying to take Pokrovsk - a town of about 23 sq km - for nearly two years and that the cities in the fortress belt are \"significantly larger\".",
+      "prop_index": 41,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_042",
+      "text": "The ISW suggests it would take Russian forces another two years to seize the remainder of the Donetsk region \"at great cost\".",
+      "is_factual_claim": true,
+      "topic_hint": "ISW Donetsk seizure estimate",
+      "source_sentence": "It suggests that it would take Russian forces another two years to seize the remainder of the Donetsk region \"at great cost\".",
+      "prop_index": 42,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_043",
+      "text": "Russia has been trying to advance on the city of Kupyansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia advances Kupyansk",
+      "source_sentence": "Further north on the main front line, Russia has been trying to advance on the city of Kupyansk, which analysts suggest could allow it to encircle the northern Donetsk region.",
+      "prop_index": 43,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_044",
+      "text": "Analysts suggest advancing on Kupyansk could allow Russia to encircle the northern Donetsk region.",
+      "is_factual_claim": true,
+      "topic_hint": "Kupyansk encirclement potential",
+      "source_sentence": "Further north on the main front line, Russia has been trying to advance on the city of Kupyansk, which analysts suggest could allow it to encircle the northern Donetsk region.",
+      "prop_index": 44,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_045",
+      "text": "Russia has been trying to push Ukrainian forces back from the border with the Russian region of Belgorod.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia pushes Belgorod border",
+      "source_sentence": "It has also been trying to push Ukrainian forces back from the border with the Russian region of Belgorod.",
+      "prop_index": 45,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_046",
+      "text": "ISW analysts say Russia is trying to create a buffer zone inside Ukraine's northern borders and get within artillery range of Kharkiv.",
+      "is_factual_claim": true,
+      "topic_hint": "ISW Russia buffer zone",
+      "source_sentence": "ISW analysts say Russia is trying to create a buffer zone inside Ukraine's northern borders and get within artillery range of Kharkiv, Ukraine's second-biggest city.",
+      "prop_index": 46,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_047",
+      "text": "Kharkiv is Ukraine's second-biggest city.",
+      "is_factual_claim": true,
+      "topic_hint": "Kharkiv Ukraine's second city",
+      "source_sentence": "ISW analysts say Russia is trying to create a buffer zone inside Ukraine's northern borders and get within artillery range of Kharkiv, Ukraine's second-biggest city.",
+      "prop_index": 47,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_048",
+      "text": "Russia's forces have recently gained limited control over a spear of land to the south of Vovchansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian gains Vovchansk south",
+      "source_sentence": "Russia's forces have recently gained limited control over a spear of land to the south of Vovchansk that would bring them closer to this target.",
+      "prop_index": 48,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_049",
+      "text": "Russian President Vladimir Putin says he wants this buffer zone to protect Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin buffer zone reason",
+      "source_sentence": "Russian President Vladimir Putin says he wants this buffer zone to protect Russia, after Ukrainian forces captured a swathe of territory further north in Kursk in the summer of 2024.",
+      "prop_index": 49,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_050",
+      "text": "Ukrainian forces captured a swathe of territory further north in Kursk in the summer of 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine captured Kursk 2024",
+      "source_sentence": "Russian President Vladimir Putin says he wants this buffer zone to protect Russia, after Ukrainian forces captured a swathe of territory further north in Kursk in the summer of 2024.",
+      "prop_index": 50,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_051",
+      "text": "Russian forces eventually drove Ukrainian forces out of the Kursk region, with the help of North Korean troops.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia drove Ukraine Kursk",
+      "source_sentence": "Russian forces eventually drove them out, with the help of North Korean troops.",
+      "prop_index": 51,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_052",
+      "text": "Ukraine has struck air bases deep inside Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine strikes Russian airbases",
+      "source_sentence": "As well as the counter-offensive in the Kursk region, Ukraine has struck air bases deep inside Russia.",
+      "prop_index": 52,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_053",
+      "text": "One of Ukraine's attacks involved using 100 drones to target nuclear-capable long-range bombers.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine drone attack details",
+      "source_sentence": "One of these attacks involved using 100 drones to target nuclear-capable long-range bombers.",
+      "prop_index": 53,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_054",
+      "text": "Deep strikes are seen as a critical part of the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Deep strikes importance",
+      "source_sentence": "Deep strikes are seen as a critical part of the war - Ukraine is trying to target Russia's war economy to slow the advances on the front line.",
+      "prop_index": 54,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_055",
+      "text": "Ukraine is trying to target Russia's war economy to slow the advances on the front line.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine targets war economy",
+      "source_sentence": "Deep strikes are seen as a critical part of the war - Ukraine is trying to target Russia's war economy to slow the advances on the front line.",
+      "prop_index": 55,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_056",
+      "text": "Russia has been carrying out strikes on Ukrainian infrastructure, in particular its energy facilities such as electricity substations and power plants.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia strikes energy infrastructure",
+      "source_sentence": "Russia has also been carrying out strikes on Ukrainian infrastructure - in particular its energy facilities such as electricity substations and power plants.",
+      "prop_index": 56,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_057",
+      "text": "Several people have been killed in Russia's attacks on Ukrainian infrastructure.",
+      "is_factual_claim": true,
+      "topic_hint": "Casualties from Russian strikes",
+      "source_sentence": "Several people have been killed in the attacks and tens of thousands of people across Ukraine have experienced severe power cuts or been left with no running water or heating during some of the coldest months of the winter.",
+      "prop_index": 57,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_058",
+      "text": "Tens of thousands of people across Ukraine have experienced severe power cuts or been left with no running water or heating during some of the coldest months of the winter due to Russian attacks.",
+      "is_factual_claim": true,
+      "topic_hint": "Civilian impact Russian strikes",
+      "source_sentence": "Several people have been killed in the attacks and tens of thousands of people across Ukraine have experienced severe power cuts or been left with no running water or heating during some of the coldest months of the winter.",
+      "prop_index": 58,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_059",
+      "text": "Russia's attacks on Ukrainian infrastructure were paused for a week following a request from US President Donald Trump to Russian President Vladimir Putin.",
+      "is_factual_claim": true,
+      "topic_hint": "Trump requested attack pause",
+      "source_sentence": "These attacks were paused for a week following a request from US President Donald Trump to Putin.",
+      "prop_index": 59,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_060",
+      "text": "Donald Trump has been leading efforts to end the war through negotiations.",
+      "is_factual_claim": true,
+      "topic_hint": "Trump leads peace efforts",
+      "source_sentence": "Trump has been leading efforts to end the war through negotiations, and Zelensky said this month that the US wanted the war to end by June.",
+      "prop_index": 60,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_061",
+      "text": "Ukrainian President Volodymyr Zelensky said this month that the US wanted the war to end by June.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky US war end date",
+      "source_sentence": "Trump has been leading efforts to end the war through negotiations, and Zelensky said this month that the US wanted the war to end by June.",
+      "prop_index": 61,
+      "article_id": "bbc_002"
+    },
+    {
+      "prop_id": "bbc_002_prop_062",
+      "text": "The most recent round of talks between Russia, Ukraine, and the US in Geneva, Switzerland, concluded without a breakthrough on 18 February.",
+      "is_factual_claim": true,
+      "topic_hint": "Geneva talks no breakthrough",
+      "source_sentence": "However, the most recent round of talks between Russia, Ukraine and the US in Geneva, Switzerland, concluded without a breakthrough on 18 February.",
+      "prop_index": 62,
+      "article_id": "bbc_002"
+    }
+  ]
+}

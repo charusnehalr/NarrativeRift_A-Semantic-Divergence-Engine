@@ -1,0 +1,502 @@
+{
+  "article_id": "kyivind_001",
+  "source_name": "Kyiv Independent",
+  "total_propositions": 55,
+  "propositions": [
+    {
+      "prop_id": "kyivind_001_prop_000",
+      "text": "The Ukrainian military said Ukraine destroyed Russian Buk air defense systems in Russia's Bryansk Oblast on March 22, showing footage of the strikes.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine destroys Buk systems",
+      "source_sentence": "Ukraine destroys Russian Buk air defenses in flurry of strikes, military says, shows footage. Ukrainian drones struck two Buk air defense systems in Russia's Bryansk Oblast on March 22, amid a broader wave of strikes on additional air defense and military targets, the Ukrainian military said.",
+      "prop_index": 0,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_001",
+      "text": "Ukraine launched nearly 300 drones against Russia overnight, hitting an oil depot and the command post of an elite Rubikon drone unit.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine drone strikes Russia",
+      "source_sentence": "Ukraine launches nearly 300 drones against Russia overnight, hits oil depot, command post of elite Rubikon drone unit.",
+      "prop_index": 1,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_002",
+      "text": "A Ukrainian delegation met Steve Witkoff and Jared Kushner in Miami and plans to continue talks on March 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine peace talks",
+      "source_sentence": "Ukrainian delegation meets Witkoff, Kushner in Miami, plan to continue talks on March 22.",
+      "prop_index": 2,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_003",
+      "text": "Russian attacks killed 6 people and injured 29 in Ukraine over the past day, with first responders targeted in a double-tap strike.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian attacks casualties",
+      "source_sentence": "Russian attacks kill 6, injure 29 in Ukraine over past day, first responders targeted in double-tap strike.",
+      "prop_index": 3,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_004",
+      "text": "Robert Brovdi, commander of Ukraine's Unmanned Systems Forces, said a Buk-M3 surface-to-air missile system and a transporter-loader vehicle of a Buk-M2 system were destroyed.",
+      "is_factual_claim": true,
+      "topic_hint": "Buk systems destroyed",
+      "source_sentence": "A Buk-M3 surface-to-air missile system and a transporter-loader vehicle of a Buk-M2 system were destroyed, said Robert Brovdi, known as \"Madyar,\" commander of Ukraine's Unmanned Systems Forces.",
+      "prop_index": 4,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_005",
+      "text": "Operators from the 1st Separate Center of the Unmanned Systems Forces destroyed a radar of the advanced S-400 Triumf air defense system in occupied Donetsk Oblast, according to Robert Brovdi.",
+      "is_factual_claim": true,
+      "topic_hint": "S-400 radar destroyed",
+      "source_sentence": "Operators from the 1st Separate Center of the Unmanned Systems Forces also destroyed a radar of the advanced S-400 Triumf air defense system in the occupied part of Donetsk Oblast, according to the commander.",
+      "prop_index": 5,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_006",
+      "text": "Robert Brovdi said the Unmanned Systems Forces have destroyed 26 elements of Russian air defense systems in March.",
+      "is_factual_claim": true,
+      "topic_hint": "Air defense elements destroyed",
+      "source_sentence": "The Unmanned Systems Forces have already destroyed 26 elements of Russian air defense systems in March, according to Brovdi.",
+      "prop_index": 6,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_007",
+      "text": "The Unmanned Systems Forces' drone units wiped out or hit 7,073 Russian personnel and 25,612 Russian military assets.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian personnel, assets hit",
+      "source_sentence": "In total, the military branch's drone units wiped out or hit 7,073 Russian personnel and 25,612 military assets.",
+      "prop_index": 7,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_008",
+      "text": "The General Staff reported that Ukrainian forces destroyed a Russian Buk-M1 anti-aircraft missile system near Pervoye Maya in Bryansk Oblast on March 21.",
+      "is_factual_claim": true,
+      "topic_hint": "Buk-M1 system destroyed",
+      "source_sentence": "The General Staff also reported that Ukrainian forces destroyed a Russian Buk-M1 anti-aircraft missile system near the settlement of Pervoye Maya in Bryansk Oblast on March 21, confirming a direct hit.",
+      "prop_index": 8,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_009",
+      "text": "A Buk-M2 system was reportedly struck in occupied Zaporizhzhia Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Buk-M2 system struck",
+      "source_sentence": "Another Buk-M2 system was reportedly struck in the occupied territory of Zaporizhzhia Oblast.",
+      "prop_index": 9,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_010",
+      "text": "Ukrainian forces reportedly hit a logistics hub, a Russian troop concentration near Velyka Novosilka, a command post near Uspenivka, and a drone control point near Rivnopillia.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strikes Donetsk",
+      "source_sentence": "Ukrainian forces also reportedly hit a logistics hub and a Russian troop concentration near occupied Velyka Novosilka in Donetsk Oblast, as well as a command post near Uspenivka and a drone control point near Rivnopillia.",
+      "prop_index": 10,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_011",
+      "text": "Additional strikes targeted troop concentrations near Berdiansk and Huliaipole in Zaporizhzhia Oblast, and a Russian command post near Smorodino in Belgorod Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strikes Zaporizhzhia",
+      "source_sentence": "Additional strikes targeted troop concentrations near Berdiansk and Huliaipole in Zaporizhzhia Oblast and another Russian command post near Smorodino in Russia's Belgorod Oblast.",
+      "prop_index": 11,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_012",
+      "text": "The Kyiv Independent could not verify these claims.",
+      "is_factual_claim": true,
+      "topic_hint": "Claims unverified",
+      "source_sentence": "The Kyiv Independent could not verify these claims.",
+      "prop_index": 12,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_013",
+      "text": "The Buk-M3 is one of Russia's key air defense systems, manufactured by Almaz-Antey, and designed to engage targets in the air, on land, and at sea.",
+      "is_factual_claim": true,
+      "topic_hint": "Buk-M3 system description",
+      "source_sentence": "The Buk-M3 is one of Russia's key air defense systems, designed to engage targets in the air, on land, and at sea. Manufactured by Almaz-Antey, it can reportedly track and engage up to 36 targets simultaneously, including aircraft, helicopters, cruise missiles, and drones.",
+      "prop_index": 13,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_014",
+      "text": "The Buk-M3 can reportedly track and engage up to 36 targets simultaneously, including aircraft, helicopters, cruise missiles, and drones.",
+      "is_factual_claim": true,
+      "topic_hint": "Buk-M3 capabilities",
+      "source_sentence": "Manufactured by Almaz-Antey, it can reportedly track and engage up to 36 targets simultaneously, including aircraft, helicopters, cruise missiles, and drones.",
+      "prop_index": 14,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_015",
+      "text": "Ukraine's General Staff confirmed Ukraine hit an oil refinery in Russia's Saratov Oblast and the command post of an elite Russian Rubikon drone unit in Mariupol as part of its overnight attack on March 21.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine hits oil refinery",
+      "source_sentence": "Ukraine hit an oil refinery in Russia's Saratov Oblast and targets in Russian-occupied Ukraine, including the command post of an elite Russian Rubikon drone unit in Mariupol, as part of its overnight attack on March 21, Ukraine's General Staff confirmed.",
+      "prop_index": 15,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_016",
+      "text": "Russia's Defense Ministry claimed on March 21 that Russia intercepted 283 Ukrainian drones overnight over multiple oblasts and Russian-occupied Crimea.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia claims drone interceptions",
+      "source_sentence": "Russia's Defense Ministry claimed on March 21 that overnight, Russia intercepted 283 Ukrainian drones over Bryansk, Smolensk, Kaluga, Belgorod, Voronezh, Rostov, Volgograd, Tula, Ryazan, Kursk, Saratov, Samara, and Moscow oblasts, as well as the Republic of Tatarstan and Russian-occupied Crimea.",
+      "prop_index": 16,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_017",
+      "text": "The General Staff said on March 21 that the Ukrainian attack damaged an RVS-10000 vertical storage tank at the Saratov oil refinery.",
+      "is_factual_claim": true,
+      "topic_hint": "Saratov oil refinery damage",
+      "source_sentence": "The General Staff said on March 21 that the Ukrainian attack damaged an RVS-10000 vertical storage tank at the Saratov oil refinery.",
+      "prop_index": 17,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_018",
+      "text": "The General Staff wrote that the Saratov oil refinery processes crude oil and produces fuels and lubricants used to support the occupying Russian army.",
+      "is_factual_claim": true,
+      "topic_hint": "Saratov refinery function",
+      "source_sentence": "\"This facility processes crude oil and produces fuels and lubricants used to support the occupying (Russian) army,\" the General Staff wrote.",
+      "prop_index": 18,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_019",
+      "text": "The Saratov oil refinery is among the oldest oil refining facilities in Russia and had a refining capacity of 4.8 million tons as of 2023.",
+      "is_factual_claim": true,
+      "topic_hint": "Saratov refinery capacity",
+      "source_sentence": "The Saratov oil refinery is among the oldest oil refining facilities in Russia. As of 2023, it had a refining capacity of 4.8 million tons.",
+      "prop_index": 19,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_020",
+      "text": "Saratov Governor Roman Busargin claimed that attacks on the regional center injured two people and damaged multiple homes.",
+      "is_factual_claim": true,
+      "topic_hint": "Saratov attack claims",
+      "source_sentence": "Saratov Governor Roman Busargin claimed that attacks on the regional center injured two people and damaged multiple homes.",
+      "prop_index": 20,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_021",
+      "text": "Residents shared images and videos on social media indicating power outages in the city.",
+      "is_factual_claim": true,
+      "topic_hint": "Saratov power outages",
+      "source_sentence": "Meanwhile, residents shared images and videos on social media indicating power outages in the city.",
+      "prop_index": 21,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_022",
+      "text": "The General Staff said on March 21 that the Ukrainian Defense Forces struck a command post in Russian-occupied Mariupol, Donetsk Oblast, belonging to Moscow's elite drone unit, the Rubikon Center for Unmanned Technologies.",
+      "is_factual_claim": true,
+      "topic_hint": "Rubikon command post struck",
+      "source_sentence": "In Russian-occupied Mariupol, Donetsk Oblast, the Ukrainian Defense Forces struck a command post belonging to Moscow's elite drone unit known as the Rubikon Center for Unmanned Technologies, the General Staff said on March 21.",
+      "prop_index": 22,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_023",
+      "text": "Rubikon is a core part of Russia's unmanned system program to bolster its drone warfare against Ukraine, specializing in hunting down Ukrainian drone pilots and shooting their drones.",
+      "is_factual_claim": true,
+      "topic_hint": "Rubikon unit specialization",
+      "source_sentence": "A core part of Russia's unmanned system program to bolster its drone warfare against Ukraine, Rubikon specializes in both hunting down Ukrainian drone pilots and shooting their drones in the sky.",
+      "prop_index": 23,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_024",
+      "text": "The General Staff added that a Russian Army repair unit in occupied Khliborobne, Zaporizhzhia Oblast, and a command and observation post in Paraskoviivka, Donetsk Oblast, were struck.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian units struck",
+      "source_sentence": "The General Staff added that a Russian Army repair unit in occupied Khliborobne, Zaporizhzhia Oblast, and a command and observation post of Russia's unit in Paraskoviivka, Donetsk Oblast, were struck.",
+      "prop_index": 24,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_025",
+      "text": "Astra, an independent Russian Telegram news channel, reported that residents of Tolyatti experienced a series of explosions and a fire overnight.",
+      "is_factual_claim": true,
+      "topic_hint": "Tolyatti explosions, fire",
+      "source_sentence": "An independent Russian Telegram news channel, Astra, reported that overnight, residents of Tolyatti experienced a series of explosions and a fire.",
+      "prop_index": 25,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_026",
+      "text": "Based on analysis of eyewitness footage, the fire in Tolyatti erupted near two chemical plants, Togliattikauchuk and KuibyshevAzot.",
+      "is_factual_claim": true,
+      "topic_hint": "Tolyatti chemical plants fire",
+      "source_sentence": "Based on analysis of eyewitness footage, the fire erupted near two chemical plants located close to each other, Togliattikauchuk and KuibyshevAzot.",
+      "prop_index": 26,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_027",
+      "text": "Radium Khabirov, head of the Republic of Bashkortostan, reported on March 21 that drones were shot down near the oil refineries in Ufa, Bashkortostan.",
+      "is_factual_claim": true,
+      "topic_hint": "Drones shot down Ufa",
+      "source_sentence": "In Russia's Bashkortostan, drones were shot down near the oil refineries in Ufa, Radium Khabirov, head of the Republic of Bashkortostan, reported on March 21.",
+      "prop_index": 27,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_028",
+      "text": "President Volodymyr Zelensky announced that U.S. and Ukrainian officials held another round of peace negotiations in Miami, Florida, on March 21, with discussions set to continue the following day.",
+      "is_factual_claim": true,
+      "topic_hint": "US-Ukraine peace talks",
+      "source_sentence": "U.S. and Ukrainian officials held another round of peace negotiations in Miami, Florida, on March 21, President Volodymyr Zelensky announced, with discussions set to continue the following day.",
+      "prop_index": 28,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_029",
+      "text": "The latest round of negotiations occurred more than a month after trilateral talks among Kyiv, Moscow, and Washington were held in Geneva on Feb. 17-18.",
+      "is_factual_claim": true,
+      "topic_hint": "Previous peace talks",
+      "source_sentence": "The latest round of negotiations comes more than a month after the last face-to-face meeting in Geneva on Feb. 17-18, when trilateral talks among Kyiv, Moscow, and Washington were held.",
+      "prop_index": 29,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_030",
+      "text": "A follow-up meeting scheduled for March 5 in Abu Dhabi was postponed after U.S.-Israeli strikes on Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Abu Dhabi meeting postponed",
+      "source_sentence": "A follow-up meeting scheduled for March 5 in Abu Dhabi was postponed after U.S.-Israeli strikes on Iran.",
+      "prop_index": 30,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_031",
+      "text": "U.S.-led efforts to broker a peace deal between Ukraine and Russia have been ongoing for months, but progress on key negotiating points has stalled in recent weeks amid the war in Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace deal progress stalled",
+      "source_sentence": "Despite months of U.S.-led efforts to broker a peace deal between Ukraine and Russia, progress on key negotiating points has all but stalled in recent weeks amid the war in Iran.",
+      "prop_index": 31,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_032",
+      "text": "Special Envoy Steve Witkoff and Jared Kushner, U.S. President Donald Trump's son-in-law, co-lead the U.S. delegation.",
+      "is_factual_claim": true,
+      "topic_hint": "US delegation leaders",
+      "source_sentence": "Special Envoy Steve Witkoff, who co-leads the U.S. delegation alongside U.S. President Donald Trump's son-in-law Jared Kushner, called the meeting with Ukrainian officials \"constructive\" in a statement on social media.",
+      "prop_index": 32,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_033",
+      "text": "Steve Witkoff called the meeting with Ukrainian officials \"constructive\" and said the talks focused on narrowing and resolving remaining items to move closer to a comprehensive peace agreement.",
+      "is_factual_claim": true,
+      "topic_hint": "Witkoff on talks",
+      "source_sentence": "Special Envoy Steve Witkoff, who co-leads the U.S. delegation alongside U.S. President Donald Trump's son-in-law Jared Kushner, called the meeting with Ukrainian officials \"constructive\" in a statement on social media. Witkoff said that the talks \"focused on narrowing and resolving remaining items to move closer to a comprehensive peace agreement,\" without specifying the details of what was discussed.",
+      "prop_index": 33,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_034",
+      "text": "President Volodymyr Zelensky welcomed the latest round of talks, saying it was important that diplomacy continues and that Ukraine is working to end the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky on diplomacy",
+      "source_sentence": "In his evening address, Zelensky welcomed the latest round of talks, saying that it was important \"that diplomacy continues and that we are working to end this war.\"",
+      "prop_index": 34,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_035",
+      "text": "President Volodymyr Zelensky said the key issue is to understand Russia's readiness to move toward a real end to the war honestly and with dignity, especially as geopolitical tensions have increased due to the situation around Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's war readiness",
+      "source_sentence": "\"The key issue is to understand how ready Russia is to move toward a real end to the war, and whether it is ready to do so honestly and with dignity. Especially now, when the geopolitical tensions have only increased due to the situation around Iran,\" Zelensky added.",
+      "prop_index": 35,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_036",
+      "text": "European officials have cautioned that U.S. military support, particularly air defense systems, could face delays as Washington prioritizes the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "US military aid delays",
+      "source_sentence": "European officials have cautioned that U.S. military support, particularly air defense systems, could face delays as Washington prioritizes the Middle East, with EU foreign policy chief Kaja Kallas saying there is now \"competition for the same assets.\"",
+      "prop_index": 36,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_037",
+      "text": "EU foreign policy chief Kaja Kallas said there is now \"competition for the same assets.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Competition for assets",
+      "source_sentence": "European officials have cautioned that U.S. military support, particularly air defense systems, could face delays as Washington prioritizes the Middle East, with EU foreign policy chief Kaja Kallas saying there is now \"competition for the same assets.\"",
+      "prop_index": 37,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_038",
+      "text": "The Ukrainian delegation includes Rustem Umerov, Ukraine's National Security and Defense Council Secretary; Kyrylo Budanov, Presidential Office Head; Serhii Kyslytsia, First Deputy Presidential Office Head; and David Arakhamia, parliamentary leader of Zelensky's Servant of the People party.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian delegation members",
+      "source_sentence": "The Ukrainian delegation includes Rustem Umerov, Ukraine's National Security and Defense Council Secretary; Presidential Office Head Kyrylo Budanov; First Deputy Presidential Office Head Serhii Kyslytsia; and David Arakhamia, the parliamentary leader of Zelensky's Servant of the People party.",
+      "prop_index": 38,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_039",
+      "text": "The latest talks did not include a delegation from Moscow.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow absent from talks",
+      "source_sentence": "The latest talks did not include a delegation from Moscow.",
+      "prop_index": 39,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_040",
+      "text": "President Volodymyr Zelensky previously said that Russia has refused to hold trilateral talks in the U.S. and has proposed meeting in Switzerland or Turkey instead.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia refuses US talks",
+      "source_sentence": "Zelensky previously said that Russia has refused to hold trilateral talks in the U.S. and has instead proposed meeting in Switzerland or Turkey.",
+      "prop_index": 40,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_041",
+      "text": "Kremlin spokesperson Dmitry Peskov said there was a \"situational pause\" in talks with Kyiv due to the war in Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Talks paused due to Iran",
+      "source_sentence": "Kremlin spokesperson Dmitry Peskov, speaking with Russian state media earlier this week, said that there was a \"situational pause\" in talks with Kyiv due to the war in Iran.",
+      "prop_index": 41,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_042",
+      "text": "Regional authorities reported on March 22 that Russian attacks against Ukraine killed at least six civilians and injured at least 29 others over the past day.",
+      "is_factual_claim": true,
+      "topic_hint": "Civilian casualties reported",
+      "source_sentence": "Russian attacks against Ukraine killed at least six civilians and injured at least 29 others over the past day, regional authorities reported on March 22.",
+      "prop_index": 42,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_043",
+      "text": "Ukraine's Air Force said Ukrainian defenses intercepted 127 out of 139 drones launched by Russia overnight.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian drone interceptions",
+      "source_sentence": "Ukrainian defenses intercepted 127 out of the 139 drones launched by Russia overnight, according to Ukraine's Air Force.",
+      "prop_index": 43,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_044",
+      "text": "Eight drones struck seven locations, and debris from downed drones was recorded at seven sites.",
+      "is_factual_claim": true,
+      "topic_hint": "Drone strike locations",
+      "source_sentence": "Eight drones struck seven locations, and debris from downed drones was also recorded at seven sites.",
+      "prop_index": 44,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_045",
+      "text": "Oleksandr Hanzha, the governor of Dnipropetrovsk Oblast, said two people were killed and six were injured, including a child, in Russian drone and artillery strikes during the past day and overnight.",
+      "is_factual_claim": true,
+      "topic_hint": "Dnipropetrovsk casualties",
+      "source_sentence": "In Dnipropetrovsk Oblast, two people were killed and six were injured, including a child, as a result of Russian drone and artillery strikes during the past day and overnight, according to the region's governor, Oleksandr Hanzha.",
+      "prop_index": 45,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_046",
+      "text": "First responders in Sumy were targeted in a Russian double-tap attack, damaging a fire engine, but causing no casualties among staff, according to Ukraine's State Emergency Service.",
+      "is_factual_claim": true,
+      "topic_hint": "Sumy first responders attack",
+      "source_sentence": "In Sumy, first responders were targeted in a Russian double-tap attack. A fire engine was damaged, but there were no casualties among the staff, Ukraine's State Emergency Service said.",
+      "prop_index": 46,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_047",
+      "text": "Ivan Fedorov, the governor of Zaporizhzhia Oblast, said two people were killed and eight others were injured in Russian attacks on Zaporizhzhia Oblast over the past day.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia casualties",
+      "source_sentence": "Two people were killed and eight others were injured in Russian attacks on Zaporizhzhia Oblast over the past day, according to the region's governor, Ivan Fedorov.",
+      "prop_index": 47,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_048",
+      "text": "Russian forces carried out 700 strikes on 39 settlements across Zaporizhzhia Oblast during the 24-hour period.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia strike count",
+      "source_sentence": "Overall, Russian forces carried out 700 strikes on 39 settlements across Zaporizhzhia Oblast during the 24-hour period.",
+      "prop_index": 48,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_049",
+      "text": "Governor Oleh Syniehubov reported that a 31-year-old man was injured during Russian strikes in Kharkiv Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Kharkiv casualties",
+      "source_sentence": "A 31-year-old man was injured during Russian strikes in Kharkiv Oblast, Governor Oleh Syniehubov reported.",
+      "prop_index": 49,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_050",
+      "text": "Governor Vadym Filashkin said one person was killed and six were injured in Donetsk Oblast over the past day.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk casualties",
+      "source_sentence": "One person was killed and six were injured in Donetsk Oblast over the past day, Governor Vadym Filashkin said.",
+      "prop_index": 50,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_051",
+      "text": "One person was killed and three others were injured in Kherson Oblast following Russian aerial attacks and artillery strikes on multiple towns and villages.",
+      "is_factual_claim": true,
+      "topic_hint": "Kherson casualties",
+      "source_sentence": "In Kherson Oblast, one person was killed and three others were injured following Russian aerial attacks and artillery strikes on multiple towns and villages.",
+      "prop_index": 51,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_052",
+      "text": "An accident occurred overnight on March 22 on the Odesa railway during a train stop and passenger evacuation due to the threat of a Russian drone attack.",
+      "is_factual_claim": true,
+      "topic_hint": "Odesa railway accident",
+      "source_sentence": "Due to the threat of a Russian drone attack, an accident occurred overnight on March 22 on the Odesa railway during a train stop and passenger evacuation.",
+      "prop_index": 52,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_053",
+      "text": "A conductor was fatally struck by an oncoming train on the Odesa railway, and one passenger was injured.",
+      "is_factual_claim": true,
+      "topic_hint": "Odesa railway fatalities",
+      "source_sentence": "A conductor was fatally struck by an oncoming train that was also heading to its evacuation stop, and one passenger was injured.",
+      "prop_index": 53,
+      "article_id": "kyivind_001"
+    },
+    {
+      "prop_id": "kyivind_001_prop_054",
+      "text": "Ukrzaliznytsia CEO Oleksandr Pertsovskyi identified the conductor as 19-year-old Ilona Vovk, who had completed an internship in Germany and was conducting her first full trips with the railway.",
+      "is_factual_claim": true,
+      "topic_hint": "Deceased conductor identified",
+      "source_sentence": "Ukrzaliznytsia CEO Oleksandr Pertsovskyi identified the conductor as 19-year-old Ilona Vovk, who had completed an internship in Germany and was conducting her first full trips with the railway.",
+      "prop_index": 54,
+      "article_id": "kyivind_001"
+    }
+  ]
+}

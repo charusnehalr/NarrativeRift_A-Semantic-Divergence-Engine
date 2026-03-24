@@ -1,0 +1,745 @@
+{
+  "article_id": "csis_001",
+  "source_name": "CSIS (Center for Strategic and International Studies)",
+  "total_propositions": 82,
+  "propositions": [
+    {
+      "prop_id": "csis_001_prop_000",
+      "text": "Russia is paying an extraordinary price for minimal gains in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia war cost",
+      "source_sentence": "Despite claims of battlefield momentum in Ukraine, the data shows that Russia is paying an extraordinary price for minimal gains and is in decline as a major power.",
+      "prop_index": 0,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_001",
+      "text": "Russia is in decline as a major power.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia power status",
+      "source_sentence": "Despite claims of battlefield momentum in Ukraine, the data shows that Russia is paying an extraordinary price for minimal gains and is in decline as a major power.",
+      "prop_index": 1,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_002",
+      "text": "Data shows Russia is paying an extraordinary price for minimal gains in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia war cost data",
+      "source_sentence": "Despite claims of battlefield momentum in Ukraine, the data shows that Russia is paying an extraordinary price for minimal gains and is in decline as a major power.",
+      "prop_index": 2,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_003",
+      "text": "Data shows Russia is in decline as a major power.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia power status data",
+      "source_sentence": "Despite claims of battlefield momentum in Ukraine, the data shows that Russia is paying an extraordinary price for minimal gains and is in decline as a major power.",
+      "prop_index": 3,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_004",
+      "text": "Since February 2022, Russian forces have suffered nearly 1.2 million casualties.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian casualties",
+      "source_sentence": "Since February 2022, Russian forces have suffered nearly 1.2 million casualties, more losses than any major power in any war since World War II.",
+      "prop_index": 4,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_005",
+      "text": "Russian forces' casualties since February 2022 are more losses than any major power in any war since World War II.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian casualty comparison",
+      "source_sentence": "Since February 2022, Russian forces have suffered nearly 1.2 million casualties, more losses than any major power in any war since World War II.",
+      "prop_index": 5,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_006",
+      "text": "Combined Russian and Ukrainian casualties could reach 2 million by the spring of 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Projected casualties",
+      "source_sentence": "At current rates, combined Russian and Ukrainian casualties could reach 2 million by the spring of 2026.",
+      "prop_index": 6,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_007",
+      "text": "Russian forces seized the initiative in 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military initiative",
+      "source_sentence": "After seizing the initiative in 2024, Russian forces have advanced at an average rate of between 15 and 70 meters per day in their most prominent offensives, slower than almost any major offensive campaign in any war in the last century.",
+      "prop_index": 7,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_008",
+      "text": "Russian forces have advanced at an average rate of between 15 and 70 meters per day in their most prominent offensives.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian advance rate",
+      "source_sentence": "After seizing the initiative in 2024, Russian forces have advanced at an average rate of between 15 and 70 meters per day in their most prominent offensives, slower than almost any major offensive campaign in any war in the last century.",
+      "prop_index": 8,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_009",
+      "text": "Russian forces' advance rate is slower than almost any major offensive campaign in any war in the last century.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian advance comparison",
+      "source_sentence": "After seizing the initiative in 2024, Russian forces have advanced at an average rate of between 15 and 70 meters per day in their most prominent offensives, slower than almost any major offensive campaign in any war in the last century.",
+      "prop_index": 9,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_010",
+      "text": "Russia's war economy is under mounting strain.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian economy strain",
+      "source_sentence": "Meanwhile, Russia's war economy is under mounting strain, with manufacturing declining, slowing growth of 0.6 percent in 2025, and no globally competitive technology firms to help drive long-term productivity.",
+      "prop_index": 10,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_011",
+      "text": "Russian manufacturing is declining.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian manufacturing decline",
+      "source_sentence": "Meanwhile, Russia's war economy is under mounting strain, with manufacturing declining, slowing growth of 0.6 percent in 2025, and no globally competitive technology firms to help drive long-term productivity.",
+      "prop_index": 11,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_012",
+      "text": "Russia's economic growth slowed to 0.6 percent in 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian economic growth",
+      "source_sentence": "Meanwhile, Russia's war economy is under mounting strain, with manufacturing declining, slowing growth of 0.6 percent in 2025, and no globally competitive technology firms to help drive long-term productivity.",
+      "prop_index": 12,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_013",
+      "text": "Russia has no globally competitive technology firms to help drive long-term productivity.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian technology firms",
+      "source_sentence": "Meanwhile, Russia's war economy is under mounting strain, with manufacturing declining, slowing growth of 0.6 percent in 2025, and no globally competitive technology firms to help drive long-term productivity.",
+      "prop_index": 13,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_014",
+      "text": "Vladimir Putin's primary objective is to bring Ukraine back into Russia's sphere of influence.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's Ukraine objective",
+      "source_sentence": "Putin's primary objective is to bring Ukraine back into Russia's sphere of influence, either directly by militarily conquering and annexing Ukraine or indirectly by installing a Russian ally in Kyiv.",
+      "prop_index": 14,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_015",
+      "text": "Vladimir Putin seeks to bring Ukraine back into Russia's sphere of influence by militarily conquering and annexing Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's Ukraine strategy",
+      "source_sentence": "Putin's primary objective is to bring Ukraine back into Russia's sphere of influence, either directly by militarily conquering and annexing Ukraine or indirectly by installing a Russian ally in Kyiv.",
+      "prop_index": 15,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_016",
+      "text": "Vladimir Putin seeks to bring Ukraine back into Russia's sphere of influence by installing a Russian ally in Kyiv.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's Ukraine strategy",
+      "source_sentence": "Putin's primary objective is to bring Ukraine back into Russia's sphere of influence, either directly by militarily conquering and annexing Ukraine or indirectly by installing a Russian ally in Kyiv.",
+      "prop_index": 16,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_017",
+      "text": "Vladimir Putin seeks to prevent further NATO expansion eastward.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's NATO objective",
+      "source_sentence": "In addition, Putin seeks to prevent further NATO expansion eastward, either through NATO membership or an expanding U.S. or European sphere of influence.",
+      "prop_index": 17,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_018",
+      "text": "Vladimir Putin seeks to prevent further NATO expansion eastward through NATO membership.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's NATO strategy",
+      "source_sentence": "In addition, Putin seeks to prevent further NATO expansion eastward, either through NATO membership or an expanding U.S. or European sphere of influence.",
+      "prop_index": 18,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_019",
+      "text": "Vladimir Putin seeks to prevent further NATO expansion eastward through an expanding U.S. sphere of influence.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's NATO strategy",
+      "source_sentence": "In addition, Putin seeks to prevent further NATO expansion eastward, either through NATO membership or an expanding U.S. or European sphere of influence.",
+      "prop_index": 19,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_020",
+      "text": "Vladimir Putin seeks to prevent further NATO expansion eastward through an expanding European sphere of influence.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's NATO strategy",
+      "source_sentence": "In addition, Putin seeks to prevent further NATO expansion eastward, either through NATO membership or an expanding U.S. or European sphere of influence.",
+      "prop_index": 20,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_021",
+      "text": "Russia failed to bring Ukraine back into Russia's orbit by seizing Crimea in 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea annexation failure",
+      "source_sentence": "After failing to bring Ukraine back into Russia's orbit by seizing Crimea in 2014 and then using a combination of regular and irregular military units in eastern Ukraine over the next several years, Putin resorted to a conventional invasion in February 2022.",
+      "prop_index": 21,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_022",
+      "text": "Russia used a combination of regular and irregular military units in eastern Ukraine after 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military units",
+      "source_sentence": "After failing to bring Ukraine back into Russia's orbit by seizing Crimea in 2014 and then using a combination of regular and irregular military units in eastern Ukraine over the next several years, Putin resorted to a conventional invasion in February 2022.",
+      "prop_index": 22,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_023",
+      "text": "Vladimir Putin resorted to a conventional invasion of Ukraine in February 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's 2022 invasion",
+      "source_sentence": "After failing to bring Ukraine back into Russia's orbit by seizing Crimea in 2014 and then using a combination of regular and irregular military units in eastern Ukraine over the next several years, Putin resorted to a conventional invasion in February 2022.",
+      "prop_index": 23,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_024",
+      "text": "The Russian military was unable to swiftly defeat Ukrainian forces through a blitzkrieg campaign.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military failure",
+      "source_sentence": "But the Russian military was unable to swiftly defeat Ukrainian forces through a blitzkrieg campaign and has resorted to a strategy of attrition warfare.",
+      "prop_index": 24,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_025",
+      "text": "The Russian military has resorted to a strategy of attrition warfare.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian attrition strategy",
+      "source_sentence": "But the Russian military was unable to swiftly defeat Ukrainian forces through a blitzkrieg campaign and has resorted to a strategy of attrition warfare.",
+      "prop_index": 25,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_026",
+      "text": "Russia has been innovative in its use of drones.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian drone innovation",
+      "source_sentence": "Despite significant challenges, Russia has been innovative in its use of drones, electronic warfare, and other facets of the fight.",
+      "prop_index": 26,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_027",
+      "text": "Russia has been innovative in its use of electronic warfare.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian electronic warfare",
+      "source_sentence": "Despite significant challenges, Russia has been innovative in its use of drones, electronic warfare, and other facets of the fight.",
+      "prop_index": 27,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_028",
+      "text": "Russia's air campaign against Ukrainian energy targets has been highly destructive.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian air campaign",
+      "source_sentence": "Russia's air campaign against Ukrainian energy, economic, and military industrial targets has also been highly destructive.",
+      "prop_index": 28,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_029",
+      "text": "Russia's air campaign against Ukrainian economic targets has been highly destructive.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian air campaign",
+      "source_sentence": "Russia's air campaign against Ukrainian energy, economic, and military industrial targets has also been highly destructive.",
+      "prop_index": 29,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_030",
+      "text": "Russia's air campaign against Ukrainian military industrial targets has been highly destructive.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian air campaign",
+      "source_sentence": "Russia's air campaign against Ukrainian energy, economic, and military industrial targets has also been highly destructive.",
+      "prop_index": 30,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_031",
+      "text": "Russian strikes have left Ukraine's energy system able to meet only 60 percent of national electricity demand as of January 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine energy demand",
+      "source_sentence": "Russian strikes from ballistic missiles, cruise missiles, and drones have left Ukraine's energy system able to meet only 60 percent of national electricity demand as of January 2026 and have created prolonged blackouts across the country.",
+      "prop_index": 31,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_032",
+      "text": "Russian strikes have created prolonged blackouts across Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine blackouts",
+      "source_sentence": "Russian strikes from ballistic missiles, cruise missiles, and drones have left Ukraine's energy system able to meet only 60 percent of national electricity demand as of January 2026 and have created prolonged blackouts across the country.",
+      "prop_index": 32,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_033",
+      "text": "Russian forces have suffered as many as 325,000 killed since February 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian fatalities",
+      "source_sentence": "Russian forces have suffered approximately 1.2 million casualties (killed, wounded, and missing) and as many as 325,000 killed since February 2022.",
+      "prop_index": 33,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_034",
+      "text": "No major power has suffered anywhere near 1.2 million casualties in any war since World War II.",
+      "is_factual_claim": true,
+      "topic_hint": "Casualty comparison",
+      "source_sentence": "No major power has suffered anywhere near these numbers of casualties or fatalities in any war since World War II.",
+      "prop_index": 34,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_035",
+      "text": "No major power has suffered anywhere near 325,000 fatalities in any war since World War II.",
+      "is_factual_claim": true,
+      "topic_hint": "Fatality comparison",
+      "source_sentence": "No major power has suffered anywhere near these numbers of casualties or fatalities in any war since World War II.",
+      "prop_index": 35,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_036",
+      "text": "Russian battlefield fatalities in Ukraine are more than 17 times greater than Soviet fatalities in Afghanistan during the 1980s.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian fatalities comparison",
+      "source_sentence": "Russian battlefield fatalities in Ukraine are more than 17 times greater than Soviet fatalities in Afghanistan during the 1980s, 11 times greater than during Russia's First and Second Chechen Wars, and over five times greater than all Russian and Soviet wars combined since World War II.",
+      "prop_index": 36,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_037",
+      "text": "Russian battlefield fatalities in Ukraine are 11 times greater than during Russia's First and Second Chechen Wars.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian fatalities comparison",
+      "source_sentence": "Russian battlefield fatalities in Ukraine are more than 17 times greater than Soviet fatalities in Afghanistan during the 1980s, 11 times greater than during Russia's First and Second Chechen Wars, and over five times greater than all Russian and Soviet wars combined since World War II.",
+      "prop_index": 37,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_038",
+      "text": "Russian battlefield fatalities in Ukraine are over five times greater than all Russian and Soviet wars combined since World War II.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian fatalities comparison",
+      "source_sentence": "Russian battlefield fatalities in Ukraine are more than 17 times greater than Soviet fatalities in Afghanistan during the 1980s, 11 times greater than during Russia's First and Second Chechen Wars, and over five times greater than all Russian and Soviet wars combined since World War II.",
+      "prop_index": 38,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_039",
+      "text": "Russian battlefield casualties and fatalities are significantly greater than Ukrainian casualties and fatalities.",
+      "is_factual_claim": true,
+      "topic_hint": "Casualty ratio",
+      "source_sentence": "Russian battlefield casualties and fatalities are significantly greater than Ukrainian casualties and fatalities — with a ratio of roughly 2.5:1 or 2:1.",
+      "prop_index": 39,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_040",
+      "text": "The ratio of Russian to Ukrainian battlefield casualties and fatalities is roughly 2.5:1 or 2:1.",
+      "is_factual_claim": true,
+      "topic_hint": "Casualty ratio",
+      "source_sentence": "Russian battlefield casualties and fatalities are significantly greater than Ukrainian casualties and fatalities — with a ratio of roughly 2.5:1 or 2:1.",
+      "prop_index": 40,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_041",
+      "text": "Ukrainian forces likely suffered between 500,000 and 600,000 casualties between February 2022 and December 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian casualties",
+      "source_sentence": "Ukrainian forces likely suffered somewhere between 500,000 and 600,000 casualties, including killed, wounded, and missing, and between 100,000 and 140,000 fatalities between February 2022 and December 2025.",
+      "prop_index": 41,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_042",
+      "text": "Ukrainian forces likely suffered between 100,000 and 140,000 fatalities between February 2022 and December 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian fatalities",
+      "source_sentence": "Ukrainian forces likely suffered somewhere between 500,000 and 600,000 casualties, including killed, wounded, and missing, and between 100,000 and 140,000 fatalities between February 2022 and December 2025.",
+      "prop_index": 42,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_043",
+      "text": "Russia has had a slow rate of advance in multiple offensives over the last two years.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian advance rate",
+      "source_sentence": "Russia's slow rate of advance in multiple offensives over the last two years underscores the attritional nature of the war.",
+      "prop_index": 43,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_044",
+      "text": "In the Pokrovsk offensive, Russian forces advanced at an average pace of only about 70 meters per day.",
+      "is_factual_claim": true,
+      "topic_hint": "Pokrovsk offensive advance",
+      "source_sentence": "In the Pokrovsk offensive, Russian forces advanced at an average pace of only about 70 meters per day.",
+      "prop_index": 44,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_045",
+      "text": "The Russian advance pace in the Pokrovsk offensive is slower than the most brutal offensive campaigns over the last century.",
+      "is_factual_claim": true,
+      "topic_hint": "Offensive pace comparison",
+      "source_sentence": "This is slower than the most brutal offensive campaigns over the last century, including the notoriously bloody Battle of the Somme during World War I.",
+      "prop_index": 45,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_046",
+      "text": "In the Chasiv Yar offensive, Russian forces advanced at approximately just 15 meters per day.",
+      "is_factual_claim": true,
+      "topic_hint": "Chasiv Yar offensive advance",
+      "source_sentence": "In the Chasiv Yar offensive, Russian forces advanced at approximately just 15 meters per day.",
+      "prop_index": 46,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_047",
+      "text": "In 2024, Russian forces seized approximately 3,604 square kilometers of Ukrainian territory.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian territorial gains 2024",
+      "source_sentence": "In 2024, Russian forces seized approximately 3,604 square kilometers of Ukrainian territory, or about 0.6 percent of Ukraine.",
+      "prop_index": 47,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_048",
+      "text": "In 2025, Russian forces seized approximately 4,831 square kilometers of Ukrainian territory.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian territorial gains 2025",
+      "source_sentence": "In 2025, Russian forces made marginally larger gains, seizing approximately 4,831 square kilometers (about 0.8 percent of Ukraine).",
+      "prop_index": 48,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_049",
+      "text": "Russian forces control about 120,000 square kilometers of Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian territorial control",
+      "source_sentence": "In total, Russian forces control about 120,000 square kilometers (approximately 20 percent of Ukraine), including territory seized before 2022 such as Crimea and parts of Donbas.",
+      "prop_index": 49,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_050",
+      "text": "Russian forces control approximately 20 percent of Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian territorial control",
+      "source_sentence": "In total, Russian forces control about 120,000 square kilometers (approximately 20 percent of Ukraine), including territory seized before 2022 such as Crimea and parts of Donbas.",
+      "prop_index": 50,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_051",
+      "text": "Russian forces control territory seized before 2022, including Crimea and parts of Donbas.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian pre-2022 control",
+      "source_sentence": "In total, Russian forces control about 120,000 square kilometers (approximately 20 percent of Ukraine), including territory seized before 2022 such as Crimea and parts of Donbas.",
+      "prop_index": 51,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_052",
+      "text": "The Russian economy has held up better than some expected following Western economic sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian economy resilience",
+      "source_sentence": "The Russian economy has held up better than some expected following Western economic sanctions.",
+      "prop_index": 52,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_053",
+      "text": "Russia's trade balance remains in surplus.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian trade balance",
+      "source_sentence": "Russia's trade balance remains in surplus, the ruble is not far off its prewar valuation against the dollar, and the country heavily relies on energy exports.",
+      "prop_index": 53,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_054",
+      "text": "The ruble is not far off its prewar valuation against the dollar.",
+      "is_factual_claim": true,
+      "topic_hint": "Ruble valuation",
+      "source_sentence": "Russia's trade balance remains in surplus, the ruble is not far off its prewar valuation against the dollar, and the country heavily relies on energy exports.",
+      "prop_index": 54,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_055",
+      "text": "Russia heavily relies on energy exports.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian energy reliance",
+      "source_sentence": "Russia's trade balance remains in surplus, the ruble is not far off its prewar valuation against the dollar, and the country heavily relies on energy exports.",
+      "prop_index": 55,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_056",
+      "text": "In 2025, Russian manufacturing declined at its fastest rate since March 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian manufacturing decline",
+      "source_sentence": "In 2025, Russian manufacturing declined at its fastest rate since March 2022.",
+      "prop_index": 56,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_057",
+      "text": "The International Monetary Fund estimated that Russia's economic growth would remain slow, at 0.8 percent, in 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "IMF economic forecast",
+      "source_sentence": "Economic growth slowed to 0.6 percent in 2025, and the International Monetary Fund estimated that growth would remain slow, at 0.8 percent, in 2026.",
+      "prop_index": 57,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_058",
+      "text": "Russia receives limited foreign investment.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian foreign investment",
+      "source_sentence": "The country receives limited foreign investment and is unable to borrow on international markets.",
+      "prop_index": 58,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_059",
+      "text": "Russia is unable to borrow on international markets.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian market access",
+      "source_sentence": "The country receives limited foreign investment and is unable to borrow on international markets.",
+      "prop_index": 59,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_060",
+      "text": "Russia spends roughly half its budget on armed forces, military-industrial complex, domestic security, and debt service.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian budget allocation",
+      "source_sentence": "It spends roughly half its budget on the armed forces, the military-industrial complex, domestic security, and debt service.",
+      "prop_index": 60,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_061",
+      "text": "Russia's nominal GDP is closer to Canada's nominal GDP or Italy's nominal GDP.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian GDP comparison",
+      "source_sentence": "Russia's nominal GDP is closer to Canada or Italy — not the United States, China, or even Germany or Japan.",
+      "prop_index": 61,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_062",
+      "text": "Russia had zero companies in the top 100 technology companies in the world by market capitalization.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian tech companies",
+      "source_sentence": "Russia had zero companies in the top 100 technology companies in the world by market capitalization.",
+      "prop_index": 62,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_063",
+      "text": "Russia is a bottom-tier AI power, ranking 28 of 36 countries in the overall strength and development of its AI ecosystem according to Stanford University.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian AI ranking",
+      "source_sentence": "Russia today is a bottom-tier AI power, ranking 28 of 36 countries in the overall strength and development of its AI ecosystem according to Stanford University.",
+      "prop_index": 63,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_064",
+      "text": "Russia has leaned heavily on China to help prevent a further deterioration of Russia's economy and defense industrial base.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia-China reliance",
+      "source_sentence": "To help prevent a further deterioration of Russia's economy and defense industrial base, Russia has leaned heavily on China.",
+      "prop_index": 64,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_065",
+      "text": "China-Russia trade reached nearly $250 billion in 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "China-Russia trade",
+      "source_sentence": "China-Russia trade reached nearly $250 billion in 2024.",
+      "prop_index": 65,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_066",
+      "text": "Chinese exports helped Russia triple its production of Iskander-M ballistic missiles from 2023 to 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "Chinese military aid",
+      "source_sentence": "Chinese exports helped Russia triple its production of Iskander-M ballistic missiles from 2023 to 2024.",
+      "prop_index": 66,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_067",
+      "text": "China accounted for 70 percent of Russia's imports of ammonium perchlorate in 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "Chinese chemical exports",
+      "source_sentence": "China accounted for 70 percent of Russia's imports of ammonium perchlorate in 2024, an essential ingredient in ballistic missile fuel.",
+      "prop_index": 67,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_068",
+      "text": "Some data suggests a major decline in popular support inside Russia for the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian war support",
+      "source_sentence": "Some data suggests that there has been a major decline in popular support inside Russia for the war.",
+      "prop_index": 68,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_069",
+      "text": "According to one poll, 57 percent of Russians in May 2023 believed most people in their inner social circle supported the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian poll results",
+      "source_sentence": "According to one poll, 57 percent of Russians in May 2023 believed most people in their inner social circle supported the war, compared to 39 percent who opposed it.",
+      "prop_index": 69,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_070",
+      "text": "By October 2025, 55 percent of Russians believed most people in their inner circle opposed the war, according to one poll.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian poll results",
+      "source_sentence": "By October 2025, those numbers flipped, with 55 percent believing most people in their inner circle opposed the war.",
+      "prop_index": 70,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_071",
+      "text": "President Vladimir Putin remains undeterred by the high casualty and fatality rates.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's resolve",
+      "source_sentence": "Still, President Putin remains undeterred by the high casualty and fatality rates, and Russia's economic downturn is unlikely to bring the Kremlin to the negotiating table — at least on terms that would be acceptable to Ukraine or Europe.",
+      "prop_index": 71,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_072",
+      "text": "Russia's economic downturn is unlikely to bring the Kremlin to the negotiating table on terms acceptable to Ukraine or Europe.",
+      "is_factual_claim": true,
+      "topic_hint": "Kremlin negotiation prospects",
+      "source_sentence": "Still, President Putin remains undeterred by the high casualty and fatality rates, and Russia's economic downturn is unlikely to bring the Kremlin to the negotiating table — at least on terms that would be acceptable to Ukraine or Europe.",
+      "prop_index": 72,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_073",
+      "text": "Russia has several vulnerabilities.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian vulnerabilities",
+      "source_sentence": "Russia has several vulnerabilities that the United States and Europe can exploit.",
+      "prop_index": 73,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_074",
+      "text": "Russia's economy is a vulnerability.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian economy vulnerability",
+      "source_sentence": "The first is Russia's economy.",
+      "prop_index": 74,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_075",
+      "text": "Increased sanctions against Russia's energy sector would likely cause major pain.",
+      "is_factual_claim": true,
+      "topic_hint": "Energy sanctions impact",
+      "source_sentence": "Increased sanctions against Russia's energy sector would likely cause major pain.",
+      "prop_index": 75,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_076",
+      "text": "Russia's \"shadow fleet\" is vulnerable to action by the United States and European countries.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian shadow fleet",
+      "source_sentence": "Russia's \"shadow fleet\" is also vulnerable to action by the United States and European countries.",
+      "prop_index": 76,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_077",
+      "text": "The blood cost of a protracted war is a vulnerability for Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "War cost vulnerability",
+      "source_sentence": "A second vulnerability is the blood cost of a protracted war.",
+      "prop_index": 77,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_078",
+      "text": "The United States has failed to fully wield economic cudgels against Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "US economic failure",
+      "source_sentence": "Despite Russian challenges, the great irony is that the United States and Europe have failed to fully wield the economic or military cudgels.",
+      "prop_index": 78,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_079",
+      "text": "The United States has failed to fully wield military cudgels against Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "US military failure",
+      "source_sentence": "Despite Russian challenges, the great irony is that the United States and Europe have failed to fully wield the economic or military cudgels.",
+      "prop_index": 79,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_080",
+      "text": "Europe has failed to fully wield economic cudgels against Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Europe economic failure",
+      "source_sentence": "Despite Russian challenges, the great irony is that the United States and Europe have failed to fully wield the economic or military cudgels.",
+      "prop_index": 80,
+      "article_id": "csis_001"
+    },
+    {
+      "prop_id": "csis_001_prop_081",
+      "text": "Europe has failed to fully wield military cudgels against Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Europe military failure",
+      "source_sentence": "Despite Russian challenges, the great irony is that the United States and Europe have failed to fully wield the economic or military cudgels.",
+      "prop_index": 81,
+      "article_id": "csis_001"
+    }
+  ]
+}

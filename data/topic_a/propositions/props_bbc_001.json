@@ -1,0 +1,691 @@
+{
+  "article_id": "bbc_001",
+  "source_name": "BBC",
+  "total_propositions": 76,
+  "propositions": [
+    {
+      "prop_id": "bbc_001_prop_000",
+      "text": "Volodymyr Zelensky stated that Ukraine will do everything to achieve peace and justice on the fourth anniversary of Russia's full-scale invasion.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's statement, Ukraine's goals",
+      "source_sentence": "Volodymyr Zelensky says Ukraine will do everything to achieve peace and justice, on the fourth anniversary of Russia's full-scale invasion.",
+      "prop_index": 0,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_001",
+      "text": "European leaders are currently in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "European leaders in Ukraine",
+      "source_sentence": "European leaders are in Ukraine and commemorative events are being held across the country as the war enters its fifth year.",
+      "prop_index": 1,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_002",
+      "text": "Commemorative events are being held across Ukraine as the war enters its fifth year.",
+      "is_factual_claim": true,
+      "topic_hint": "Commemorative events, war anniversary",
+      "source_sentence": "European leaders are in Ukraine and commemorative events are being held across the country as the war enters its fifth year.",
+      "prop_index": 2,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_003",
+      "text": "The war is entering its fifth year.",
+      "is_factual_claim": true,
+      "topic_hint": "War duration",
+      "source_sentence": "European leaders are in Ukraine and commemorative events are being held across the country as the war enters its fifth year.",
+      "prop_index": 3,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_004",
+      "text": "UK PM Keir Starmer stated that Ukraine's allies must \"defeat the falsehood that Russia is winning\".",
+      "is_factual_claim": true,
+      "topic_hint": "Keir Starmer's statement, war narrative",
+      "source_sentence": "UK PM Keir Starmer says Ukraine's allies must \"defeat the falsehood that Russia is winning\", while French President Emmanuel Macron describes the war as \"a triple failure for Russia\".",
+      "prop_index": 4,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_005",
+      "text": "French President Emmanuel Macron described the war as \"a triple failure for Russia\".",
+      "is_factual_claim": true,
+      "topic_hint": "Emmanuel Macron's statement, Russia's failure",
+      "source_sentence": "UK PM Keir Starmer says Ukraine's allies must \"defeat the falsehood that Russia is winning\", while French President Emmanuel Macron describes the war as \"a triple failure for Russia\".",
+      "prop_index": 5,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_006",
+      "text": "Kremlin spokesman Dmitry Peskov stated that the goals of what Russia calls the \"special military operation\" have not been \"fully achieved yet\".",
+      "is_factual_claim": true,
+      "topic_hint": "Dmitry Peskov's statement, Russia's goals",
+      "source_sentence": "Kremlin spokesman Dmitry Peskov says the goals of what Russia calls the \"special military operation\" have not been \"fully achieved yet\".",
+      "prop_index": 6,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_007",
+      "text": "According to Volodymyr Zelensky, at least 55,000 Ukrainian soldiers have been killed since 24 February 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian casualties, Zelensky's estimate",
+      "source_sentence": "At least 55,000 Ukrainian soldiers have been killed since 24 February 2022 according to Zelensky, but the toll is likely to be higher.",
+      "prop_index": 7,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_008",
+      "text": "The toll of Ukrainian soldiers killed is likely to be higher than 55,000.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian casualties, assessment",
+      "source_sentence": "At least 55,000 Ukrainian soldiers have been killed since 24 February 2022 according to Zelensky, but the toll is likely to be higher.",
+      "prop_index": 8,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_009",
+      "text": "BBC analysis estimates Russian military deaths could range from 243,000 and 352,000.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian casualties, BBC estimate",
+      "source_sentence": "BBC analysis estimates Russian military deaths could range from 243,000 and 352,000.",
+      "prop_index": 9,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_010",
+      "text": "Four years of war have brought significant casualties on both sides.",
+      "is_factual_claim": true,
+      "topic_hint": "War casualties, both sides",
+      "source_sentence": "Four years of war have brought significant casualties on both sides - but verifying the exact figures can be challenging.",
+      "prop_index": 10,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_011",
+      "text": "Verifying the exact figures of casualties can be challenging.",
+      "is_factual_claim": true,
+      "topic_hint": "Casualty verification difficulty",
+      "source_sentence": "Four years of war have brought significant casualties on both sides - but verifying the exact figures can be challenging.",
+      "prop_index": 11,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_012",
+      "text": "Last month, President Volodymyr Zelensky told French broadcaster France 2 that \"officially\" 55,000 Ukrainians had been killed on the battlefield.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's statement, Ukrainian deaths",
+      "source_sentence": "Last month, President Volodymyr Zelensky told French broadcaster France 2 that \"officially\" 55,000 Ukrainians had been killed on the battlefield.",
+      "prop_index": 12,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_013",
+      "text": "President Volodymyr Zelensky stated that a \"large number of people\" are considered officially missing.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's statement, missing persons",
+      "source_sentence": "In addition, a \"large number of people\" are considered officially missing, he said, though he did not give an exact figure.",
+      "prop_index": 13,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_014",
+      "text": "Based on estimates from sources including the UA Losses website, the number of Ukrainians killed could be as high as 200,000.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian casualties, estimated range",
+      "source_sentence": "Based on estimates from sources including the UA Losses website, which the BBC has cross-referenced, the number of Ukrainians killed could be as high as 200,000.",
+      "prop_index": 14,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_015",
+      "text": "The BBC has identified the names of over 186,000 Russian soldiers killed in the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian casualties, BBC identification",
+      "source_sentence": "On the Russian side, the BBC has now identified the names of over 186,000 Russian soldiers killed in the war.",
+      "prop_index": 15,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_016",
+      "text": "The true Russian death toll is generally accepted to be much higher than the identified names.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian casualties, true toll",
+      "source_sentence": "The true death toll is generally accepted to be much higher, as many deaths on the battlefield are not recorded.",
+      "prop_index": 16,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_017",
+      "text": "Many deaths on the battlefield are not recorded.",
+      "is_factual_claim": true,
+      "topic_hint": "Battlefield deaths, recording issues",
+      "source_sentence": "The true death toll is generally accepted to be much higher, as many deaths on the battlefield are not recorded.",
+      "prop_index": 17,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_018",
+      "text": "Military experts believe the BBC's identified names might represent 45-65% of the total Russian deaths.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian casualties, expert belief",
+      "source_sentence": "Military experts believe this analysis might represent 45-65% of the total, putting the potential number of Russian deaths at between 243,000 and 352,000.",
+      "prop_index": 18,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_019",
+      "text": "Military experts estimate the potential number of Russian deaths to be between 243,000 and 352,000.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian casualties, expert estimate",
+      "source_sentence": "Military experts believe this analysis might represent 45-65% of the total, putting the potential number of Russian deaths at between 243,000 and 352,000.",
+      "prop_index": 19,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_020",
+      "text": "According to analysts at the US-based Institute for the Study of War (ISW), Russia took about 4,700 sq km (1,800 sq miles) of territory in 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's territorial gains, ISW",
+      "source_sentence": "Russia took about 4,700 sq km (1,800 sq miles) of territory in 2025 - an area about twice the size of the city of Moscow - according to analysts at the US-based Institute for the Study of War (ISW).",
+      "prop_index": 20,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_021",
+      "text": "The territory Russia took in 2025 is about twice the size of the city of Moscow.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's territorial gains, comparison",
+      "source_sentence": "Russia took about 4,700 sq km (1,800 sq miles) of territory in 2025 - an area about twice the size of the city of Moscow - according to analysts at the US-based Institute for the Study of War (ISW).",
+      "prop_index": 21,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_022",
+      "text": "Russian forces have been moving mile by mile through the Donbas region.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military movements, Donbas",
+      "source_sentence": "Russian forces have been moving mile by mile through the Donbas region, trying to gain full control of the area along with two other regions, Zaporizhzhia and Kherson.",
+      "prop_index": 22,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_023",
+      "text": "Russian forces are trying to gain full control of the Donbas, Zaporizhzhia, and Kherson regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military objectives, regions",
+      "source_sentence": "Russian forces have been moving mile by mile through the Donbas region, trying to gain full control of the area along with two other regions, Zaporizhzhia and Kherson.",
+      "prop_index": 23,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_024",
+      "text": "Russia has never had the Donbas, Zaporizhzhia, and Kherson regions under full control.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's territorial control",
+      "source_sentence": "But it has never had these regions under full control - and in some front line areas, Russian forces appear to have been forced to retreat.",
+      "prop_index": 24,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_025",
+      "text": "In some front line areas, Russian forces appear to have been forced to retreat.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military retreats",
+      "source_sentence": "But it has never had these regions under full control - and in some front line areas, Russian forces appear to have been forced to retreat.",
+      "prop_index": 25,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_026",
+      "text": "There have been multiple rounds of peace talks.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace talks, history",
+      "source_sentence": "Despite multiple rounds of peace talks, there are still key hurdles to overcome.",
+      "prop_index": 26,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_027",
+      "text": "An agreement on territory remains elusive.",
+      "is_factual_claim": true,
+      "topic_hint": "Territorial agreement, difficulty",
+      "source_sentence": "An agreement on territory remains elusive, with Russia still seeking full control of the eastern Donbas, a non-starter for Ukraine.",
+      "prop_index": 27,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_028",
+      "text": "Russia is still seeking full control of the eastern Donbas.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's territorial demands, Donbas",
+      "source_sentence": "An agreement on territory remains elusive, with Russia still seeking full control of the eastern Donbas, a non-starter for Ukraine.",
+      "prop_index": 28,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_029",
+      "text": "Full control of the eastern Donbas by Russia is a non-starter for Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine's stance, Donbas",
+      "source_sentence": "An agreement on territory remains elusive, with Russia still seeking full control of the eastern Donbas, a non-starter for Ukraine.",
+      "prop_index": 29,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_030",
+      "text": "US President Trump has been driving the peace talks.",
+      "is_factual_claim": true,
+      "topic_hint": "Trump's role, peace talks",
+      "source_sentence": "US President Trump has been driving the talks but has previously been accused of being too aligned with Russia.",
+      "prop_index": 30,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_031",
+      "text": "US President Trump has previously been accused of being too aligned with Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Trump's alignment, Russia",
+      "source_sentence": "US President Trump has been driving the talks but has previously been accused of being too aligned with Russia.",
+      "prop_index": 31,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_032",
+      "text": "The most recent round of negotiations in Geneva concluded without a breakthrough on 18 February.",
+      "is_factual_claim": true,
+      "topic_hint": "Geneva negotiations, outcome",
+      "source_sentence": "The most recent round of negotiations in Geneva concluded without a breakthrough on 18 February.",
+      "prop_index": 32,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_033",
+      "text": "Ukraine is under pressure from Trump's America to give up strategic land.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine's pressure, land concessions",
+      "source_sentence": "Ukraine is under pressure from Trump's America to give up strategic land that Russia has failed to capture despite sacrificing thousands of its troops.",
+      "prop_index": 33,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_034",
+      "text": "Russia has failed to capture strategic land despite sacrificing thousands of its troops.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's military failures, land",
+      "source_sentence": "Ukraine is under pressure from Trump's America to give up strategic land that Russia has failed to capture despite sacrificing thousands of its troops.",
+      "prop_index": 34,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_035",
+      "text": "President Volodymyr Zelensky told the BBC at the weekend that Ukraine would not be giving up land.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's stance, land concessions",
+      "source_sentence": "President Zelensky told the BBC at the weekend that he would not be giving up land.",
+      "prop_index": 35,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_036",
+      "text": "President Vladimir Putin shows no sign of dropping his maximalist demands.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's demands, inflexibility",
+      "source_sentence": "President Putin shows no sign of dropping his maximalist demands.",
+      "prop_index": 36,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_037",
+      "text": "Vladimir Putin has made clear his belief that Ukraine should be under Russia's control.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin's belief, Ukraine control",
+      "source_sentence": "Putin has made clear his belief that Ukraine should be under Russia's control.",
+      "prop_index": 37,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_038",
+      "text": "Ukrainians gathered to observe a minute's silence.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainians, minute's silence",
+      "source_sentence": "Ukrainians gathered to observe a minute's silence, while world leaders were also in Kyiv to commemorate the conflict entering its fifth year.",
+      "prop_index": 38,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_039",
+      "text": "World leaders were in Kyiv to commemorate the conflict entering its fifth year.",
+      "is_factual_claim": true,
+      "topic_hint": "World leaders, Kyiv commemoration",
+      "source_sentence": "Ukrainians gathered to observe a minute's silence, while world leaders were also in Kyiv to commemorate the conflict entering its fifth year.",
+      "prop_index": 39,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_040",
+      "text": "President of the EU Commission, Ursula von der Leyen, stated that she was among leaders remembering the \"fallen heroes of Ukraine\".",
+      "is_factual_claim": true,
+      "topic_hint": "Ursula von der Leyen, fallen heroes",
+      "source_sentence": "President of the EU Commission, Ursula von der Leyen, said she was among leaders remembering the \"fallen heroes of Ukraine\".",
+      "prop_index": 40,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_041",
+      "text": "Volodymyr Zelensky is pushing for Ukraine to be given a date to join the EU.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky, EU membership",
+      "source_sentence": "Zelensky is pushing for Ukraine to be given a date to join the EU, warning that without one Russia could seek to block the move.",
+      "prop_index": 41,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_042",
+      "text": "Volodymyr Zelensky warned that without a date for EU membership, Russia could seek to block Ukraine's move to join the EU.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's warning, Russia's actions",
+      "source_sentence": "Zelensky is pushing for Ukraine to be given a date to join the EU, warning that without one Russia could seek to block the move.",
+      "prop_index": 42,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_043",
+      "text": "Volodymyr Zelensky stated in a virtual address to the European Parliament that his push for an EU date is a clear understanding of how Vladimir Putin will act.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's statement, Putin's actions",
+      "source_sentence": "\"This is not just a wish, it's a clear understanding of how Putin will act,\" he said in a virtual address to the European Parliament.",
+      "prop_index": 43,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_044",
+      "text": "Volodymyr Zelensky stated that if there is no date or guarantee for EU membership, Vladimir Putin will find a way to block Ukraine by dividing Europe.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's warning, Putin's strategy",
+      "source_sentence": "\"If there's no date, if there's no such guarantee, he will find a way to block Ukraine by dividing you, by dividing Europe.\"",
+      "prop_index": 44,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_045",
+      "text": "Footage of President Volodymyr Zelensky's top-secret bunker has been made public for the first time.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's bunker, public footage",
+      "source_sentence": "Footage of President Zelensky's top-secret bunker has been made public for the first time.",
+      "prop_index": 45,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_046",
+      "text": "The footage of President Volodymyr Zelensky's bunker appears at the start of his address to the nation made to mark the fourth anniversary.",
+      "is_factual_claim": true,
+      "topic_hint": "Bunker footage, address",
+      "source_sentence": "It appears at the start of his address to the nation made to mark the fourth anniversary.",
+      "prop_index": 46,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_047",
+      "text": "Volodymyr Zelensky stated that the small room in the bunker on Bankova Street is where he held his first conversations with world leaders at the start of the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky's bunker, early war",
+      "source_sentence": "\"This office - this small room in the bunker on Bankova Street - this is where I held my first conversations with world leaders at the start of the war,\" Zelensky said.",
+      "prop_index": 47,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_048",
+      "text": "In the UK, Prime Minister Keir Starmer promised during a cabinet meeting to support Ukraine \"for as long as it takes\".",
+      "is_factual_claim": true,
+      "topic_hint": "Keir Starmer's promise, Ukraine support",
+      "source_sentence": "In the UK, Prime Minister Keir Starmer promised during a cabinet meeting to support Ukraine \"for as long as it takes\" and said that Vladimir Putin is \"standing in the way\" of a peace deal.",
+      "prop_index": 48,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_049",
+      "text": "Prime Minister Keir Starmer said that Vladimir Putin is \"standing in the way\" of a peace deal.",
+      "is_factual_claim": true,
+      "topic_hint": "Keir Starmer's statement, Putin's role",
+      "source_sentence": "In the UK, Prime Minister Keir Starmer promised during a cabinet meeting to support Ukraine \"for as long as it takes\" and said that Vladimir Putin is \"standing in the way\" of a peace deal.",
+      "prop_index": 49,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_050",
+      "text": "The UK announced what it states is the largest package of sanctions against Russia since the early months of the war in 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "UK sanctions, Russia",
+      "source_sentence": "The UK announced what it says is the largest package of sanctions against Russia since the early months of the war in 2022, targeting critical oil revenues.",
+      "prop_index": 50,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_051",
+      "text": "The UK's sanctions package targets critical oil revenues.",
+      "is_factual_claim": true,
+      "topic_hint": "UK sanctions, oil revenues",
+      "source_sentence": "The UK announced what it says is the largest package of sanctions against Russia since the early months of the war in 2022, targeting critical oil revenues.",
+      "prop_index": 51,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_052",
+      "text": "The UK government stated it is sanctioning 175 companies in the \"2Rivers\" oil network.",
+      "is_factual_claim": true,
+      "topic_hint": "UK sanctions, 2Rivers network",
+      "source_sentence": "The government says it is sanctioning 175 companies in the \"2Rivers\" oil network, one of the largest shadow fleet operators globally and a major trader of Russian crude oil.",
+      "prop_index": 52,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_053",
+      "text": "The \"2Rivers\" oil network is one of the largest shadow fleet operators globally and a major trader of Russian crude oil.",
+      "is_factual_claim": true,
+      "topic_hint": "2Rivers network, oil trade",
+      "source_sentence": "The government says it is sanctioning 175 companies in the \"2Rivers\" oil network, one of the largest shadow fleet operators globally and a major trader of Russian crude oil.",
+      "prop_index": 53,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_054",
+      "text": "Keir Starmer stated that Ukraine's allies need to \"shift the narrative\" away from the perception that Russia is winning the conflict.",
+      "is_factual_claim": true,
+      "topic_hint": "Keir Starmer, war narrative",
+      "source_sentence": "Starmer says Ukraine's allies need to \"shift the narrative\" away from the perception that Russia is winning the conflict.",
+      "prop_index": 54,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_055",
+      "text": "Keir Starmer stated that Russia is not winning the conflict.",
+      "is_factual_claim": true,
+      "topic_hint": "Keir Starmer, Russia's status",
+      "source_sentence": "\"We've got to shift the narrative. Whatever Putin tells himself and his people, Russia is not winning, and we must shift the narrative into that place with greater force and determination,\" he says.",
+      "prop_index": 55,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_056",
+      "text": "Russia has suffered \"half a million casualties in the last year\" and gained and occupied less than 1% extra of Ukrainian territory.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's casualties, territorial gains",
+      "source_sentence": "Russia has suffered \"half a million casualties in the last year, to gain and occupy less than 1% extra of Ukrainian territory\".",
+      "prop_index": 56,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_057",
+      "text": "The Kremlin told the BBC that both Russia and Russians have \"changed considerably\" in the four years since Vladimir Putin launched his \"special military operation\".",
+      "is_factual_claim": true,
+      "topic_hint": "Kremlin's statement, Russia's change",
+      "source_sentence": "The Kremlin has told the BBC that both Russia and Russians have \"changed considerably\" in the four years since Vladimir Putin launched his \"special military operation\".",
+      "prop_index": 57,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_058",
+      "text": "Kremlin spokesman Dmitry Peskov said the \"full goals of the special operation\" have not yet been achieved, which is why the conflict continues.",
+      "is_factual_claim": true,
+      "topic_hint": "Dmitry Peskov, special operation goals",
+      "source_sentence": "Kremlin spokesman Dmitry Peskov said the \"full goals of the special operation\" have not yet been achieved, which is why the conflict continues.",
+      "prop_index": 58,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_059",
+      "text": "Kremlin spokesman Dmitry Peskov also said that the past four years had been \"very important\" for Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Dmitry Peskov, Russia's importance",
+      "source_sentence": "Kremlin spokesman Peskov also said that the past four years had been \"very important\" for Russia.",
+      "prop_index": 59,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_060",
+      "text": "Since 2022, millions of Russian lives have been lost or upended by the war and its sprawling consequences, including high inflation and mass emigration.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian lives, war impact",
+      "source_sentence": "Since 2022 millions of Russian lives have been lost or upended by the war and its sprawling consequences - from high inflation to mass emigration.",
+      "prop_index": 60,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_061",
+      "text": "Russia's Foreign Intelligence Service (SVR) released a statement accusing the UK and France of plotting to arm Ukraine with a nuclear weapon or a \"dirty bomb\".",
+      "is_factual_claim": true,
+      "topic_hint": "SVR accusation, UK/France",
+      "source_sentence": "Russia's Foreign Intelligence Service (SVR) released an entirely unsubstantiated statement accusing the UK and France of plotting to arm Ukraine with a nuclear weapon or a \"dirty bomb\".",
+      "prop_index": 61,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_062",
+      "text": "The statement by Russia's Foreign Intelligence Service (SVR) was entirely unsubstantiated.",
+      "is_factual_claim": true,
+      "topic_hint": "SVR statement, unsubstantiated",
+      "source_sentence": "Russia's Foreign Intelligence Service (SVR) released an entirely unsubstantiated statement accusing the UK and France of plotting to arm Ukraine with a nuclear weapon or a \"dirty bomb\".",
+      "prop_index": 62,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_063",
+      "text": "The SVR's accusations are completely unfounded.",
+      "is_factual_claim": true,
+      "topic_hint": "SVR accusations, unfounded",
+      "source_sentence": "The SVR's accusations are completely unfounded, and the agency has provided no documents or leaks to support it.",
+      "prop_index": 63,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_064",
+      "text": "The SVR has provided no documents or leaks to support its accusations.",
+      "is_factual_claim": true,
+      "topic_hint": "SVR accusations, lack of evidence",
+      "source_sentence": "The SVR's accusations are completely unfounded, and the agency has provided no documents or leaks to support it.",
+      "prop_index": 64,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_065",
+      "text": "Downing Street described the SVR's claims as \"a clear attempt by Vladimir Putin to distract\" from Russia's actions in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Downing Street, SVR claims",
+      "source_sentence": "Downing Street described the claims as \"a clear attempt by Vladimir Putin to distract\" from Russia's actions in Ukraine.",
+      "prop_index": 65,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_066",
+      "text": "Russian state TV channels made no mention on 24 February of the fourth anniversary of Moscow's full-scale invasion of Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian TV, anniversary omission",
+      "source_sentence": "Russian state TV channels made no mention on 24 February of the fourth anniversary of Moscow's full-scale invasion of Ukraine.",
+      "prop_index": 66,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_067",
+      "text": "Russian state TV coverage focused on reported battlefield advances on 24 February.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian TV, battlefield advances",
+      "source_sentence": "Instead, coverage focused on reported battlefield advances and events marking Defender of the Fatherland Day.",
+      "prop_index": 67,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_068",
+      "text": "Russian state TV coverage focused on events marking Defender of the Fatherland Day on 24 February.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian TV, Defender's Day",
+      "source_sentence": "Instead, coverage focused on reported battlefield advances and events marking Defender of the Fatherland Day.",
+      "prop_index": 68,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_069",
+      "text": "Slovak Prime Minister Robert Fico ordered Slovakia's state-controlled electricity distributor to refuse requests for emergency assistance from Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Robert Fico, Ukraine aid refusal",
+      "source_sentence": "Slovak Prime Minister Robert Fico ordered his country's state-controlled electricity distributor to refuse requests for emergency assistance from Ukraine as a spat over Russian oil supplies escalates.",
+      "prop_index": 69,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_070",
+      "text": "A spat over Russian oil supplies is escalating.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian oil supplies, spat",
+      "source_sentence": "Slovak Prime Minister Robert Fico ordered his country's state-controlled electricity distributor to refuse requests for emergency assistance from Ukraine as a spat over Russian oil supplies escalates.",
+      "prop_index": 70,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_071",
+      "text": "Slovakia and Hungary accuse Ukraine of deliberately holding back Russian oil shipments via the Soviet-era Druzhba pipeline.",
+      "is_factual_claim": true,
+      "topic_hint": "Slovakia/Hungary accusation, oil",
+      "source_sentence": "Slovakia and Hungary - the two most pro-Russian countries in the EU - accuse Ukraine of deliberately holding back Russian oil shipments via the Soviet-era Druzhba pipeline.",
+      "prop_index": 71,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_072",
+      "text": "Slovakia and Hungary are the two most pro-Russian countries in the EU.",
+      "is_factual_claim": true,
+      "topic_hint": "Slovakia/Hungary, pro-Russian",
+      "source_sentence": "Slovakia and Hungary - the two most pro-Russian countries in the EU - accuse Ukraine of deliberately holding back Russian oil shipments via the Soviet-era Druzhba pipeline.",
+      "prop_index": 72,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_073",
+      "text": "In Bucha, people gathered at a military cemetery to commemorate the fallen.",
+      "is_factual_claim": true,
+      "topic_hint": "Bucha, commemoration",
+      "source_sentence": "In Bucha, under grey skies, people gathered at a military cemetery to commemorate the fallen.",
+      "prop_index": 73,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_074",
+      "text": "Serhii Zavadsky, 49, was at the military cemetery in Bucha to pay respects to his oldest son, Oleksiy.",
+      "is_factual_claim": true,
+      "topic_hint": "Serhii Zavadsky, son's commemoration",
+      "source_sentence": "Serhii Zavadsky, 49, was there to pay respects to his oldest son, Oleksiy, who died in 2023 during the siege of Bakhmut.",
+      "prop_index": 74,
+      "article_id": "bbc_001"
+    },
+    {
+      "prop_id": "bbc_001_prop_075",
+      "text": "Oleksiy, Serhii Zavadsky's oldest son, died in 2023 during the siege of Bakhmut.",
+      "is_factual_claim": true,
+      "topic_hint": "Oleksiy's death, Bakhmut",
+      "source_sentence": "Serhii Zavadsky, 49, was there to pay respects to his oldest son, Oleksiy, who died in 2023 during the siege of Bakhmut.",
+      "prop_index": 75,
+      "article_id": "bbc_001"
+    }
+  ]
+}

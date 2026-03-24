@@ -1,0 +1,547 @@
+{
+  "article_id": "aljazeera_001",
+  "source_name": "Al Jazeera",
+  "total_propositions": 60,
+  "propositions": [
+    {
+      "prop_id": "aljazeera_001_prop_000",
+      "text": "President Volodymyr Zelenskyy urged allies to keep up sanctions pressure on Russia's economy.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy sanctions pressure",
+      "source_sentence": "President Volodymyr Zelenskyy has urged allies to keep up sanctions pressure on Russia's economy ahead of a second day of talks between Ukraine and United States officials on ways to end the more-than-four-year Russia-Ukraine war.",
+      "prop_index": 0,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_001",
+      "text": "The urging occurred ahead of a second day of talks between Ukraine and United States officials.",
+      "is_factual_claim": true,
+      "topic_hint": "Talks timing",
+      "source_sentence": "President Volodymyr Zelenskyy has urged allies to keep up sanctions pressure on Russia's economy ahead of a second day of talks between Ukraine and United States officials on ways to end the more-than-four-year Russia-Ukraine war.",
+      "prop_index": 1,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_002",
+      "text": "The talks between Ukraine and United States officials are on ways to end the Russia-Ukraine war.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine US talks purpose",
+      "source_sentence": "President Volodymyr Zelenskyy has urged allies to keep up sanctions pressure on Russia's economy ahead of a second day of talks between Ukraine and United States officials on ways to end the more-than-four-year Russia-Ukraine war.",
+      "prop_index": 2,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_003",
+      "text": "The Russia-Ukraine war has lasted more than four years.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia-Ukraine war duration",
+      "source_sentence": "President Volodymyr Zelenskyy has urged allies to keep up sanctions pressure on Russia's economy ahead of a second day of talks between Ukraine and United States officials on ways to end the more-than-four-year Russia-Ukraine war.",
+      "prop_index": 3,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_004",
+      "text": "Russia's representatives were not present at the talks.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia talks absence",
+      "source_sentence": "Russia's representatives were not present at the talks, which opened on Saturday in Florida.",
+      "prop_index": 4,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_005",
+      "text": "The talks opened on Saturday in Florida.",
+      "is_factual_claim": true,
+      "topic_hint": "Talks location date",
+      "source_sentence": "Russia's representatives were not present at the talks, which opened on Saturday in Florida.",
+      "prop_index": 5,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_006",
+      "text": "Russia's representatives were originally expected to attend the negotiations.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia expected attendance",
+      "source_sentence": "They were originally expected to attend the negotiations, which had been due to take place in the United Arab Emirates, before the US-Israeli war on Iran.",
+      "prop_index": 6,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_007",
+      "text": "The negotiations had been due to take place in the United Arab Emirates.",
+      "is_factual_claim": true,
+      "topic_hint": "Negotiations original location",
+      "source_sentence": "They were originally expected to attend the negotiations, which had been due to take place in the United Arab Emirates, before the US-Israeli war on Iran.",
+      "prop_index": 7,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_008",
+      "text": "The negotiations were due to take place before the US-Israeli war on Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Negotiations timing",
+      "source_sentence": "They were originally expected to attend the negotiations, which had been due to take place in the United Arab Emirates, before the US-Israeli war on Iran.",
+      "prop_index": 8,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_009",
+      "text": "The US delegation is being led by special envoy Steve Witkoff.",
+      "is_factual_claim": true,
+      "topic_hint": "US delegation leader",
+      "source_sentence": "The US delegation is being led by special envoy Steve Witkoff and Jared Kushner, US President Donald Trump's son-in-law.",
+      "prop_index": 9,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_010",
+      "text": "The US delegation is being led by Jared Kushner.",
+      "is_factual_claim": true,
+      "topic_hint": "US delegation leader",
+      "source_sentence": "The US delegation is being led by special envoy Steve Witkoff and Jared Kushner, US President Donald Trump's son-in-law.",
+      "prop_index": 10,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_011",
+      "text": "Jared Kushner is US President Donald Trump's son-in-law.",
+      "is_factual_claim": true,
+      "topic_hint": "Jared Kushner relation",
+      "source_sentence": "The US delegation is being led by special envoy Steve Witkoff and Jared Kushner, US President Donald Trump's son-in-law.",
+      "prop_index": 11,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_012",
+      "text": "Volodymyr Zelenskyy posted on X on Sunday.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy X post",
+      "source_sentence": "In a post on X on Sunday, Zelenskyy called for tougher action against Moscow's so-called shadow fleet of tankers and for it to be denied oil revenues.",
+      "prop_index": 12,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_013",
+      "text": "Volodymyr Zelenskyy called for tougher action against Moscow's so-called shadow fleet of tankers.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy shadow fleet",
+      "source_sentence": "In a post on X on Sunday, Zelenskyy called for tougher action against Moscow's so-called shadow fleet of tankers and for it to be denied oil revenues.",
+      "prop_index": 13,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_014",
+      "text": "Volodymyr Zelenskyy called for Moscow's so-called shadow fleet of tankers to be denied oil revenues.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy oil revenues",
+      "source_sentence": "In a post on X on Sunday, Zelenskyy called for tougher action against Moscow's so-called shadow fleet of tankers and for it to be denied oil revenues.",
+      "prop_index": 14,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_015",
+      "text": "Over the past week, Russia launched nearly 1,550 attack drones against Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia drone attacks",
+      "source_sentence": "\"Over the past week, Russia launched nearly 1,550 attack drones against Ukraine, more than 1,260 guided aerial bombs, and two missiles.",
+      "prop_index": 15,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_016",
+      "text": "Over the past week, Russia launched more than 1,260 guided aerial bombs against Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia aerial bombs",
+      "source_sentence": "\"Over the past week, Russia launched nearly 1,550 attack drones against Ukraine, more than 1,260 guided aerial bombs, and two missiles.",
+      "prop_index": 16,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_017",
+      "text": "Over the past week, Russia launched two missiles against Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia missile attacks",
+      "source_sentence": "\"Over the past week, Russia launched nearly 1,550 attack drones against Ukraine, more than 1,260 guided aerial bombs, and two missiles.",
+      "prop_index": 17,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_018",
+      "text": "Over the past week, Russia increased its crude oil sales.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia oil sales increase",
+      "source_sentence": "Over that same week, due to the easing of sanctions, Russia increased its crude oil sales to finance its war,\" Zelenskyy wrote.",
+      "prop_index": 18,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_019",
+      "text": "The increase in Russia's crude oil sales was due to the easing of sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions easing impact",
+      "source_sentence": "Over that same week, due to the easing of sanctions, Russia increased its crude oil sales to finance its war,\" Zelenskyy wrote.",
+      "prop_index": 19,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_020",
+      "text": "Russia increased its crude oil sales to finance its war.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia war financing",
+      "source_sentence": "Over that same week, due to the easing of sanctions, Russia increased its crude oil sales to finance its war,\" Zelenskyy wrote.",
+      "prop_index": 20,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_021",
+      "text": "Volodymyr Zelenskyy wrote this information.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy statement source",
+      "source_sentence": "Over that same week, due to the easing of sanctions, Russia increased its crude oil sales to finance its war,\" Zelenskyy wrote.",
+      "prop_index": 21,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_022",
+      "text": "Revenues give Russia a sense of impunity.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia revenues impunity",
+      "source_sentence": "\"Revenues give Russia a sense of impunity and the ability to continue the war. That is why pressure must continue, and sanctions must work. Russia's shadow fleet must not feel safe in European waters or anywhere else,\" he said.",
+      "prop_index": 22,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_023",
+      "text": "Revenues give Russia the ability to continue the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia revenues war",
+      "source_sentence": "\"Revenues give Russia a sense of impunity and the ability to continue the war. That is why pressure must continue, and sanctions must work. Russia's shadow fleet must not feel safe in European waters or anywhere else,\" he said.",
+      "prop_index": 23,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_024",
+      "text": "Volodymyr Zelenskyy said pressure must continue.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy pressure call",
+      "source_sentence": "\"Revenues give Russia a sense of impunity and the ability to continue the war. That is why pressure must continue, and sanctions must work. Russia's shadow fleet must not feel safe in European waters or anywhere else,\" he said.",
+      "prop_index": 24,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_025",
+      "text": "Volodymyr Zelenskyy said sanctions must work.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy sanctions call",
+      "source_sentence": "\"Revenues give Russia a sense of impunity and the ability to continue the war. That is why pressure must continue, and sanctions must work. Russia's shadow fleet must not feel safe in European waters or anywhere else,\" he said.",
+      "prop_index": 25,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_026",
+      "text": "Volodymyr Zelenskyy said Russia's shadow fleet must not feel safe in European waters or anywhere else.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy shadow fleet safety",
+      "source_sentence": "\"Revenues give Russia a sense of impunity and the ability to continue the war. That is why pressure must continue, and sanctions must work. Russia's shadow fleet must not feel safe in European waters or anywhere else,\" he said.",
+      "prop_index": 26,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_027",
+      "text": "The Ukrainian president added that tankers that serve the war budget can be stopped and blocked.",
+      "is_factual_claim": true,
+      "topic_hint": "Tankers stopping call",
+      "source_sentence": "The Ukrainian president added that tankers that \"serve the war budget can and must be stopped and blocked, not just let go\".",
+      "prop_index": 27,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_028",
+      "text": "The Ukrainian president added that tankers that serve the war budget must be stopped and blocked.",
+      "is_factual_claim": true,
+      "topic_hint": "Tankers blocking call",
+      "source_sentence": "The Ukrainian president added that tankers that \"serve the war budget can and must be stopped and blocked, not just let go\".",
+      "prop_index": 28,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_029",
+      "text": "The so-called shadow fleet is a network of vessels.",
+      "is_factual_claim": true,
+      "topic_hint": "Shadow fleet definition",
+      "source_sentence": "The so-called shadow fleet is a network of vessels that continue to export oil and gas despite Western sanctions due to the ongoing war with Ukraine.",
+      "prop_index": 29,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_030",
+      "text": "The vessels in the shadow fleet continue to export oil and gas.",
+      "is_factual_claim": true,
+      "topic_hint": "Shadow fleet exports",
+      "source_sentence": "The so-called shadow fleet is a network of vessels that continue to export oil and gas despite Western sanctions due to the ongoing war with Ukraine.",
+      "prop_index": 30,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_031",
+      "text": "The vessels in the shadow fleet continue to export oil and gas despite Western sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "Shadow fleet sanctions",
+      "source_sentence": "The so-called shadow fleet is a network of vessels that continue to export oil and gas despite Western sanctions due to the ongoing war with Ukraine.",
+      "prop_index": 31,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_032",
+      "text": "The Western sanctions are due to the ongoing war with Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Western sanctions reason",
+      "source_sentence": "The so-called shadow fleet is a network of vessels that continue to export oil and gas despite Western sanctions due to the ongoing war with Ukraine.",
+      "prop_index": 32,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_033",
+      "text": "Last week, the French Navy seized an oil tanker in the Western Mediterranean.",
+      "is_factual_claim": true,
+      "topic_hint": "French Navy seizure",
+      "source_sentence": "Last week, the French Navy seized an oil tanker in the Western Mediterranean, which France's President Emmanuel Macron said was part of Russia's shadow fleet, a network of vessels used to export oil despite Western sanctions.",
+      "prop_index": 33,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_034",
+      "text": "France's President Emmanuel Macron said the seized oil tanker was part of Russia's shadow fleet.",
+      "is_factual_claim": true,
+      "topic_hint": "Macron shadow fleet",
+      "source_sentence": "Last week, the French Navy seized an oil tanker in the Western Mediterranean, which France's President Emmanuel Macron said was part of Russia's shadow fleet, a network of vessels used to export oil despite Western sanctions.",
+      "prop_index": 34,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_035",
+      "text": "Russia's shadow fleet is a network of vessels.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia shadow fleet",
+      "source_sentence": "Last week, the French Navy seized an oil tanker in the Western Mediterranean, which France's President Emmanuel Macron said was part of Russia's shadow fleet, a network of vessels used to export oil despite Western sanctions.",
+      "prop_index": 35,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_036",
+      "text": "Russia's shadow fleet is used to export oil despite Western sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia oil exports",
+      "source_sentence": "Last week, the French Navy seized an oil tanker in the Western Mediterranean, which France's President Emmanuel Macron said was part of Russia's shadow fleet, a network of vessels used to export oil despite Western sanctions.",
+      "prop_index": 36,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_037",
+      "text": "The shadow fleet has grown following Western sanctions on Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Shadow fleet growth",
+      "source_sentence": "The shadow fleet, which has grown following Western sanctions on Russia aimed at curbing Moscow's oil revenues, has helped to keep Russian oil exports flowing.",
+      "prop_index": 37,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_038",
+      "text": "Western sanctions on Russia are aimed at curbing Moscow's oil revenues.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions oil revenues",
+      "source_sentence": "The shadow fleet, which has grown following Western sanctions on Russia aimed at curbing Moscow's oil revenues, has helped to keep Russian oil exports flowing.",
+      "prop_index": 38,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_039",
+      "text": "The shadow fleet has helped to keep Russian oil exports flowing.",
+      "is_factual_claim": true,
+      "topic_hint": "Shadow fleet oil flow",
+      "source_sentence": "The shadow fleet, which has grown following Western sanctions on Russia aimed at curbing Moscow's oil revenues, has helped to keep Russian oil exports flowing.",
+      "prop_index": 39,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_040",
+      "text": "The Ukrainian and Russian delegations last met in February.",
+      "is_factual_claim": true,
+      "topic_hint": "Delegations last meeting",
+      "source_sentence": "The last time the Ukrainian and Russian delegations met was in February in the Swiss city of Geneva, but no progress was made, as key issues surrounding territory remain unresolved.",
+      "prop_index": 40,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_041",
+      "text": "The meeting took place in the Swiss city of Geneva.",
+      "is_factual_claim": true,
+      "topic_hint": "Meeting location",
+      "source_sentence": "The last time the Ukrainian and Russian delegations met was in February in the Swiss city of Geneva, but no progress was made, as key issues surrounding territory remain unresolved.",
+      "prop_index": 41,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_042",
+      "text": "No progress was made at the meeting.",
+      "is_factual_claim": true,
+      "topic_hint": "Meeting progress",
+      "source_sentence": "The last time the Ukrainian and Russian delegations met was in February in the Swiss city of Geneva, but no progress was made, as key issues surrounding territory remain unresolved.",
+      "prop_index": 42,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_043",
+      "text": "Key issues surrounding territory remain unresolved.",
+      "is_factual_claim": true,
+      "topic_hint": "Territorial issues unresolved",
+      "source_sentence": "The last time the Ukrainian and Russian delegations met was in February in the Swiss city of Geneva, but no progress was made, as key issues surrounding territory remain unresolved.",
+      "prop_index": 43,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_044",
+      "text": "Moscow has repeatedly said it will not agree to a peace deal.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow peace deal",
+      "source_sentence": "Moscow has repeatedly said it will not agree to a peace deal that gives up the Ukrainian territory it has captured during the war.",
+      "prop_index": 44,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_045",
+      "text": "The peace deal Moscow will not agree to would involve giving up Ukrainian territory.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow territory stance",
+      "source_sentence": "Moscow has repeatedly said it will not agree to a peace deal that gives up the Ukrainian territory it has captured during the war.",
+      "prop_index": 45,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_046",
+      "text": "Moscow has captured Ukrainian territory during the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow captured territory",
+      "source_sentence": "Moscow has repeatedly said it will not agree to a peace deal that gives up the Ukrainian territory it has captured during the war.",
+      "prop_index": 46,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_047",
+      "text": "Kyiv has said it will not agree to a deal.",
+      "is_factual_claim": true,
+      "topic_hint": "Kyiv peace deal",
+      "source_sentence": "In contrast, Kyiv has said it will not agree to a deal that does not lead to the return of its territory.",
+      "prop_index": 47,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_048",
+      "text": "The deal Kyiv will not agree to would not lead to the return of Ukrainian territory.",
+      "is_factual_claim": true,
+      "topic_hint": "Kyiv territory return",
+      "source_sentence": "In contrast, Kyiv has said it will not agree to a deal that does not lead to the return of its territory.",
+      "prop_index": 48,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_049",
+      "text": "The US is promoting a peace plan.",
+      "is_factual_claim": true,
+      "topic_hint": "US peace plan",
+      "source_sentence": "Elements of the peace plan being promoted by the US include a presidential election in Ukraine, alongside territorial concessions.",
+      "prop_index": 49,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_050",
+      "text": "Elements of the peace plan include a presidential election in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace plan elections",
+      "source_sentence": "Elements of the peace plan being promoted by the US include a presidential election in Ukraine, alongside territorial concessions.",
+      "prop_index": 50,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_051",
+      "text": "Elements of the peace plan include territorial concessions.",
+      "is_factual_claim": true,
+      "topic_hint": "Peace plan concessions",
+      "source_sentence": "Elements of the peace plan being promoted by the US include a presidential election in Ukraine, alongside territorial concessions.",
+      "prop_index": 51,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_052",
+      "text": "Volodymyr Zelenskyy's term has already expired.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy term expired",
+      "source_sentence": "Zelenskyy, whose term has already expired, is under renewed pressure from Trump to hold a vote as Washington pushes Kyiv towards a peace deal.",
+      "prop_index": 52,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_053",
+      "text": "Volodymyr Zelenskyy is under renewed pressure from Donald Trump to hold a vote.",
+      "is_factual_claim": true,
+      "topic_hint": "Trump pressure Zelenskyy",
+      "source_sentence": "Zelenskyy, whose term has already expired, is under renewed pressure from Trump to hold a vote as Washington pushes Kyiv towards a peace deal.",
+      "prop_index": 53,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_054",
+      "text": "Washington pushes Kyiv towards a peace deal.",
+      "is_factual_claim": true,
+      "topic_hint": "Washington Kyiv push",
+      "source_sentence": "Zelenskyy, whose term has already expired, is under renewed pressure from Trump to hold a vote as Washington pushes Kyiv towards a peace deal.",
+      "prop_index": 54,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_055",
+      "text": "Ukrainian law bars wartime elections.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian election law",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskyy has said Ukraine would be ready to hold democratic elections if the US secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 55,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_056",
+      "text": "Volodymyr Zelenskyy has said Ukraine would be ready to hold democratic elections.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy election readiness",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskyy has said Ukraine would be ready to hold democratic elections if the US secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 56,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_057",
+      "text": "Ukraine's readiness to hold democratic elections is conditional on the US securing a two-month ceasefire.",
+      "is_factual_claim": true,
+      "topic_hint": "Elections ceasefire condition",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskyy has said Ukraine would be ready to hold democratic elections if the US secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 57,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_058",
+      "text": "A two-month ceasefire would allow time to prepare infrastructure.",
+      "is_factual_claim": true,
+      "topic_hint": "Ceasefire infrastructure prep",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskyy has said Ukraine would be ready to hold democratic elections if the US secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 58,
+      "article_id": "aljazeera_001"
+    },
+    {
+      "prop_id": "aljazeera_001_prop_059",
+      "text": "A two-month ceasefire would allow time to put security guarantees in place.",
+      "is_factual_claim": true,
+      "topic_hint": "Ceasefire security guarantees",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskyy has said Ukraine would be ready to hold democratic elections if the US secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 59,
+      "article_id": "aljazeera_001"
+    }
+  ]
+}

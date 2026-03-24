@@ -1,0 +1,547 @@
+{
+  "article_id": "kyivind_005",
+  "source_name": "Kyiv Independent",
+  "total_propositions": 60,
+  "propositions": [
+    {
+      "prop_id": "kyivind_005_prop_000",
+      "text": "Ukraine has increasingly pursued a strategy of \"bringing the war back to Russia.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine war strategy",
+      "source_sentence": "Ukraine has increasingly pursued a strategy of \"bringing the war back to Russia\" — aiming to erode the perception that the full-scale invasion is distant and cost-free for Russian society.",
+      "prop_index": 0,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_001",
+      "text": "Ukraine's strategy aims to erode the perception that the full-scale invasion is distant and cost-free for Russian society.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine strategy aim",
+      "source_sentence": "Ukraine has increasingly pursued a strategy of \"bringing the war back to Russia\" — aiming to erode the perception that the full-scale invasion is distant and cost-free for Russian society.",
+      "prop_index": 1,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_002",
+      "text": "President Volodymyr Zelensky explicitly articulated the strategy of \"bringing the war back to Russia\" in 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky strategy articulation",
+      "source_sentence": "This approach was explicitly articulated by President Volodymyr Zelensky in 2025, as Ukraine significantly expanded its deep-strike campaign inside Russia.",
+      "prop_index": 2,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_003",
+      "text": "Ukraine significantly expanded its deep-strike campaign inside Russia in 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine deep-strike expansion",
+      "source_sentence": "This approach was explicitly articulated by President Volodymyr Zelensky in 2025, as Ukraine significantly expanded its deep-strike campaign inside Russia.",
+      "prop_index": 3,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_004",
+      "text": "President Volodymyr Zelensky stated that the war must be pushed back to Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelensky war statement",
+      "source_sentence": "\"The war was brought from Russia, and it is to Russia that the war must be pushed back. They must be the ones forced into peace. They are the ones who must be pressured to ensure security,\" Zelensky said.",
+      "prop_index": 4,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_005",
+      "text": "An internal analysis by the Ukrainian NGO Join Ukraine suggests Ukraine's strategy is reshaping how the war is felt across Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Join Ukraine analysis",
+      "source_sentence": "An internal analysis by the Ukrainian NGO Join Ukraine, shared with the Kyiv Independent, suggests that strategy is beginning to reshape how the war is felt across Russia.",
+      "prop_index": 5,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_006",
+      "text": "Join Ukraine monitors social media discourse and public reactions across Russian regions and occupied territories.",
+      "is_factual_claim": true,
+      "topic_hint": "Join Ukraine monitoring",
+      "source_sentence": "The organization monitors social media discourse and public reactions across Russian regions and occupied territories, and found that Russians are increasingly confronting the war through casualties, drone attacks, internet blackouts, and economic disruption.",
+      "prop_index": 6,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_007",
+      "text": "Join Ukraine found that Russians are increasingly confronting the war through casualties, drone attacks, internet blackouts, and economic disruption.",
+      "is_factual_claim": true,
+      "topic_hint": "Russians confronting war",
+      "source_sentence": "The organization monitors social media discourse and public reactions across Russian regions and occupied territories, and found that Russians are increasingly confronting the war through casualties, drone attacks, internet blackouts, and economic disruption.",
+      "prop_index": 7,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_008",
+      "text": "Andrii Sukharyna, head of analytics at Join Ukraine, stated that obituaries have become part of everyday life in Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Obituaries everyday life",
+      "source_sentence": "\"Obituaries have become part of everyday life, and comments often include restrained sympathy alongside questions like 'What is this war for?'\" Andrii Sukharyna, head of analytics at the NGO Join Ukraine, told the Kyiv Independent.",
+      "prop_index": 8,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_009",
+      "text": "Andrii Sukharyna stated that comments often include restrained sympathy and questions about the war's purpose.",
+      "is_factual_claim": true,
+      "topic_hint": "Comments on war",
+      "source_sentence": "\"Obituaries have become part of everyday life, and comments often include restrained sympathy alongside questions like 'What is this war for?'\" Andrii Sukharyna, head of analytics at the NGO Join Ukraine, told the Kyiv Independent.",
+      "prop_index": 9,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_010",
+      "text": "The shift identified in Join Ukraine's analysis is becoming visible beyond local reactions and online comment threads.",
+      "is_factual_claim": true,
+      "topic_hint": "Shift visibility",
+      "source_sentence": "The shift identified in Join Ukraine's analysis is becoming visible beyond local reactions and online comment threads.",
+      "prop_index": 10,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_011",
+      "text": "Former Russian Defense Minister Sergei Shoigu recently warned that no Russian region can feel safe.",
+      "is_factual_claim": true,
+      "topic_hint": "Shoigu safety warning",
+      "source_sentence": "Former Russian Defense Minister Sergei Shoigu recently warned that \"no Russian region can feel safe,\" while public reactions across regions suggest the war is no longer tied to the front line.",
+      "prop_index": 11,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_012",
+      "text": "Public reactions across Russian regions suggest the war is no longer tied to the front line.",
+      "is_factual_claim": true,
+      "topic_hint": "War perception shift",
+      "source_sentence": "Former Russian Defense Minister Sergei Shoigu recently warned that \"no Russian region can feel safe,\" while public reactions across regions suggest the war is no longer tied to the front line.",
+      "prop_index": 12,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_013",
+      "text": "Oleksii Melnyk, co-director at the Razumkov Center, stated that the shift identified in Join Ukraine's analysis can increase political pressure on the Kremlin.",
+      "is_factual_claim": true,
+      "topic_hint": "Political pressure on Kremlin",
+      "source_sentence": "\"This can be an important factor in increasing political pressure on the Kremlin, but only in combination with other elements — particularly external pressure through sanctions,\" Oleksii Melnyk, co-director of foreign policy and international security studies at the Razumkov Center, told the Kyiv Independent.",
+      "prop_index": 13,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_014",
+      "text": "Oleksii Melnyk stated that increasing political pressure on the Kremlin requires combination with other elements, particularly external pressure through sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "Pressure elements",
+      "source_sentence": "\"This can be an important factor in increasing political pressure on the Kremlin, but only in combination with other elements — particularly external pressure through sanctions,\" Oleksii Melnyk, co-director of foreign policy and international security studies at the Razumkov Center, told the Kyiv Independent.",
+      "prop_index": 14,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_015",
+      "text": "Oleksii Melnyk described Sergei Shoigu's statement as a \"bomb\" in the Russian information space.",
+      "is_factual_claim": true,
+      "topic_hint": "Shoigu statement description",
+      "source_sentence": "Melnyk described Shoigu's statement as a \"bomb\" in the Russian information space — widely interpreted as an implicit acknowledgment that the \"operation\" had not gone according to plan.",
+      "prop_index": 15,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_016",
+      "text": "Sergei Shoigu's statement was widely interpreted as an implicit acknowledgment that the \"operation\" had not gone according to plan.",
+      "is_factual_claim": true,
+      "topic_hint": "Shoigu statement interpretation",
+      "source_sentence": "Melnyk described Shoigu's statement as a \"bomb\" in the Russian information space — widely interpreted as an implicit acknowledgment that the \"operation\" had not gone according to plan.",
+      "prop_index": 16,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_017",
+      "text": "Geography still shapes how Russians experience the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Geography war experience",
+      "source_sentence": "While geography still shapes how Russians experience the war, the gap between regions is narrowing.",
+      "prop_index": 17,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_018",
+      "text": "The gap between Russian regions in war experience is narrowing.",
+      "is_factual_claim": true,
+      "topic_hint": "Regional war experience",
+      "source_sentence": "While geography still shapes how Russians experience the war, the gap between regions is narrowing.",
+      "prop_index": 18,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_019",
+      "text": "Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts are the regions most directly affected by the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Most affected regions",
+      "source_sentence": "The regions most directly affected by the war are Russia's border areas — including Kursk, Bryansk, and Rostov oblasts — as well as occupied Crimea and parts of Donetsk and Luhansk oblasts.",
+      "prop_index": 19,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_020",
+      "text": "The Join Ukraine analysis indicates that Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts show the highest level of military-related discourse.",
+      "is_factual_claim": true,
+      "topic_hint": "Military discourse level",
+      "source_sentence": "According to the Join Ukraine analysis, these regions show the highest level of military-related discourse and the sharpest reactions to attacks.",
+      "prop_index": 20,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_021",
+      "text": "The Join Ukraine analysis indicates that Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts show the sharpest reactions to attacks.",
+      "is_factual_claim": true,
+      "topic_hint": "Reactions to attacks",
+      "source_sentence": "According to the Join Ukraine analysis, these regions show the highest level of military-related discourse and the sharpest reactions to attacks.",
+      "prop_index": 21,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_022",
+      "text": "Andrii Sukharyna stated that residents in Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts live in constant anxiety due to regular drone attacks, air defense activity, internet outages, and sirens.",
+      "is_factual_claim": true,
+      "topic_hint": "Resident anxiety causes",
+      "source_sentence": "\"In these regions, we see the highest level of military-related discourse and the most acute reactions to events. Residents live in a state of constant anxiety due to regular drone attacks, air defense activity, and everyday disruptions such as internet outages and sirens,\" Andrii Sukharyna told the Kyiv Independent.",
+      "prop_index": 22,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_023",
+      "text": "The Join Ukraine analysis indicates that Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts show the most intense and polarized reactions.",
+      "is_factual_claim": true,
+      "topic_hint": "Intense polarized reactions",
+      "source_sentence": "Per the analysis, these regions also show the most intense and polarized reactions.",
+      "prop_index": 23,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_024",
+      "text": "There is growing radicalization and calls for escalation in Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts.",
+      "is_factual_claim": true,
+      "topic_hint": "Growing radicalization",
+      "source_sentence": "On one hand, there is growing radicalization and calls for escalation — including demands for harsher retaliation, such as strikes with Oreshnik ballistic missiles or even nuclear weapons.",
+      "prop_index": 24,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_025",
+      "text": "Calls for escalation include demands for harsher retaliation, such as strikes with Oreshnik ballistic missiles or nuclear weapons.",
+      "is_factual_claim": true,
+      "topic_hint": "Escalation demands",
+      "source_sentence": "On one hand, there is growing radicalization and calls for escalation — including demands for harsher retaliation, such as strikes with Oreshnik ballistic missiles or even nuclear weapons.",
+      "prop_index": 25,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_026",
+      "text": "There is a growing feeling of fatigue and frustration in Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts.",
+      "is_factual_claim": true,
+      "topic_hint": "Fatigue and frustration",
+      "source_sentence": "On the other, there is a growing feeling of fatigue and frustration.",
+      "prop_index": 26,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_027",
+      "text": "Residents in Russia's border areas, occupied Crimea, and parts of Donetsk and Luhansk oblasts criticize authorities for failing to ensure basic security, citing a lack of shelters, ineffective air defenses, and repeated disruptions.",
+      "is_factual_claim": true,
+      "topic_hint": "Criticism of authorities",
+      "source_sentence": "Residents criticize authorities for failing to ensure basic security, citing a lack of shelters, ineffective air defenses, and repeated disruptions to daily life.",
+      "prop_index": 27,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_028",
+      "text": "A worsening water crisis has fueled open anger toward occupation authorities in occupied Donetsk.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk water crisis",
+      "source_sentence": "In occupied Donetsk, a worsening water crisis has fueled open anger toward occupation authorities, especially toward Russian-installed leader Denis Pushylin, with residents dismissing official reports as disconnected from reality.",
+      "prop_index": 28,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_029",
+      "text": "Residents in occupied Donetsk dismiss official reports as disconnected from reality.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk residents distrust",
+      "source_sentence": "In occupied Donetsk, a worsening water crisis has fueled open anger toward occupation authorities, especially toward Russian-installed leader Denis Pushylin, with residents dismissing official reports as disconnected from reality.",
+      "prop_index": 29,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_030",
+      "text": "Russians further from the front line experience the war differently but no less tangibly.",
+      "is_factual_claim": true,
+      "topic_hint": "War experience variation",
+      "source_sentence": "Further from the front line, Russians experience the war differently but no less tangibly.",
+      "prop_index": 30,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_031",
+      "text": "Casualties remain one of the most significant factors shaping war perception in Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Casualties war perception",
+      "source_sentence": "Casualties remain one of the most significant factors shaping perception.",
+      "prop_index": 31,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_032",
+      "text": "The highest losses are recorded in Russia's national republics and industrial regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Highest losses regions",
+      "source_sentence": "The highest losses are recorded in Russia's national republics and industrial regions, including Bashkortostan, Tatarstan, Sverdlovsk, Chelyabinsk, and Volgograd.",
+      "prop_index": 32,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_033",
+      "text": "Russia's national republics and industrial regions have taken a disproportionate share of the human cost of the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Disproportionate human cost",
+      "source_sentence": "These regions, often economically struggling and politically less visible, have taken a disproportionate share of the human cost.",
+      "prop_index": 33,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_034",
+      "text": "Some industrial centers and refinery hubs, such as Volgograd, Samara, or Tambov, are key targets for Ukrainian strikes.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strike targets",
+      "source_sentence": "At the same time, some of these regions — like Volgograd, Samara, or Tambov — are industrial centers and refinery hubs, making them key targets for Ukrainian strikes.",
+      "prop_index": 34,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_035",
+      "text": "The Join Ukraine analysis indicates that residents in Russia's industrial regions are increasingly experiencing fuel shortages and rising prices.",
+      "is_factual_claim": true,
+      "topic_hint": "Fuel shortages prices",
+      "source_sentence": "According to the analysis, residents are increasingly experiencing fuel shortages and rising prices, linking the war directly to their economic situation.",
+      "prop_index": 35,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_036",
+      "text": "The Join Ukraine analysis indicates that residents in Russia's industrial regions are linking the war directly to their economic situation.",
+      "is_factual_claim": true,
+      "topic_hint": "War economic link",
+      "source_sentence": "According to the analysis, residents are increasingly experiencing fuel shortages and rising prices, linking the war directly to their economic situation.",
+      "prop_index": 36,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_037",
+      "text": "Some perceive the need to import fuel from China as a symbolic blow to Russia's image as an \"energy superpower.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Fuel import perception",
+      "source_sentence": "The need to import fuel from China is also perceived by some as a symbolic blow to Russia's image as an \"energy superpower.\"",
+      "prop_index": 37,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_038",
+      "text": "Distrust toward official narratives is growing in Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Growing distrust",
+      "source_sentence": "Distrust toward official narratives is growing as well.",
+      "prop_index": 38,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_039",
+      "text": "Claims by authorities that all aerial targets are intercepted often contrast with visible damage and fires at industrial sites.",
+      "is_factual_claim": true,
+      "topic_hint": "Official claims contrast",
+      "source_sentence": "Claims by authorities that all aerial targets are intercepted often contrast with visible damage and fires at industrial sites.",
+      "prop_index": 39,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_040",
+      "text": "Open protests remain rare in Russia due to the fear of repression.",
+      "is_factual_claim": true,
+      "topic_hint": "Rare protests",
+      "source_sentence": "Open protests remain rare due to the fear of repression, but dissatisfaction is increasingly expressed through localized grievances — particularly in regions like Kursk, Rostov-on-Don, and Voronezh, where residents openly question the state's ability to protect their cities.",
+      "prop_index": 40,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_041",
+      "text": "Dissatisfaction is increasingly expressed through localized grievances in regions like Kursk, Rostov-on-Don, and Voronezh.",
+      "is_factual_claim": true,
+      "topic_hint": "Localized grievances",
+      "source_sentence": "Open protests remain rare due to the fear of repression, but dissatisfaction is increasingly expressed through localized grievances — particularly in regions like Kursk, Rostov-on-Don, and Voronezh, where residents openly question the state's ability to protect their cities.",
+      "prop_index": 41,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_042",
+      "text": "Residents in Kursk, Rostov-on-Don, and Voronezh openly question the state's ability to protect their cities.",
+      "is_factual_claim": true,
+      "topic_hint": "Questioning state protection",
+      "source_sentence": "Open protests remain rare due to the fear of repression, but dissatisfaction is increasingly expressed through localized grievances — particularly in regions like Kursk, Rostov-on-Don, and Voronezh, where residents openly question the state's ability to protect their cities.",
+      "prop_index": 42,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_043",
+      "text": "The war often remains more distant in Russia's more remote regions, including the Far East, the Urals, and Siberia.",
+      "is_factual_claim": true,
+      "topic_hint": "Remote regions war",
+      "source_sentence": "In more remote regions — including the Far East, the Urals, and Siberia — the war often remains more distant.",
+      "prop_index": 43,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_044",
+      "text": "Overall battlefield casualty numbers are lower in absolute terms in remote regions, but per capita losses are among the highest.",
+      "is_factual_claim": true,
+      "topic_hint": "Remote regions casualties",
+      "source_sentence": "While overall battlefield casualty numbers are lower in absolute terms, per capita losses are among the highest.",
+      "prop_index": 44,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_045",
+      "text": "For many residents in Yakutia, Khabarovsk, or Primorsky Krai, the war is often perceived as background noise.",
+      "is_factual_claim": true,
+      "topic_hint": "War as background",
+      "source_sentence": "Despite this, for many residents in regions such as Yakutia, Khabarovsk, or Primorsky Krai, the war is often perceived as background noise.",
+      "prop_index": 45,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_046",
+      "text": "The Join Ukraine report notes that people in remote regions remain consolidated in their support for the 'special military operation' through humanitarian aid and without visible fatigue.",
+      "is_factual_claim": true,
+      "topic_hint": "Remote regions support",
+      "source_sentence": "\"In these regions, people remain quite consolidated in their support for the 'special military operation' — not only in words, but through humanitarian aid, and without visible fatigue,\" the report notes.",
+      "prop_index": 46,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_047",
+      "text": "The Join Ukraine analysis indicates a widespread perception that Moscow is far better protected than the rest of Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow protection perception",
+      "source_sentence": "Across regions, there is also a widespread perception that Moscow is far better protected than the rest of the country, according to the analysis.",
+      "prop_index": 47,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_048",
+      "text": "Oleksii Melnyk stated that the Kremlin does not have to worry about political backlash if Moscow and St. Petersburg do not meaningfully feel the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Kremlin political backlash",
+      "source_sentence": "\"As long as Moscow and St. Petersburg do not meaningfully feel the war, the Kremlin does not have to worry about political backlash,\" Melnyk said, adding that early signs of change are beginning to emerge.",
+      "prop_index": 48,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_049",
+      "text": "Oleksii Melnyk added that early signs of change are beginning to emerge.",
+      "is_factual_claim": true,
+      "topic_hint": "Signs of change",
+      "source_sentence": "\"As long as Moscow and St. Petersburg do not meaningfully feel the war, the Kremlin does not have to worry about political backlash,\" Melnyk said, adding that early signs of change are beginning to emerge.",
+      "prop_index": 49,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_050",
+      "text": "Moscow experienced at least a week of widespread mobile internet disruptions in early March.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow internet disruptions",
+      "source_sentence": "In early March, Moscow experienced at least a week of widespread mobile internet disruptions, significantly affecting daily life.",
+      "prop_index": 50,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_051",
+      "text": "The mobile internet disruptions in Moscow significantly affected daily life.",
+      "is_factual_claim": true,
+      "topic_hint": "Internet disruption impact",
+      "source_sentence": "In early March, Moscow experienced at least a week of widespread mobile internet disruptions, significantly affecting daily life.",
+      "prop_index": 51,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_052",
+      "text": "Authorities introduced a \"whitelist\" system in Moscow, allowing access only to selected websites during outages.",
+      "is_factual_claim": true,
+      "topic_hint": "Whitelist system",
+      "source_sentence": "Authorities later introduced a \"whitelist\" system, allowing access only to selected websites during outages.",
+      "prop_index": 52,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_053",
+      "text": "Demand for alternative communication tools like pagers, walkie-talkies, and landline phones has increased in Moscow.",
+      "is_factual_claim": true,
+      "topic_hint": "Communication tools demand",
+      "source_sentence": "Demand for alternative communication tools — including pagers, walkie-talkies, and landline phones — has increased, while sales of printed maps and travel guides surged as residents adapted to internet blackouts.",
+      "prop_index": 53,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_054",
+      "text": "Sales of printed maps and travel guides surged in Moscow as residents adapted to internet blackouts.",
+      "is_factual_claim": true,
+      "topic_hint": "Map guide sales",
+      "source_sentence": "Demand for alternative communication tools — including pagers, walkie-talkies, and landline phones — has increased, while sales of printed maps and travel guides surged as residents adapted to internet blackouts.",
+      "prop_index": 54,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_055",
+      "text": "Mass mobile internet shutdowns have become a widespread Kremlin tool for information control across Russia since early 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Kremlin internet control",
+      "source_sentence": "Mass mobile internet shutdowns have become a widespread Kremlin tool for information control across Russia since early 2025, turning the country into a global leader in internet restrictions.",
+      "prop_index": 55,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_056",
+      "text": "Mass mobile internet shutdowns have turned Russia into a global leader in internet restrictions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia internet restrictions",
+      "source_sentence": "Mass mobile internet shutdowns have become a widespread Kremlin tool for information control across Russia since early 2025, turning the country into a global leader in internet restrictions.",
+      "prop_index": 56,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_057",
+      "text": "The Join Ukraine analysis indicates that mass mobile internet shutdowns are a unifying grievance across regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Internet shutdowns grievance",
+      "source_sentence": "According to the Join Ukraine analysis, this is one of the few unifying grievances across regions that are outraged that measures introduced \"for security reasons\" disrupt daily life but fail to stop drone attacks.",
+      "prop_index": 57,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_058",
+      "text": "Russian regions are outraged that security measures disrupt daily life but fail to stop drone attacks.",
+      "is_factual_claim": true,
+      "topic_hint": "Outrage security measures",
+      "source_sentence": "According to the Join Ukraine analysis, this is one of the few unifying grievances across regions that are outraged that measures introduced \"for security reasons\" disrupt daily life but fail to stop drone attacks.",
+      "prop_index": 58,
+      "article_id": "kyivind_005"
+    },
+    {
+      "prop_id": "kyivind_005_prop_059",
+      "text": "The Join Ukraine report points to signs of passive resistance, with Russians increasingly rejecting state-backed digital platforms and sharing ways to bypass restrictions like VPNs.",
+      "is_factual_claim": true,
+      "topic_hint": "Passive resistance signs",
+      "source_sentence": "The report also points to signs of passive resistance — Russians increasingly reject state-backed digital platforms and actively share ways to bypass restrictions, including through VPNs.",
+      "prop_index": 59,
+      "article_id": "kyivind_005"
+    }
+  ]
+}

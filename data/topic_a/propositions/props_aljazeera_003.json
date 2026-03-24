@@ -1,0 +1,493 @@
+{
+  "article_id": "aljazeera_003",
+  "source_name": "Al Jazeera",
+  "total_propositions": 54,
+  "propositions": [
+    {
+      "prop_id": "aljazeera_003_prop_000",
+      "text": "The European Union has voted to renew sanctions against individuals and entities supporting Russia's war on Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "EU sanctions renewal",
+      "source_sentence": "The European Union has voted to renew sanctions against individuals and entities supporting Russia's war on Ukraine, as Russian forces continued to target Ukrainian energy infrastructure, killing six people in the Zaporizhia and Kyiv regions.",
+      "prop_index": 0,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_001",
+      "text": "Russian forces continued to target Ukrainian energy infrastructure.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian attacks, energy",
+      "source_sentence": "The European Union has voted to renew sanctions against individuals and entities supporting Russia's war on Ukraine, as Russian forces continued to target Ukrainian energy infrastructure, killing six people in the Zaporizhia and Kyiv regions.",
+      "prop_index": 1,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_002",
+      "text": "Russian forces killed six people in the Zaporizhia and Kyiv regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Civilian casualties, Russia",
+      "source_sentence": "The European Union has voted to renew sanctions against individuals and entities supporting Russia's war on Ukraine, as Russian forces continued to target Ukrainian energy infrastructure, killing six people in the Zaporizhia and Kyiv regions.",
+      "prop_index": 2,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_003",
+      "text": "The EU Council announced that the bloc's 27 member states had agreed on Saturday to extend sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "EU Council announcement",
+      "source_sentence": "The EU Council announced that the bloc's 27 member states had agreed on Saturday to extend sanctions targeting some 2,600 individuals and entities with measures like travel restrictions and asset freezes until September 15, breaking an earlier deadlock caused by Hungary and Slovakia's opposition to the move.",
+      "prop_index": 3,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_004",
+      "text": "The sanctions target some 2,600 individuals and entities.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions targets",
+      "source_sentence": "The EU Council announced that the bloc's 27 member states had agreed on Saturday to extend sanctions targeting some 2,600 individuals and entities with measures like travel restrictions and asset freezes until September 15, breaking an earlier deadlock caused by Hungary and Slovakia's opposition to the move.",
+      "prop_index": 4,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_005",
+      "text": "The sanctions include measures like travel restrictions and asset freezes.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions measures",
+      "source_sentence": "The EU Council announced that the bloc's 27 member states had agreed on Saturday to extend sanctions targeting some 2,600 individuals and entities with measures like travel restrictions and asset freezes until September 15, breaking an earlier deadlock caused by Hungary and Slovakia's opposition to the move.",
+      "prop_index": 5,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_006",
+      "text": "The sanctions are extended until September 15.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions duration",
+      "source_sentence": "The EU Council announced that the bloc's 27 member states had agreed on Saturday to extend sanctions targeting some 2,600 individuals and entities with measures like travel restrictions and asset freezes until September 15, breaking an earlier deadlock caused by Hungary and Slovakia's opposition to the move.",
+      "prop_index": 6,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_007",
+      "text": "The extension broke an earlier deadlock.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions deadlock broken",
+      "source_sentence": "The EU Council announced that the bloc's 27 member states had agreed on Saturday to extend sanctions targeting some 2,600 individuals and entities with measures like travel restrictions and asset freezes until September 15, breaking an earlier deadlock caused by Hungary and Slovakia's opposition to the move.",
+      "prop_index": 7,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_008",
+      "text": "The earlier deadlock was caused by Hungary and Slovakia's opposition to the move.",
+      "is_factual_claim": true,
+      "topic_hint": "Hungary, Slovakia opposition",
+      "source_sentence": "The EU Council announced that the bloc's 27 member states had agreed on Saturday to extend sanctions targeting some 2,600 individuals and entities with measures like travel restrictions and asset freezes until September 15, breaking an earlier deadlock caused by Hungary and Slovakia's opposition to the move.",
+      "prop_index": 8,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_009",
+      "text": "The extension of sanctions came one day after EU Council chief Antonio Costa slammed the United States.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions extension timing",
+      "source_sentence": "The extension of sanctions came one day after EU Council chief Antonio Costa slammed the United States for lifting sanctions on Russian oil exports, saying on X that weakening restrictions increased \"Russian resources to wage the war of aggression against Ukraine\", with a knock-on impact on European security.",
+      "prop_index": 9,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_010",
+      "text": "EU Council chief Antonio Costa slammed the United States for lifting sanctions on Russian oil exports.",
+      "is_factual_claim": true,
+      "topic_hint": "Antonio Costa, US sanctions",
+      "source_sentence": "The extension of sanctions came one day after EU Council chief Antonio Costa slammed the United States for lifting sanctions on Russian oil exports, saying on X that weakening restrictions increased \"Russian resources to wage the war of aggression against Ukraine\", with a knock-on impact on European security.",
+      "prop_index": 10,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_011",
+      "text": "Antonio Costa said on X that weakening restrictions increased Russian resources to wage the war of aggression against Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Costa's statement, Russia",
+      "source_sentence": "The extension of sanctions came one day after EU Council chief Antonio Costa slammed the United States for lifting sanctions on Russian oil exports, saying on X that weakening restrictions increased \"Russian resources to wage the war of aggression against Ukraine\", with a knock-on impact on European security.",
+      "prop_index": 11,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_012",
+      "text": "Antonio Costa said on X that weakening restrictions had a knock-on impact on European security.",
+      "is_factual_claim": true,
+      "topic_hint": "Costa's statement, security",
+      "source_sentence": "The extension of sanctions came one day after EU Council chief Antonio Costa slammed the United States for lifting sanctions on Russian oil exports, saying on X that weakening restrictions increased \"Russian resources to wage the war of aggression against Ukraine\", with a knock-on impact on European security.",
+      "prop_index": 12,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_013",
+      "text": "The measure (sanctions extension) was announced as Russia hammered Ukraine with missiles and drones on Saturday.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions announcement context",
+      "source_sentence": "The measure was announced as Russia hammered Ukraine with missiles and drones on Saturday, killing five people and injuring 15 in the Kyiv region surrounding the capital, according to regional military administrator Mykola Kalashnyk.",
+      "prop_index": 13,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_014",
+      "text": "Russia hammered Ukraine with missiles and drones on Saturday.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's Saturday attacks",
+      "source_sentence": "The measure was announced as Russia hammered Ukraine with missiles and drones on Saturday, killing five people and injuring 15 in the Kyiv region surrounding the capital, according to regional military administrator Mykola Kalashnyk.",
+      "prop_index": 14,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_015",
+      "text": "Russia killed five people in the Kyiv region surrounding the capital on Saturday, according to regional military administrator Mykola Kalashnyk.",
+      "is_factual_claim": true,
+      "topic_hint": "Kyiv casualties, Russia",
+      "source_sentence": "The measure was announced as Russia hammered Ukraine with missiles and drones on Saturday, killing five people and injuring 15 in the Kyiv region surrounding the capital, according to regional military administrator Mykola Kalashnyk.",
+      "prop_index": 15,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_016",
+      "text": "Russia injured 15 people in the Kyiv region surrounding the capital on Saturday, according to regional military administrator Mykola Kalashnyk.",
+      "is_factual_claim": true,
+      "topic_hint": "Kyiv injuries, Russia",
+      "source_sentence": "The measure was announced as Russia hammered Ukraine with missiles and drones on Saturday, killing five people and injuring 15 in the Kyiv region surrounding the capital, according to regional military administrator Mykola Kalashnyk.",
+      "prop_index": 16,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_017",
+      "text": "The city of Zaporizhzhia was hit by Russian-guided bombs.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia attack",
+      "source_sentence": "The city of Zaporizhzhia was also hit by Russian-guided bombs, killing one person and injuring three, said the governor of the southeastern region, Ivan Fedorov.",
+      "prop_index": 17,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_018",
+      "text": "Russian-guided bombs killed one person in Zaporizhzhia, according to Ivan Fedorov.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia casualties",
+      "source_sentence": "The city of Zaporizhzhia was also hit by Russian-guided bombs, killing one person and injuring three, said the governor of the southeastern region, Ivan Fedorov.",
+      "prop_index": 18,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_019",
+      "text": "Russian-guided bombs injured three people in Zaporizhzhia, according to Ivan Fedorov.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia injuries",
+      "source_sentence": "The city of Zaporizhzhia was also hit by Russian-guided bombs, killing one person and injuring three, said the governor of the southeastern region, Ivan Fedorov.",
+      "prop_index": 19,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_020",
+      "text": "Ivan Fedorov is the governor of the southeastern region.",
+      "is_factual_claim": true,
+      "topic_hint": "Ivan Fedorov's role",
+      "source_sentence": "The city of Zaporizhzhia was also hit by Russian-guided bombs, killing one person and injuring three, said the governor of the southeastern region, Ivan Fedorov.",
+      "prop_index": 20,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_021",
+      "text": "Photos posted online showed parts of buildings reduced to rubble.",
+      "is_factual_claim": true,
+      "topic_hint": "Building damage, photos",
+      "source_sentence": "Photos posted online showed parts of buildings reduced to rubble.",
+      "prop_index": 21,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_022",
+      "text": "Ukraine's President Volodymyr Zelenskyy said Russia's main target was energy infrastructure outside the capital Kyiv.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy, Russia's target",
+      "source_sentence": "Ukraine's President Volodymyr Zelenskyy said Russia's main target was energy infrastructure outside the capital Kyiv, but that the Sumy, Kharkiv, Dnipro and Mykolaiv regions were also targeted in an attack that included about 430 drones and 68 missiles, most of which were downed by air defences.",
+      "prop_index": 22,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_023",
+      "text": "Volodymyr Zelenskyy said the Sumy, Kharkiv, Dnipro and Mykolaiv regions were also targeted in an attack.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy, targeted regions",
+      "source_sentence": "Ukraine's President Volodymyr Zelenskyy said Russia's main target was energy infrastructure outside the capital Kyiv, but that the Sumy, Kharkiv, Dnipro and Mykolaiv regions were also targeted in an attack that included about 430 drones and 68 missiles, most of which were downed by air defences.",
+      "prop_index": 23,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_024",
+      "text": "The attack included about 430 drones and 68 missiles.",
+      "is_factual_claim": true,
+      "topic_hint": "Attack scale, weapons",
+      "source_sentence": "Ukraine's President Volodymyr Zelenskyy said Russia's main target was energy infrastructure outside the capital Kyiv, but that the Sumy, Kharkiv, Dnipro and Mykolaiv regions were also targeted in an attack that included about 430 drones and 68 missiles, most of which were downed by air defences.",
+      "prop_index": 24,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_025",
+      "text": "Most of the drones and missiles were downed by air defences.",
+      "is_factual_claim": true,
+      "topic_hint": "Air defence success",
+      "source_sentence": "Ukraine's President Volodymyr Zelenskyy said Russia's main target was energy infrastructure outside the capital Kyiv, but that the Sumy, Kharkiv, Dnipro and Mykolaiv regions were also targeted in an attack that included about 430 drones and 68 missiles, most of which were downed by air defences.",
+      "prop_index": 25,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_026",
+      "text": "Russia's winter attacks on Ukraine have left swaths of major cities without power or heating.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia's winter impact",
+      "source_sentence": "Russia's winter attacks on Ukraine have left swaths of major cities without power or heating, as Moscow's troops continue their offensive amid demands Kyiv cede more territory in the east.",
+      "prop_index": 26,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_027",
+      "text": "Moscow's troops continue their offensive.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military offensive",
+      "source_sentence": "Russia's winter attacks on Ukraine have left swaths of major cities without power or heating, as Moscow's troops continue their offensive amid demands Kyiv cede more territory in the east.",
+      "prop_index": 27,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_028",
+      "text": "There are demands for Kyiv to cede more territory in the east.",
+      "is_factual_claim": true,
+      "topic_hint": "Territorial demands, Kyiv",
+      "source_sentence": "Russia's winter attacks on Ukraine have left swaths of major cities without power or heating, as Moscow's troops continue their offensive amid demands Kyiv cede more territory in the east.",
+      "prop_index": 28,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_029",
+      "text": "Ukraine's Energy Ministry said on Saturday that consumers in six regions were without electricity.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine power outages",
+      "source_sentence": "Ukraine's Energy Ministry said on Saturday that consumers in six regions were without electricity.",
+      "prop_index": 29,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_030",
+      "text": "Ukraine's forces have targeted Russian strategic infrastructure in long-range strikes.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine's strikes, Russia",
+      "source_sentence": "Ukraine's forces have targeted Russian strategic infrastructure such as oil refineries, depots and terminals in long-range strikes.",
+      "prop_index": 30,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_031",
+      "text": "Russian strategic infrastructure includes oil refineries, depots, and terminals.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian infrastructure types",
+      "source_sentence": "Ukraine's forces have targeted Russian strategic infrastructure such as oil refineries, depots and terminals in long-range strikes.",
+      "prop_index": 31,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_032",
+      "text": "On Saturday, Ukraine's military said that Ukraine's military had struck the Afipsky oil refinery.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine's military strike",
+      "source_sentence": "On Saturday, Ukraine's military said that it had struck the Afipsky oil refinery and Port Kavkaz in Russia's southern Krasnodar region.",
+      "prop_index": 32,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_033",
+      "text": "On Saturday, Ukraine's military said that Ukraine's military had struck Port Kavkaz in Russia's southern Krasnodar region.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine's military strike",
+      "source_sentence": "On Saturday, Ukraine's military said that it had struck the Afipsky oil refinery and Port Kavkaz in Russia's southern Krasnodar region.",
+      "prop_index": 33,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_034",
+      "text": "Saturday's fighting came as the Iran conflict has distracted international attention.",
+      "is_factual_claim": true,
+      "topic_hint": "Iran conflict, attention",
+      "source_sentence": "Saturday's fighting came as the Iran conflict has distracted international attention from a US-backed peace push in the four-year war, which Kyiv says Moscow has no interest in ending.",
+      "prop_index": 34,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_035",
+      "text": "The Iran conflict has distracted international attention from a US-backed peace push in the four-year war.",
+      "is_factual_claim": true,
+      "topic_hint": "Iran conflict, peace push",
+      "source_sentence": "Saturday's fighting came as the Iran conflict has distracted international attention from a US-backed peace push in the four-year war, which Kyiv says Moscow has no interest in ending.",
+      "prop_index": 35,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_036",
+      "text": "Kyiv says Moscow has no interest in ending the four-year war.",
+      "is_factual_claim": true,
+      "topic_hint": "Kyiv's view, Moscow",
+      "source_sentence": "Saturday's fighting came as the Iran conflict has distracted international attention from a US-backed peace push in the four-year war, which Kyiv says Moscow has no interest in ending.",
+      "prop_index": 36,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_037",
+      "text": "Belgium's Prime Minister Bart De Wever called on Saturday for the EU to be mandated by its member states to negotiate with Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Bart De Wever's call",
+      "source_sentence": "Belgium's Prime Minister Bart De Wever called on Saturday for the EU to be mandated by its member states to negotiate with Russia as it became apparent amid spiking oil prices caused by the Iran war that the US was easing pressure on Russian President Vladimir Putin.",
+      "prop_index": 37,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_038",
+      "text": "It became apparent amid spiking oil prices caused by the Iran war that the US was easing pressure on Russian President Vladimir Putin.",
+      "is_factual_claim": true,
+      "topic_hint": "US easing pressure, oil",
+      "source_sentence": "Belgium's Prime Minister Bart De Wever called on Saturday for the EU to be mandated by its member states to negotiate with Russia as it became apparent amid spiking oil prices caused by the Iran war that the US was easing pressure on Russian President Vladimir Putin.",
+      "prop_index": 38,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_039",
+      "text": "Bart De Wever told the Belgian newspaper L'Echo that the EU/Belgium is not capable of threatening Putin by sending weapons to Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "De Wever, EU capability",
+      "source_sentence": "\"Since we are not capable of threatening Putin by sending weapons to Ukraine, and we cannot choke him economically without the support of the United States, there is only one method left: making a deal,\" he told the Belgian newspaper L'Echo.",
+      "prop_index": 39,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_040",
+      "text": "Bart De Wever told the Belgian newspaper L'Echo that the EU/Belgium cannot choke Putin economically without the support of the United States.",
+      "is_factual_claim": true,
+      "topic_hint": "De Wever, economic pressure",
+      "source_sentence": "\"Since we are not capable of threatening Putin by sending weapons to Ukraine, and we cannot choke him economically without the support of the United States, there is only one method left: making a deal,\" he told the Belgian newspaper L'Echo.",
+      "prop_index": 40,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_041",
+      "text": "Bart De Wever told the Belgian newspaper L'Echo that only one method is left: making a deal.",
+      "is_factual_claim": true,
+      "topic_hint": "De Wever, negotiation method",
+      "source_sentence": "\"Since we are not capable of threatening Putin by sending weapons to Ukraine, and we cannot choke him economically without the support of the United States, there is only one method left: making a deal,\" he told the Belgian newspaper L'Echo.",
+      "prop_index": 41,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_042",
+      "text": "EU chief diplomat Kaja Kallas has said in the past that the bloc must first reach an agreement on what is expected from Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Kallas, EU agreement",
+      "source_sentence": "EU chief diplomat Kaja Kallas has said in the past that the bloc must first reach an agreement on what is expected from Russia before directly approaching Putin, formulating its own \"maximalist demands\".",
+      "prop_index": 42,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_043",
+      "text": "Kaja Kallas said the bloc must reach an agreement before directly approaching Putin.",
+      "is_factual_claim": true,
+      "topic_hint": "Kallas, Putin approach",
+      "source_sentence": "EU chief diplomat Kaja Kallas has said in the past that the bloc must first reach an agreement on what is expected from Russia before directly approaching Putin, formulating its own \"maximalist demands\".",
+      "prop_index": 43,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_044",
+      "text": "Kaja Kallas said the bloc must formulate its own \"maximalist demands\".",
+      "is_factual_claim": true,
+      "topic_hint": "Kallas, EU demands",
+      "source_sentence": "EU chief diplomat Kaja Kallas has said in the past that the bloc must first reach an agreement on what is expected from Russia before directly approaching Putin, formulating its own \"maximalist demands\".",
+      "prop_index": 44,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_045",
+      "text": "The bloc's inability to reach a common position was highlighted during the EU Council's recent deliberations on extending sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "EU common position",
+      "source_sentence": "However, the bloc's inability to reach a common position was highlighted during the EU Council's recent deliberations on extending sanctions.",
+      "prop_index": 45,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_046",
+      "text": "Hungary and Slovakia have been sparring with Ukraine over blocked Russian oil flows through the Druzhba pipeline.",
+      "is_factual_claim": true,
+      "topic_hint": "Hungary, Slovakia, oil",
+      "source_sentence": "Hungary and Slovakia, which have been sparring with Ukraine over blocked Russian oil flows through the Druzhba pipeline, had earlier opposed the extension of the restrictions, reportedly calling for some Russian oligarchs to be removed from the list of offenders.",
+      "prop_index": 46,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_047",
+      "text": "Hungary and Slovakia had earlier opposed the extension of the restrictions.",
+      "is_factual_claim": true,
+      "topic_hint": "Hungary, Slovakia opposition",
+      "source_sentence": "Hungary and Slovakia, which have been sparring with Ukraine over blocked Russian oil flows through the Druzhba pipeline, had earlier opposed the extension of the restrictions, reportedly calling for some Russian oligarchs to be removed from the list of offenders.",
+      "prop_index": 47,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_048",
+      "text": "Hungary and Slovakia reportedly called for some Russian oligarchs to be removed from the list of offenders.",
+      "is_factual_claim": true,
+      "topic_hint": "Hungary, Slovakia demands",
+      "source_sentence": "Hungary and Slovakia, which have been sparring with Ukraine over blocked Russian oil flows through the Druzhba pipeline, had earlier opposed the extension of the restrictions, reportedly calling for some Russian oligarchs to be removed from the list of offenders.",
+      "prop_index": 48,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_049",
+      "text": "Hungarian Prime Minister Viktor Orban reacted earlier this week to soaring oil prices caused by the war in Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Orban, Iran war impact",
+      "source_sentence": "Reacting earlier this week to soaring oil prices caused by the war in Iran, Hungarian Prime Minister Viktor Orban urged the EU to suspend sanctions on Russian energy.",
+      "prop_index": 49,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_050",
+      "text": "Viktor Orban urged the EU to suspend sanctions on Russian energy.",
+      "is_factual_claim": true,
+      "topic_hint": "Orban, Russian energy sanctions",
+      "source_sentence": "Reacting earlier this week to soaring oil prices caused by the war in Iran, Hungarian Prime Minister Viktor Orban urged the EU to suspend sanctions on Russian energy.",
+      "prop_index": 50,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_051",
+      "text": "Posting on X, Volodymyr Zelenskyy said Russia will try to exploit the war in the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy, Russia's intent",
+      "source_sentence": "Posting on X, Zelenskyy said, \"Russia will try to exploit the war in the Middle East to cause even greater destruction here in Europe, in Ukraine.\"",
+      "prop_index": 51,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_052",
+      "text": "Volodymyr Zelenskyy said Russia will try to exploit the war in the Middle East to cause even greater destruction in Europe.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy, Russia's intent",
+      "source_sentence": "Posting on X, Zelenskyy said, \"Russia will try to exploit the war in the Middle East to cause even greater destruction here in Europe, in Ukraine.\"",
+      "prop_index": 52,
+      "article_id": "aljazeera_003"
+    },
+    {
+      "prop_id": "aljazeera_003_prop_053",
+      "text": "Volodymyr Zelenskyy said Russia will try to exploit the war in the Middle East to cause even greater destruction in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy, Russia's intent",
+      "source_sentence": "Posting on X, Zelenskyy said, \"Russia will try to exploit the war in the Middle East to cause even greater destruction here in Europe, in Ukraine.\"",
+      "prop_index": 53,
+      "article_id": "aljazeera_003"
+    }
+  ]
+}

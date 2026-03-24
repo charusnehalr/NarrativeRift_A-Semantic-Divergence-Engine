@@ -1,0 +1,547 @@
+{
+  "article_id": "aljazeera_004",
+  "source_name": "Al Jazeera",
+  "total_propositions": 60,
+  "propositions": [
+    {
+      "prop_id": "aljazeera_004_prop_000",
+      "text": "A man detonated an explosive device beside a police patrol car in central Moscow's Savyolovsky railway station square.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow explosion",
+      "source_sentence": "A man detonated an explosive device beside a police patrol car in central Moscow's Savyolovsky railway station square, killing one officer and wounding two others, the Russian Ministry of Internal Affairs said on the Telegram messaging platform.",
+      "prop_index": 0,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_001",
+      "text": "The detonation killed one officer and wounded two other officers.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow explosion casualties",
+      "source_sentence": "A man detonated an explosive device beside a police patrol car in central Moscow's Savyolovsky railway station square, killing one officer and wounding two others, the Russian Ministry of Internal Affairs said on the Telegram messaging platform.",
+      "prop_index": 1,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_002",
+      "text": "The Russian Ministry of Internal Affairs reported the Moscow explosion and casualties on the Telegram messaging platform.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian Ministry report",
+      "source_sentence": "A man detonated an explosive device beside a police patrol car in central Moscow's Savyolovsky railway station square, killing one officer and wounding two others, the Russian Ministry of Internal Affairs said on the Telegram messaging platform.",
+      "prop_index": 2,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_003",
+      "text": "Russian drone strikes wounded five people, including a child, in the southeastern Ukrainian city of Zaporizhzhia.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia drone casualties",
+      "source_sentence": "Russian drone strikes on the southeastern Ukrainian city of Zaporizhzhia wounded five people including a child, according to the Ukrainian State Emergency Service (DSNS).",
+      "prop_index": 3,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_004",
+      "text": "The Ukrainian State Emergency Service (DSNS) reported the drone strikes and casualties in Zaporizhzhia.",
+      "is_factual_claim": true,
+      "topic_hint": "DSNS report",
+      "source_sentence": "Russian drone strikes on the southeastern Ukrainian city of Zaporizhzhia wounded five people including a child, according to the Ukrainian State Emergency Service (DSNS).",
+      "prop_index": 4,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_005",
+      "text": "Two people were killed and three others wounded in drone attacks that hit Ukraine's southern Odesa region.",
+      "is_factual_claim": true,
+      "topic_hint": "Odesa drone casualties",
+      "source_sentence": "Two people have been killed and three others wounded in the latest drone attacks that hit the southern Odesa region, Ukraine's emergency services said.",
+      "prop_index": 5,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_006",
+      "text": "Ukraine's emergency services reported the casualties in the Odesa region.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine emergency services",
+      "source_sentence": "Two people have been killed and three others wounded in the latest drone attacks that hit the southern Odesa region, Ukraine's emergency services said.",
+      "prop_index": 6,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_007",
+      "text": "Minister for Restoration of Ukraine Oleksii Kuleba stated that Russia had attacked port infrastructure in Odesa.",
+      "is_factual_claim": true,
+      "topic_hint": "Odesa port attack",
+      "source_sentence": "Minister for Restoration of Ukraine Oleksii Kuleba said Russia had attacked port infrastructure in Odesa.",
+      "prop_index": 7,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_008",
+      "text": "Seven police officers were injured, two of them seriously, in an explosion in Ukraine's southern city of Mykolaiv.",
+      "is_factual_claim": true,
+      "topic_hint": "Mykolaiv police injuries",
+      "source_sentence": "Seven police officers have been injured, two of them seriously, in an explosion in Ukraine's southern city of Mykolaiv, the head of the national police, Ivan Vyhivskyi, said.",
+      "prop_index": 8,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_009",
+      "text": "Ivan Vyhivskyi, head of the national police, reported the injuries in Mykolaiv.",
+      "is_factual_claim": true,
+      "topic_hint": "Mykolaiv police report",
+      "source_sentence": "Seven police officers have been injured, two of them seriously, in an explosion in Ukraine's southern city of Mykolaiv, the head of the national police, Ivan Vyhivskyi, said.",
+      "prop_index": 9,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_010",
+      "text": "Ivan Vyhivskyi wrote on Facebook that the Mykolaiv attack was the second involving police in three days.",
+      "is_factual_claim": true,
+      "topic_hint": "Mykolaiv attack frequency",
+      "source_sentence": "In a Facebook post, Vyhivskyi wrote that the attack, which was the second involving police in three days, was \"not a coincidence\" and carried out to \"deliberately\" kill officers.",
+      "prop_index": 10,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_011",
+      "text": "Ivan Vyhivskyi stated that the Mykolaiv attack was carried out to \"deliberately\" kill officers.",
+      "is_factual_claim": true,
+      "topic_hint": "Mykolaiv attack motive",
+      "source_sentence": "In a Facebook post, Vyhivskyi wrote that the attack, which was the second involving police in three days, was \"not a coincidence\" and carried out to \"deliberately\" kill officers.",
+      "prop_index": 11,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_012",
+      "text": "An explosion hit a city police station in the southeastern city of Dnipro.",
+      "is_factual_claim": true,
+      "topic_hint": "Dnipro police station explosion",
+      "source_sentence": "An explosion also hit a city police station in the southeastern city of Dnipro, smashing windows and damaging furnishings inside.",
+      "prop_index": 12,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_013",
+      "text": "The explosion in Dnipro smashed windows and damaged furnishings inside the police station.",
+      "is_factual_claim": true,
+      "topic_hint": "Dnipro explosion damage",
+      "source_sentence": "An explosion also hit a city police station in the southeastern city of Dnipro, smashing windows and damaging furnishings inside.",
+      "prop_index": 13,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_014",
+      "text": "No injuries were reported from the explosion in Dnipro.",
+      "is_factual_claim": true,
+      "topic_hint": "Dnipro explosion injuries",
+      "source_sentence": "No injuries were reported, and police did not comment on what might have caused the explosion.",
+      "prop_index": 14,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_015",
+      "text": "Ukrainian drones struck a Russian pumping station serving the Druzhba oil pipeline.",
+      "is_factual_claim": true,
+      "topic_hint": "Druzhba pipeline strike",
+      "source_sentence": "Ukrainian drones have struck a Russian pumping station serving the Druzhba oil pipeline, set up to supply Moscow's crude to Eastern Europe, a Ukrainian security official said.",
+      "prop_index": 15,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_016",
+      "text": "The pumping station is located near the city of Almetyevsk in Russia's Tatarstan region.",
+      "is_factual_claim": true,
+      "topic_hint": "Pumping station location",
+      "source_sentence": "The strike caused a fire at the Kaleykino station near the city of Almetyevsk in Russia's Tatarstan region, the official added.",
+      "prop_index": 16,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_017",
+      "text": "The drone strike caused a fire at the Kaleykino station.",
+      "is_factual_claim": true,
+      "topic_hint": "Kaleykino station fire",
+      "source_sentence": "The strike caused a fire at the Kaleykino station near the city of Almetyevsk in Russia's Tatarstan region, the official added.",
+      "prop_index": 17,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_018",
+      "text": "A Ukrainian security official reported the drone strike and subsequent fire.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian official report",
+      "source_sentence": "Ukrainian drones have struck a Russian pumping station serving the Druzhba oil pipeline, set up to supply Moscow's crude to Eastern Europe, a Ukrainian security official said.",
+      "prop_index": 18,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_019",
+      "text": "Ukrainian forces restored control over 400 sq km (154 sq miles) of territory along a stretch of the southern front line.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian territorial gains",
+      "source_sentence": "Ukrainian forces \"restored control\" over 400 sq km (154 sq miles) of territory along a stretch of the southern front line, the commander-in-chief of Ukraine's armed forces, Oleksandr Syrskii, said in a rare announcement of a Ukrainian advance against Russian forces in several months.",
+      "prop_index": 19,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_020",
+      "text": "Oleksandr Syrskii, commander-in-chief of Ukraine's armed forces, made this announcement.",
+      "is_factual_claim": true,
+      "topic_hint": "Syrskii announcement",
+      "source_sentence": "Ukrainian forces \"restored control\" over 400 sq km (154 sq miles) of territory along a stretch of the southern front line, the commander-in-chief of Ukraine's armed forces, Oleksandr Syrskii, said in a rare announcement of a Ukrainian advance against Russian forces in several months.",
+      "prop_index": 20,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_021",
+      "text": "The announcement by Oleksandr Syrskii was a rare statement of a Ukrainian advance against Russian forces in several months.",
+      "is_factual_claim": true,
+      "topic_hint": "Rare Ukrainian advance",
+      "source_sentence": "Ukrainian forces \"restored control\" over 400 sq km (154 sq miles) of territory along a stretch of the southern front line, the commander-in-chief of Ukraine's armed forces, Oleksandr Syrskii, said in a rare announcement of a Ukrainian advance against Russian forces in several months.",
+      "prop_index": 21,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_022",
+      "text": "German Chancellor Friedrich Merz said Ukraine's fight against Russia's attacks was more effective than often perceived.",
+      "is_factual_claim": true,
+      "topic_hint": "Merz on Ukraine's effectiveness",
+      "source_sentence": "In a speech in Berlin, German Chancellor Friedrich Merz said Ukraine's fight against Russia's attacks was more effective than it was often made out to be, citing unexpected territorial gains in February.",
+      "prop_index": 22,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_023",
+      "text": "German Chancellor Friedrich Merz cited unexpected territorial gains in February.",
+      "is_factual_claim": true,
+      "topic_hint": "Merz cites gains",
+      "source_sentence": "In a speech in Berlin, German Chancellor Friedrich Merz said Ukraine's fight against Russia's attacks was more effective than it was often made out to be, citing unexpected territorial gains in February.",
+      "prop_index": 23,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_024",
+      "text": "German Chancellor Friedrich Merz stated that the Russian economy is struggling under the weight of sanctions and warfare.",
+      "is_factual_claim": true,
+      "topic_hint": "Merz on Russian economy",
+      "source_sentence": "He also added that the Russian economy \"is creaking under the weight of sanctions and of warfare\".",
+      "prop_index": 24,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_025",
+      "text": "The United Nations Security Council will hold a meeting on Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "UN Security Council meeting",
+      "source_sentence": "The United Nations Security Council will hold a meeting on Ukraine to commemorate the fourth anniversary of Russia's February 24, 2022, invasion of the country.",
+      "prop_index": 25,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_026",
+      "text": "The meeting will commemorate the fourth anniversary of Russia's February 24, 2022, invasion of Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Invasion anniversary commemoration",
+      "source_sentence": "The United Nations Security Council will hold a meeting on Ukraine to commemorate the fourth anniversary of Russia's February 24, 2022, invasion of the country.",
+      "prop_index": 26,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_027",
+      "text": "NATO Secretary-General Mark Rutte is scheduled to deliver remarks commemorating the anniversary on Tuesday.",
+      "is_factual_claim": true,
+      "topic_hint": "Rutte's anniversary remarks",
+      "source_sentence": "At the NATO headquarters in Brussels, NATO Secretary-General Mark Rutte is scheduled to deliver remarks commemorating the anniversary on Tuesday.",
+      "prop_index": 27,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_028",
+      "text": "The remarks by Mark Rutte will be delivered at the NATO headquarters in Brussels.",
+      "is_factual_claim": true,
+      "topic_hint": "NATO headquarters event",
+      "source_sentence": "At the NATO headquarters in Brussels, NATO Secretary-General Mark Rutte is scheduled to deliver remarks commemorating the anniversary on Tuesday.",
+      "prop_index": 28,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_029",
+      "text": "Hungary maintained its veto on Monday against new European Union sanctions on Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Hungary vetoes sanctions",
+      "source_sentence": "Hungary maintained its veto on Monday against new European Union sanctions on Russia and a huge loan for Ukraine, amid a dispute with Kyiv over oil supplies, in a blow to Europe's pro-Ukrainian consensus.",
+      "prop_index": 29,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_030",
+      "text": "Hungary maintained its veto on Monday against a huge loan for Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Hungary vetoes Ukraine loan",
+      "source_sentence": "Hungary maintained its veto on Monday against new European Union sanctions on Russia and a huge loan for Ukraine, amid a dispute with Kyiv over oil supplies, in a blow to Europe's pro-Ukrainian consensus.",
+      "prop_index": 30,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_031",
+      "text": "Hungary's veto occurred amid a dispute with Kyiv over oil supplies.",
+      "is_factual_claim": true,
+      "topic_hint": "Hungary-Kyiv dispute",
+      "source_sentence": "Hungary maintained its veto on Monday against new European Union sanctions on Russia and a huge loan for Ukraine, amid a dispute with Kyiv over oil supplies, in a blow to Europe's pro-Ukrainian consensus.",
+      "prop_index": 31,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_032",
+      "text": "Ukrainian Foreign Minister Andrii Sybiha wrote on X that \"ultimatums\" by Hungary and Slovakia should be addressed only to the Kremlin.",
+      "is_factual_claim": true,
+      "topic_hint": "Sybiha on ultimatums",
+      "source_sentence": "In response, Ukrainian Foreign Minister Andrii Sybiha wrote on X that \"ultimatums\" by Hungary and Slovakia should be addressed only to the Kremlin, adding that the two countries \"cannot hold the entire EU hostage\".",
+      "prop_index": 32,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_033",
+      "text": "Ukrainian Foreign Minister Andrii Sybiha stated that Hungary and Slovakia \"cannot hold the entire EU hostage\".",
+      "is_factual_claim": true,
+      "topic_hint": "Sybiha on EU hostage",
+      "source_sentence": "In response, Ukrainian Foreign Minister Andrii Sybiha wrote on X that \"ultimatums\" by Hungary and Slovakia should be addressed only to the Kremlin, adding that the two countries \"cannot hold the entire EU hostage\".",
+      "prop_index": 33,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_034",
+      "text": "EU foreign policy chief Kaja Kallas said Hungary's veto was a setback.",
+      "is_factual_claim": true,
+      "topic_hint": "Kallas on Hungary's veto",
+      "source_sentence": "EU foreign policy chief Kaja Kallas told reporters Hungary's veto was a setback as European countries have been unable to approve a 20th sanctions package against Russia.",
+      "prop_index": 34,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_035",
+      "text": "European countries have been unable to approve a 20th sanctions package against Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "EU sanctions package",
+      "source_sentence": "EU foreign policy chief Kaja Kallas told reporters Hungary's veto was a setback as European countries have been unable to approve a 20th sanctions package against Russia.",
+      "prop_index": 35,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_036",
+      "text": "European Council President Antonio Costa urged Hungarian Prime Minister Viktor Orban to honour the EU deal for a 90 billion euro ($106.11bn) loan to Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Costa urges Orban",
+      "source_sentence": "European Council President Antonio Costa urged Hungarian Prime Minister Viktor Orban to honour the EU deal for a 90 billion euro ($106.11bn) loan to Ukraine, the Reuters news agency reported.",
+      "prop_index": 36,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_037",
+      "text": "Four diplomats in Brussels told Reuters that Hungarian Minister of Foreign Affairs and Trade Peter Szijjarto drew sharp criticism from EU colleagues.",
+      "is_factual_claim": true,
+      "topic_hint": "Szijjarto criticism",
+      "source_sentence": "Four diplomats in Brussels told Reuters that Hungarian Minister of Foreign Affairs and Trade Peter Szijjarto drew sharp criticism from EU colleagues behind closed doors in Brussels, with some ministers accusing Orban's government of using the energy issue for political gain in advance of a tough election Orban will face in April.",
+      "prop_index": 37,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_038",
+      "text": "Some ministers accused Viktor Orban's government of using the energy issue for political gain.",
+      "is_factual_claim": true,
+      "topic_hint": "Orban government accusation",
+      "source_sentence": "Four diplomats in Brussels told Reuters that Hungarian Minister of Foreign Affairs and Trade Peter Szijjarto drew sharp criticism from EU colleagues behind closed doors in Brussels, with some ministers accusing Orban's government of using the energy issue for political gain in advance of a tough election Orban will face in April.",
+      "prop_index": 38,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_039",
+      "text": "Viktor Orban will face a tough election in April.",
+      "is_factual_claim": true,
+      "topic_hint": "Orban's upcoming election",
+      "source_sentence": "Four diplomats in Brussels told Reuters that Hungarian Minister of Foreign Affairs and Trade Peter Szijjarto drew sharp criticism from EU colleagues behind closed doors in Brussels, with some ministers accusing Orban's government of using the energy issue for political gain in advance of a tough election Orban will face in April.",
+      "prop_index": 39,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_040",
+      "text": "Ukrainian President Volodymyr Zelenskyy's chief of staff, Kyrylo Budanov, said another round of talks to end the war could be held this week.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine peace talks",
+      "source_sentence": "Another round of talks aimed at ending the war in Ukraine could be held at the end of this week, Ukrainian President Volodymyr Zelenskyy's chief of staff, Kyrylo Budanov, told Ukrainian media.",
+      "prop_index": 40,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_041",
+      "text": "Valerii Zaluzhnyi is Ukraine's former top general and current ambassador to the United Kingdom.",
+      "is_factual_claim": true,
+      "topic_hint": "Valerii Zaluzhnyi role",
+      "source_sentence": "Ukraine's former top general, Valerii Zaluzhnyi, now serving as ambassador to the United Kingdom, has dismissed questions about his presidential ambitions as \"pub talk\" and said he would not address his political future until after martial law ends in Ukraine.",
+      "prop_index": 41,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_042",
+      "text": "Valerii Zaluzhnyi dismissed questions about his presidential ambitions as \"pub talk\".",
+      "is_factual_claim": true,
+      "topic_hint": "Zaluzhnyi's ambitions",
+      "source_sentence": "Ukraine's former top general, Valerii Zaluzhnyi, now serving as ambassador to the United Kingdom, has dismissed questions about his presidential ambitions as \"pub talk\" and said he would not address his political future until after martial law ends in Ukraine.",
+      "prop_index": 42,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_043",
+      "text": "Valerii Zaluzhnyi said he would not address his political future until after martial law ends in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaluzhnyi's political future",
+      "source_sentence": "Ukraine's former top general, Valerii Zaluzhnyi, now serving as ambassador to the United Kingdom, has dismissed questions about his presidential ambitions as \"pub talk\" and said he would not address his political future until after martial law ends in Ukraine.",
+      "prop_index": 43,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_044",
+      "text": "The EU has imposed sanctions on a new group of eight individuals.",
+      "is_factual_claim": true,
+      "topic_hint": "EU sanctions individuals",
+      "source_sentence": "The EU has imposed sanctions on a new group of eight individuals suspected of serious human rights violations and of undermining the rule of law in Russia.",
+      "prop_index": 44,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_045",
+      "text": "The sanctioned individuals are suspected of serious human rights violations and undermining the rule of law in Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions reasons",
+      "source_sentence": "The EU has imposed sanctions on a new group of eight individuals suspected of serious human rights violations and of undermining the rule of law in Russia.",
+      "prop_index": 45,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_046",
+      "text": "Aleksei Valizer, head of a Russian penal colony, was added to the EU sanctions list.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctioned individuals",
+      "source_sentence": "Names added to the sanctions list include Aleksei Valizer, head of a Russian penal colony, and St Petersburg judges Eva Giunter and Andrey Shibakov.",
+      "prop_index": 46,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_047",
+      "text": "St Petersburg judges Eva Giunter and Andrey Shibakov were added to the EU sanctions list.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctioned judges",
+      "source_sentence": "Names added to the sanctions list include Aleksei Valizer, head of a Russian penal colony, and St Petersburg judges Eva Giunter and Andrey Shibakov.",
+      "prop_index": 47,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_048",
+      "text": "Rebuilding Ukraine's economy will cost an estimated $588bn over the next decade.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine reconstruction cost",
+      "source_sentence": "Rebuilding Ukraine's economy will cost an estimated $588bn over the next decade, the World Bank, United Nations, European Commission and the Ukrainian government said.",
+      "prop_index": 48,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_049",
+      "text": "The World Bank, United Nations, European Commission, and the Ukrainian government stated the estimated cost for rebuilding Ukraine's economy.",
+      "is_factual_claim": true,
+      "topic_hint": "Reconstruction cost sources",
+      "source_sentence": "Rebuilding Ukraine's economy will cost an estimated $588bn over the next decade, the World Bank, United Nations, European Commission and the Ukrainian government said.",
+      "prop_index": 49,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_050",
+      "text": "Ukrainian President Volodymyr Zelenskyy said Kyiv was ready to continue helping with the release of Belarusian political prisoners.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskyy on Belarusian prisoners",
+      "source_sentence": "Zelenskyy said Kyiv was ready to continue helping with the release of Belarusian political prisoners, having already received prisoners released in a US-brokered exchange on its territory.",
+      "prop_index": 50,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_051",
+      "text": "Ukraine had already received prisoners released in a US-brokered exchange on its territory.",
+      "is_factual_claim": true,
+      "topic_hint": "US-brokered prisoner exchange",
+      "source_sentence": "Zelenskyy said Kyiv was ready to continue helping with the release of Belarusian political prisoners, having already received prisoners released in a US-brokered exchange on its territory.",
+      "prop_index": 51,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_052",
+      "text": "South Korea asked the Russian Embassy in Seoul to take down a banner reading \"Victory will be ours\".",
+      "is_factual_claim": true,
+      "topic_hint": "South Korea banner request",
+      "source_sentence": "South Korea has asked the Russian Embassy in Seoul to take down a large banner, reading \"Victory will be ours\", its Ministry of Foreign Affairs said, just ahead of the fourth anniversary of Moscow's war.",
+      "prop_index": 52,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_053",
+      "text": "South Korea's Ministry of Foreign Affairs made this request ahead of the fourth anniversary of Moscow's war.",
+      "is_factual_claim": true,
+      "topic_hint": "South Korea's request timing",
+      "source_sentence": "South Korea has asked the Russian Embassy in Seoul to take down a large banner, reading \"Victory will be ours\", its Ministry of Foreign Affairs said, just ahead of the fourth anniversary of Moscow's war.",
+      "prop_index": 53,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_054",
+      "text": "South Korea's Ministry of Foreign Affairs conveyed its concerns to the Russian Embassy in Seoul.",
+      "is_factual_claim": true,
+      "topic_hint": "South Korea's concerns",
+      "source_sentence": "The ministry said in a statement that it had conveyed its concerns to the embassy.",
+      "prop_index": 54,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_055",
+      "text": "Slovak Prime Minister Robert Fico announced that Slovakia's power grid operator would refuse Ukrainian requests for emergency supplies.",
+      "is_factual_claim": true,
+      "topic_hint": "Slovakia power refusal",
+      "source_sentence": "Slovak Prime Minister Robert Fico has announced that his country's power grid operator would refuse any Ukrainian requests for emergency supplies until oil flows resume via the Druzhba pipeline, which runs from Russia through Ukraine to Central Europe.",
+      "prop_index": 55,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_056",
+      "text": "The refusal would last until oil flows resume via the Druzhba pipeline.",
+      "is_factual_claim": true,
+      "topic_hint": "Druzhba pipeline condition",
+      "source_sentence": "Slovak Prime Minister Robert Fico has announced that his country's power grid operator would refuse any Ukrainian requests for emergency supplies until oil flows resume via the Druzhba pipeline, which runs from Russia through Ukraine to Central Europe.",
+      "prop_index": 56,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_057",
+      "text": "The Druzhba pipeline runs from Russia through Ukraine to Central Europe.",
+      "is_factual_claim": true,
+      "topic_hint": "Druzhba pipeline route",
+      "source_sentence": "Slovak Prime Prime Minister Robert Fico has announced that his country's power grid operator would refuse any Ukrainian requests for emergency supplies until oil flows resume via the Druzhba pipeline, which runs from Russia through Ukraine to Central Europe.",
+      "prop_index": 57,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_058",
+      "text": "Ukraine's national power company, Ukrenergo, said that any refusal by Slovakia to extend emergency electricity supplies to Ukraine would have no effect on Ukraine's power system.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrenergo on Slovakia refusal",
+      "source_sentence": "Ukraine's national power company, Ukrenergo, said that any refusal by Slovakia to extend emergency electricity supplies to Ukraine on demand would have no effect on the country's power system.",
+      "prop_index": 58,
+      "article_id": "aljazeera_004"
+    },
+    {
+      "prop_id": "aljazeera_004_prop_059",
+      "text": "Ukraine informed Transpetrol, Slovakia's oil pipeline system operator, that oil deliveries would resume via the pipeline on Wednesday, February 25.",
+      "is_factual_claim": true,
+      "topic_hint": "Oil deliveries resumption",
+      "source_sentence": "In a statement, Slovakia's Ministry of Economy said that Ukraine had informed Slovakia's oil pipeline system operator, Transpetrol, that oil deliveries would resume via the pipeline on Wednesday, February 25.",
+      "prop_index": 59,
+      "article_id": "aljazeera_004"
+    }
+  ]
+}

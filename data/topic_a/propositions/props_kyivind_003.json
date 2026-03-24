@@ -1,0 +1,502 @@
+{
+  "article_id": "kyivind_003",
+  "source_name": "Kyiv Independent",
+  "total_propositions": 55,
+  "propositions": [
+    {
+      "prop_id": "kyivind_003_prop_000",
+      "text": "Russian authorities aim to relocate nearly 114,000 citizens to occupied Ukrainian territories by 2045.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian resettlement plans",
+      "source_sentence": "Russian authorities aim to relocate nearly 114,000 citizens to occupied Ukrainian territories by 2045, pro-Kremlin publication Vedomosti reported on March 17, citing government plans for the development of Donetsk, Luhansk, Zaporizhzhia, and Kherson oblasts.",
+      "prop_index": 0,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_001",
+      "text": "Pro-Kremlin publication Vedomosti reported this aim on March 17.",
+      "is_factual_claim": true,
+      "topic_hint": "Vedomosti report date",
+      "source_sentence": "Russian authorities aim to relocate nearly 114,000 citizens to occupied Ukrainian territories by 2045, pro-Kremlin publication Vedomosti reported on March 17, citing government plans for the development of Donetsk, Luhansk, Zaporizhzhia, and Kherson oblasts.",
+      "prop_index": 1,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_002",
+      "text": "Vedomosti cited government plans for the development of Donetsk, Luhansk, Zaporizhzhia, and Kherson oblasts.",
+      "is_factual_claim": true,
+      "topic_hint": "Vedomosti report source",
+      "source_sentence": "Russian authorities aim to relocate nearly 114,000 citizens to occupied Ukrainian territories by 2045, pro-Kremlin publication Vedomosti reported on March 17, citing government plans for the development of Donetsk, Luhansk, Zaporizhzhia, and Kherson oblasts.",
+      "prop_index": 2,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_003",
+      "text": "About 116,000 square kilometers (44,800 square miles) of Ukrainian territory remained under Russian occupation as of the end of 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Occupied territory size",
+      "source_sentence": "As of the end of 2025, about 116,000 square kilometers (44,800 square miles) of Ukrainian territory remained under Russian occupation, according to Ukrainian open-source mapping project DeepState.",
+      "prop_index": 3,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_004",
+      "text": "This information is according to Ukrainian open-source mapping project DeepState.",
+      "is_factual_claim": true,
+      "topic_hint": "DeepState mapping project",
+      "source_sentence": "As of the end of 2025, about 116,000 square kilometers (44,800 square miles) of Ukrainian territory remained under Russian occupation, according to Ukrainian open-source mapping project DeepState.",
+      "prop_index": 4,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_005",
+      "text": "Russian forces have repeatedly used scorched-earth tactics in occupied Ukrainian territories.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian scorched-earth tactics",
+      "source_sentence": "Russian forces have repeatedly used scorched-earth tactics in these areas, leveling homes and critical infrastructure, leaving the vast majority of occupied territories in ruins, often without access to electricity or running water.",
+      "prop_index": 5,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_006",
+      "text": "Russian forces leveled homes and critical infrastructure in occupied Ukrainian territories.",
+      "is_factual_claim": true,
+      "topic_hint": "Infrastructure destruction",
+      "source_sentence": "Russian forces have repeatedly used scorched-earth tactics in these areas, leveling homes and critical infrastructure, leaving the vast majority of occupied territories in ruins, often without access to electricity or running water.",
+      "prop_index": 6,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_007",
+      "text": "The vast majority of occupied Ukrainian territories are in ruins.",
+      "is_factual_claim": true,
+      "topic_hint": "Occupied territories condition",
+      "source_sentence": "Russian forces have repeatedly used scorched-earth tactics in these areas, leveling homes and critical infrastructure, leaving the vast majority of occupied territories in ruins, often without access to electricity or running water.",
+      "prop_index": 7,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_008",
+      "text": "Occupied Ukrainian territories are often without access to electricity.",
+      "is_factual_claim": true,
+      "topic_hint": "Lack of electricity",
+      "source_sentence": "Russian forces have repeatedly used scorched-earth tactics in these areas, leveling homes and critical infrastructure, leaving the vast majority of occupied territories in ruins, often without access to electricity or running water.",
+      "prop_index": 8,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_009",
+      "text": "Occupied Ukrainian territories are often without access to running water.",
+      "is_factual_claim": true,
+      "topic_hint": "Lack of running water",
+      "source_sentence": "Russian forces have repeatedly used scorched-earth tactics in these areas, leveling homes and critical infrastructure, leaving the vast majority of occupied territories in ruins, often without access to electricity or running water.",
+      "prop_index": 9,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_010",
+      "text": "The Russian government has announced 15 master plans.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian master plans",
+      "source_sentence": "The government has announced 15 master plans and 10 land-use projects, which it says could increase the population by 67,000 people under the master plans and a further 46,700 through the projects, Vedomosti reported.",
+      "prop_index": 10,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_011",
+      "text": "The Russian government has announced 10 land-use projects.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian land-use projects",
+      "source_sentence": "The government has announced 15 master plans and 10 land-use projects, which it says could increase the population by 67,000 people under the master plans and a further 46,700 through the projects, Vedomosti reported.",
+      "prop_index": 11,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_012",
+      "text": "The Russian government says the master plans could increase the population by 67,000 people.",
+      "is_factual_claim": true,
+      "topic_hint": "Population increase projection",
+      "source_sentence": "The government has announced 15 master plans and 10 land-use projects, which it says could increase the population by 67,000 people under the master plans and a further 46,700 through the projects, Vedomosti reported.",
+      "prop_index": 12,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_013",
+      "text": "The Russian government says the land-use projects could increase the population by a further 46,700 people.",
+      "is_factual_claim": true,
+      "topic_hint": "Population increase projection",
+      "source_sentence": "The government has announced 15 master plans and 10 land-use projects, which it says could increase the population by 67,000 people under the master plans and a further 46,700 through the projects, Vedomosti reported.",
+      "prop_index": 13,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_014",
+      "text": "Vedomosti reported these announcements and claims.",
+      "is_factual_claim": true,
+      "topic_hint": "Vedomosti report",
+      "source_sentence": "The government has announced 15 master plans and 10 land-use projects, which it says could increase the population by 67,000 people under the master plans and a further 46,700 through the projects, Vedomosti reported.",
+      "prop_index": 14,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_015",
+      "text": "Russia aims to build more than 13 million square meters of housing in occupied Ukrainian territories.",
+      "is_factual_claim": true,
+      "topic_hint": "Housing construction aim",
+      "source_sentence": "Russia aims to build more than 13 million square meters of housing, over 140 kindergartens, several dozen schools, and about 100 medical facilities in occupied Ukrainian territories, according to the state development corporation VEB.RF.",
+      "prop_index": 15,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_016",
+      "text": "Russia aims to build over 140 kindergartens in occupied Ukrainian territories.",
+      "is_factual_claim": true,
+      "topic_hint": "Kindergarten construction aim",
+      "source_sentence": "Russia aims to build more than 13 million square meters of housing, over 140 kindergartens, several dozen schools, and about 100 medical facilities in occupied Ukrainian territories, according to the state development corporation VEB.RF.",
+      "prop_index": 16,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_017",
+      "text": "Russia aims to build several dozen schools in occupied Ukrainian territories.",
+      "is_factual_claim": true,
+      "topic_hint": "School construction aim",
+      "source_sentence": "Russia aims to build more than 13 million square meters of housing, over 140 kindergartens, several dozen schools, and about 100 medical facilities in occupied Ukrainian territories, according to the state development corporation VEB.RF.",
+      "prop_index": 17,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_018",
+      "text": "Russia aims to build about 100 medical facilities in occupied Ukrainian territories.",
+      "is_factual_claim": true,
+      "topic_hint": "Medical facility construction",
+      "source_sentence": "Russia aims to build more than 13 million square meters of housing, over 140 kindergartens, several dozen schools, and about 100 medical facilities in occupied Ukrainian territories, according to the state development corporation VEB.RF.",
+      "prop_index": 18,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_019",
+      "text": "This information is according to the state development corporation VEB.RF.",
+      "is_factual_claim": true,
+      "topic_hint": "VEB.RF source",
+      "source_sentence": "Russia aims to build more than 13 million square meters of housing, over 140 kindergartens, several dozen schools, and about 100 medical facilities in occupied Ukrainian territories, according to the state development corporation VEB.RF.",
+      "prop_index": 19,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_020",
+      "text": "Roughly 3,270 kilometers (2,033 miles) of roads are set to be rebuilt in the occupied territories according to the plans.",
+      "is_factual_claim": true,
+      "topic_hint": "Road rebuilding plans",
+      "source_sentence": "According to the plans, roughly 3,270 kilometers (2,033 miles) of roads and about 430 kilometers (267 miles) of railways are set to be rebuilt in the occupied territories.",
+      "prop_index": 20,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_021",
+      "text": "About 430 kilometers (267 miles) of railways are set to be rebuilt in the occupied territories according to the plans.",
+      "is_factual_claim": true,
+      "topic_hint": "Railway rebuilding plans",
+      "source_sentence": "According to the plans, roughly 3,270 kilometers (2,033 miles) of roads and about 430 kilometers (267 miles) of railways are set to be rebuilt in the occupied territories.",
+      "prop_index": 21,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_022",
+      "text": "The Russian government intends to construct marinas.",
+      "is_factual_claim": true,
+      "topic_hint": "Marina construction plans",
+      "source_sentence": "The Russian government also intends to construct marinas and piers and to reconstruct four airfields.",
+      "prop_index": 22,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_023",
+      "text": "The Russian government intends to construct piers.",
+      "is_factual_claim": true,
+      "topic_hint": "Pier construction plans",
+      "source_sentence": "The Russian government also intends to construct marinas and piers and to reconstruct four airfields.",
+      "prop_index": 23,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_024",
+      "text": "The Russian government intends to reconstruct four airfields.",
+      "is_factual_claim": true,
+      "topic_hint": "Airfield reconstruction plans",
+      "source_sentence": "The Russian government also intends to construct marinas and piers and to reconstruct four airfields.",
+      "prop_index": 24,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_025",
+      "text": "Russian authorities are seeking to develop tourism in the occupied Ukrainian territories.",
+      "is_factual_claim": true,
+      "topic_hint": "Tourism development plans",
+      "source_sentence": "Russian authorities are also seeking to develop tourism in the occupied Ukrainian territories, aiming to attract up to 9.4 million visitors by 2044.",
+      "prop_index": 25,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_026",
+      "text": "Russian authorities aim to attract up to 9.4 million visitors to occupied Ukrainian territories by 2044.",
+      "is_factual_claim": true,
+      "topic_hint": "Tourism visitor target",
+      "source_sentence": "Russian authorities are also seeking to develop tourism in the occupied Ukrainian territories, aiming to attract up to 9.4 million visitors by 2044.",
+      "prop_index": 26,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_027",
+      "text": "Potential tourism sites include settlements in southern Zaporizhzhia Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia tourism sites",
+      "source_sentence": "Potential sites include settlements in southern Zaporizhzhia and Donetsk oblasts, Kherson Oblast, and the Arabat Spit along the western coast of the Sea of Azov.",
+      "prop_index": 27,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_028",
+      "text": "Potential tourism sites include settlements in southern Donetsk Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk tourism sites",
+      "source_sentence": "Potential sites include settlements in southern Zaporizhzhia and Donetsk oblasts, Kherson Oblast, and the Arabat Spit along the western coast of the Sea of Azov.",
+      "prop_index": 28,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_029",
+      "text": "Potential tourism sites include Kherson Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Kherson tourism sites",
+      "source_sentence": "Potential sites include settlements in southern Zaporizhzhia and Donetsk oblasts, Kherson Oblast, and the Arabat Spit along the western coast of the Sea of Azov.",
+      "prop_index": 29,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_030",
+      "text": "Potential tourism sites include the Arabat Spit along the western coast of the Sea of Azov.",
+      "is_factual_claim": true,
+      "topic_hint": "Arabat Spit tourism",
+      "source_sentence": "Potential sites include settlements in southern Zaporizhzhia and Donetsk oblasts, Kherson Oblast, and the Arabat Spit along the western coast of the Sea of Azov.",
+      "prop_index": 30,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_031",
+      "text": "Occupied territories near the front lines are frequently hit by attacks.",
+      "is_factual_claim": true,
+      "topic_hint": "Frontline attacks",
+      "source_sentence": "Occupied territories near the front lines, particularly in Donetsk, Zaporizhzhia, and Kherson oblasts, which the Russian government seeks to resettle, are also frequently hit by attacks and active fighting.",
+      "prop_index": 31,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_032",
+      "text": "Occupied territories near the front lines are frequently hit by active fighting.",
+      "is_factual_claim": true,
+      "topic_hint": "Frontline fighting",
+      "source_sentence": "Occupied territories near the front lines, particularly in Donetsk, Zaporizhzhia, and Kherson oblasts, which the Russian government seeks to resettle, are also frequently hit by attacks and active fighting.",
+      "prop_index": 32,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_033",
+      "text": "The Russian government seeks to resettle occupied territories near the front lines.",
+      "is_factual_claim": true,
+      "topic_hint": "Resettlement near front",
+      "source_sentence": "Occupied territories near the front lines, particularly in Donetsk, Zaporizhzhia, and Kherson oblasts, which the Russian government seeks to resettle, are also frequently hit by attacks and active fighting.",
+      "prop_index": 33,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_034",
+      "text": "Donetsk Oblast is an occupied territory near the front lines.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk frontline status",
+      "source_sentence": "Occupied territories near the front lines, particularly in Donetsk, Zaporizhzhia, and Kherson oblasts, which the Russian government seeks to resettle, are also frequently hit by attacks and active fighting.",
+      "prop_index": 34,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_035",
+      "text": "Zaporizhzhia Oblast is an occupied territory near the front lines.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaporizhzhia frontline status",
+      "source_sentence": "Occupied territories near the front lines, particularly in Donetsk, Zaporizhzhia, and Kherson oblasts, which the Russian government seeks to resettle, are also frequently hit by attacks and active fighting.",
+      "prop_index": 35,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_036",
+      "text": "Kherson Oblast is an occupied territory near the front lines.",
+      "is_factual_claim": true,
+      "topic_hint": "Kherson frontline status",
+      "source_sentence": "Occupied territories near the front lines, particularly in Donetsk, Zaporizhzhia, and Kherson oblasts, which the Russian government seeks to resettle, are also frequently hit by attacks and active fighting.",
+      "prop_index": 36,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_037",
+      "text": "Mariupol is located in Donetsk Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol location",
+      "source_sentence": "Mariupol in Donetsk Oblast, fully occupied by Russian forces on May 20, 2022, provides a stark example of Russia's so-called \"reconstruction.\"",
+      "prop_index": 37,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_038",
+      "text": "Mariupol was fully occupied by Russian forces on May 20, 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol occupation date",
+      "source_sentence": "Mariupol in Donetsk Oblast, fully occupied by Russian forces on May 20, 2022, provides a stark example of Russia's so-called \"reconstruction.\"",
+      "prop_index": 38,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_039",
+      "text": "Mariupol provides an example of Russia's \"reconstruction.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol reconstruction example",
+      "source_sentence": "Mariupol in Donetsk Oblast, fully occupied by Russian forces on May 20, 2022, provides a stark example of Russia's so-called \"reconstruction.\"",
+      "prop_index": 39,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_040",
+      "text": "Russian troops struck the local drama theater in Mariupol during the city's capture.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol theater strike",
+      "source_sentence": "During the city's capture, Russian troops struck the local drama theater, which had been sheltering civilians, killing about 600 people, including children, and injuring roughly 400.",
+      "prop_index": 40,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_041",
+      "text": "The local drama theater in Mariupol had been sheltering civilians.",
+      "is_factual_claim": true,
+      "topic_hint": "Theater sheltering civilians",
+      "source_sentence": "During the city's capture, Russian troops struck the local drama theater, which had been sheltering civilians, killing about 600 people, including children, and injuring roughly 400.",
+      "prop_index": 41,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_042",
+      "text": "The strike killed about 600 people, including children.",
+      "is_factual_claim": true,
+      "topic_hint": "Theater strike casualties",
+      "source_sentence": "During the city's capture, Russian troops struck the local drama theater, which had been sheltering civilians, killing about 600 people, including children, and injuring roughly 400.",
+      "prop_index": 42,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_043",
+      "text": "The strike injured roughly 400 people.",
+      "is_factual_claim": true,
+      "topic_hint": "Theater strike injuries",
+      "source_sentence": "During the city's capture, Russian troops struck the local drama theater, which had been sheltering civilians, killing about 600 people, including children, and injuring roughly 400.",
+      "prop_index": 43,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_044",
+      "text": "The Mariupol drama theater was reopened in December 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Theater reopening date",
+      "source_sentence": "The theater was reopened in December 2025, with Russian authorities heavily promoting the event in state media.",
+      "prop_index": 44,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_045",
+      "text": "Russian authorities heavily promoted the reopening event in state media.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian media promotion",
+      "source_sentence": "The theater was reopened in December 2025, with Russian authorities heavily promoting the event in state media.",
+      "prop_index": 45,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_046",
+      "text": "The occupation administration in Mariupol has demolished more than 360 already-destroyed apartment buildings over the past four years.",
+      "is_factual_claim": true,
+      "topic_hint": "Building demolition Mariupol",
+      "source_sentence": "Over the past four years, the occupation administration has demolished more than 360 already-destroyed apartment buildings.",
+      "prop_index": 46,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_047",
+      "text": "The occupation authorities in Mariupol made promises to replace housing for residents.",
+      "is_factual_claim": true,
+      "topic_hint": "Housing replacement promises",
+      "source_sentence": "Despite promises to replace housing for residents, authorities have reassigned legal addresses and begun constructing apartments under mortgage for Russian citizens, the Mariupol City Council, operating in Ukrainian-controlled areas, said.",
+      "prop_index": 47,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_048",
+      "text": "The occupation authorities in Mariupol have reassigned legal addresses.",
+      "is_factual_claim": true,
+      "topic_hint": "Legal address reassignment",
+      "source_sentence": "Despite promises to replace housing for residents, authorities have reassigned legal addresses and begun constructing apartments under mortgage for Russian citizens, the Mariupol City Council, operating in Ukrainian-controlled areas, said.",
+      "prop_index": 48,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_049",
+      "text": "The occupation authorities in Mariupol have begun constructing apartments under mortgage for Russian citizens.",
+      "is_factual_claim": true,
+      "topic_hint": "Mortgage apartments construction",
+      "source_sentence": "Despite promises to replace housing for residents, authorities have reassigned legal addresses and begun constructing apartments under mortgage for Russian citizens, the Mariupol City Council, operating in Ukrainian-controlled areas, said.",
+      "prop_index": 49,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_050",
+      "text": "The Mariupol City Council, operating in Ukrainian-controlled areas, said these actions occurred.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol City Council report",
+      "source_sentence": "Despite promises to replace housing for residents, authorities have reassigned legal addresses and begun constructing apartments under mortgage for Russian citizens, the Mariupol City Council, operating in Ukrainian-controlled areas, said.",
+      "prop_index": 50,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_051",
+      "text": "New buildings in Mariupol mostly stand empty.",
+      "is_factual_claim": true,
+      "topic_hint": "Empty new buildings",
+      "source_sentence": "At the same time, new buildings mostly stand empty, as the apartments remain unoccupied.",
+      "prop_index": 51,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_052",
+      "text": "Apartments in new buildings in Mariupol remain unoccupied.",
+      "is_factual_claim": true,
+      "topic_hint": "Unoccupied apartments",
+      "source_sentence": "At the same time, new buildings mostly stand empty, as the apartments remain unoccupied.",
+      "prop_index": 52,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_053",
+      "text": "About 18,000 Mariupol residents still do not have their own homes.",
+      "is_factual_claim": true,
+      "topic_hint": "Homeless Mariupol residents",
+      "source_sentence": "Meanwhile, about 18,000 Mariupol residents still do not have their own homes, according to the city council.",
+      "prop_index": 53,
+      "article_id": "kyivind_003"
+    },
+    {
+      "prop_id": "kyivind_003_prop_054",
+      "text": "This information is according to the Mariupol City Council.",
+      "is_factual_claim": true,
+      "topic_hint": "City council report",
+      "source_sentence": "Meanwhile, about 18,000 Mariupol residents still do not have their own homes, according to the city council.",
+      "prop_index": 54,
+      "article_id": "kyivind_003"
+    }
+  ]
+}

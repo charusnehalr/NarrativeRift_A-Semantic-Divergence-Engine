@@ -1,0 +1,484 @@
+{
+  "article_id": "gt_002",
+  "source_name": "Global Times",
+  "total_propositions": 53,
+  "propositions": [
+    {
+      "prop_id": "gt_002_prop_000",
+      "text": "The US-Israel military operation against Iran has entered its third week.",
+      "is_factual_claim": true,
+      "topic_hint": "US-Israel Iran operation",
+      "source_sentence": "The US-Israel military operation against Iran has entered its third week, with a swirl of information - true and false - flying around.",
+      "prop_index": 0,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_001",
+      "text": "A swirl of information, both true and false, is flying around regarding the US-Israel military operation against Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Information swirl Iran operation",
+      "source_sentence": "The US-Israel military operation against Iran has entered its third week, with a swirl of information - true and false - flying around.",
+      "prop_index": 1,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_002",
+      "text": "Western media has hyped up a particular narrative.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media narrative",
+      "source_sentence": "Amid the reports, a particular narrative hyped up by Western media stands out.",
+      "prop_index": 2,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_003",
+      "text": "Western media claims that China has not provided substantial support to Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China Iran",
+      "source_sentence": "They claim that China, despite its strong opposition to the war, has neither provided substantial support to Iran, nor demonstrated the military capability necessary to back it.",
+      "prop_index": 3,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_004",
+      "text": "Western media claims that China has not demonstrated the military capability necessary to back Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China capability",
+      "source_sentence": "They claim that China, despite its strong opposition to the war, has neither provided substantial support to Iran, nor demonstrated the military capability necessary to back it.",
+      "prop_index": 4,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_005",
+      "text": "Western media claims that China has strong opposition to the war.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China opposition",
+      "source_sentence": "They claim that China, despite its strong opposition to the war, has neither provided substantial support to Iran, nor demonstrated the military capability necessary to back it.",
+      "prop_index": 5,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_006",
+      "text": "Western media argues that the ongoing strikes have exposed the limits of China's influence in the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China influence",
+      "source_sentence": "The ongoing strikes, they argue, have exposed the limits of China's influence in the Middle East.",
+      "prop_index": 6,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_007",
+      "text": "Western media concludes that China has proved itself an \"unreliable\" partner by standing idly by while its partners are targeted by the US.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China reliability",
+      "source_sentence": "Following this logic, they conclude that by standing idly by watching as its partners get targeted by the US one by one, China has proved itself an \"unreliable\" partner, and its influence is waning.",
+      "prop_index": 7,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_008",
+      "text": "Western media concludes that China's influence is waning.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China influence",
+      "source_sentence": "Following this logic, they conclude that by standing idly by watching as its partners get targeted by the US one by one, China has proved itself an \"unreliable\" partner, and its influence is waning.",
+      "prop_index": 8,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_009",
+      "text": "The West has watched China closely during the Russia-Ukraine conflict.",
+      "is_factual_claim": true,
+      "topic_hint": "West China Russia-Ukraine",
+      "source_sentence": "Ironically, the West has watched China closely during the Russia-Ukraine conflict for fear that it might provide military aid to Russia.",
+      "prop_index": 9,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_010",
+      "text": "The West feared that China might provide military aid to Russia during the Russia-Ukraine conflict.",
+      "is_factual_claim": true,
+      "topic_hint": "West China military aid",
+      "source_sentence": "Ironically, the West has watched China closely during the Russia-Ukraine conflict for fear that it might provide military aid to Russia.",
+      "prop_index": 10,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_011",
+      "text": "Western media has a long-standing practice of spinning any story to cast China in a negative light.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media anti-China",
+      "source_sentence": "It fits well into Western media's long-standing practice of spinning any story, regardless of where it occurs, to cast China in a negative light.",
+      "prop_index": 11,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_012",
+      "text": "Western media narratives portray China as the biggest loser in the Russia-Ukraine conflict.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China loser",
+      "source_sentence": "In their narratives, China is always the biggest loser, whether in the Russia-Ukraine conflict, the EU-India free trade agreement or the US kidnapping of Venezuela's Maduro.",
+      "prop_index": 12,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_013",
+      "text": "Western media narratives portray China as the biggest loser in the EU-India free trade agreement.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China loser",
+      "source_sentence": "In their narratives, China is always the biggest loser, whether in the Russia-Ukraine conflict, the EU-India free trade agreement or the US kidnapping of Venezuela's Maduro.",
+      "prop_index": 13,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_014",
+      "text": "Western media narratives portray China as the biggest loser in the US kidnapping of Venezuela's Maduro.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China loser",
+      "source_sentence": "In their narratives, China is always the biggest loser, whether in the Russia-Ukraine conflict, the EU-India free trade agreement or the US kidnapping of Venezuela's Maduro.",
+      "prop_index": 14,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_015",
+      "text": "Western media has frequently used an anti-China playbook.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media anti-China",
+      "source_sentence": "They have used this anti-China playbook so frequently that Chinese netizens mock it as the \"biggest loser style.\"",
+      "prop_index": 15,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_016",
+      "text": "Chinese netizens mock Western media's anti-China playbook as the \"biggest loser style.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Chinese netizens anti-China",
+      "source_sentence": "They have used this anti-China playbook so frequently that Chinese netizens mock it as the \"biggest loser style.\"",
+      "prop_index": 16,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_017",
+      "text": "Western media aims to peddle the narrative that aligning with China leads nowhere.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China narrative",
+      "source_sentence": "Clearly, Western media does this not only to peddle the narrative that aligning with China leads nowhere, but also to serve the hidden agenda of suppressing China's growth momentum or even derailing its growth trajectory.",
+      "prop_index": 17,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_018",
+      "text": "Western media aims to suppress China's growth momentum.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China growth",
+      "source_sentence": "Clearly, Western media does this not only to peddle the narrative that aligning with China leads nowhere, but also to serve the hidden agenda of suppressing China's growth momentum or even derailing its growth trajectory.",
+      "prop_index": 18,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_019",
+      "text": "Western media aims to derail China's growth trajectory.",
+      "is_factual_claim": true,
+      "topic_hint": "Western media China growth",
+      "source_sentence": "Clearly, Western media does this not only to peddle the narrative that aligning with China leads nowhere, but also to serve the hidden agenda of suppressing China's growth momentum or even derailing its growth trajectory.",
+      "prop_index": 19,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_020",
+      "text": "Western arguments are rooted in Western centrism.",
+      "is_factual_claim": true,
+      "topic_hint": "Western arguments centrism",
+      "source_sentence": "On a deeper level, these arguments are rooted in Western centrism - the assumption that its worldview and ideology are superior and universally applicable.",
+      "prop_index": 20,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_021",
+      "text": "Western centrism assumes that the Western worldview is superior.",
+      "is_factual_claim": true,
+      "topic_hint": "Western centrism worldview",
+      "source_sentence": "On a deeper level, these arguments are rooted in Western centrism - the assumption that its worldview and ideology are superior and universally applicable.",
+      "prop_index": 21,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_022",
+      "text": "Western centrism assumes that Western ideology is superior.",
+      "is_factual_claim": true,
+      "topic_hint": "Western centrism ideology",
+      "source_sentence": "On a deeper level, these arguments are rooted in Western centrism - the assumption that its worldview and ideology are superior and universally applicable.",
+      "prop_index": 22,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_023",
+      "text": "Western centrism assumes that the Western worldview is universally applicable.",
+      "is_factual_claim": true,
+      "topic_hint": "Western centrism worldview",
+      "source_sentence": "On a deeper level, these arguments are rooted in Western centrism - the assumption that its worldview and ideology are superior and universally applicable.",
+      "prop_index": 23,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_024",
+      "text": "Western centrism assumes that Western ideology is universally applicable.",
+      "is_factual_claim": true,
+      "topic_hint": "Western centrism ideology",
+      "source_sentence": "On a deeper level, these arguments are rooted in Western centrism - the assumption that its worldview and ideology are superior and universally applicable.",
+      "prop_index": 24,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_025",
+      "text": "The West sees the world in binary terms.",
+      "is_factual_claim": true,
+      "topic_hint": "Western worldview binary",
+      "source_sentence": "The West sees the world in binary terms: \"our camp\" vs the \"enemy's camp,\" and believes this divide is the defining - and eternal - feature of international relations.",
+      "prop_index": 25,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_026",
+      "text": "The West believes the \"our camp\" vs \"enemy's camp\" divide is a defining feature of international relations.",
+      "is_factual_claim": true,
+      "topic_hint": "Western worldview international relations",
+      "source_sentence": "The West sees the world in binary terms: \"our camp\" vs the \"enemy's camp,\" and believes this divide is the defining - and eternal - feature of international relations.",
+      "prop_index": 26,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_027",
+      "text": "The West believes the \"our camp\" vs \"enemy's camp\" divide is an eternal feature of international relations.",
+      "is_factual_claim": true,
+      "topic_hint": "Western worldview international relations",
+      "source_sentence": "The West sees the world in binary terms: \"our camp\" vs the \"enemy's camp,\" and believes this divide is the defining - and eternal - feature of international relations.",
+      "prop_index": 27,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_028",
+      "text": "The West stubbornly believes that the traditional alliance system is the most effective framework for international relations.",
+      "is_factual_claim": true,
+      "topic_hint": "Western alliance system",
+      "source_sentence": "They stubbornly believe that the traditional alliance system is the most effective framework for international relations and fail to appreciate the progressiveness of the partnership networks China has built, under which all countries, big or small, rich or poor, strong or weak, are all equal.",
+      "prop_index": 28,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_029",
+      "text": "The West fails to appreciate the progressiveness of the partnership networks China has built.",
+      "is_factual_claim": true,
+      "topic_hint": "West China partnership",
+      "source_sentence": "They stubbornly believe that the traditional alliance system is the most effective framework for international relations and fail to appreciate the progressiveness of the partnership networks China has built, under which all countries, big or small, rich or poor, strong or weak, are all equal.",
+      "prop_index": 29,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_030",
+      "text": "China has built partnership networks.",
+      "is_factual_claim": true,
+      "topic_hint": "China partnership networks",
+      "source_sentence": "They stubbornly believe that the traditional alliance system is the most effective framework for international relations and fail to appreciate the progressiveness of the partnership networks China has built, under which all countries, big or small, rich or poor, strong or weak, are all equal.",
+      "prop_index": 30,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_031",
+      "text": "Under China's partnership networks, all countries are equal.",
+      "is_factual_claim": true,
+      "topic_hint": "China partnership equality",
+      "source_sentence": "They stubbornly believe that the traditional alliance system is the most effective framework for international relations and fail to appreciate the progressiveness of the partnership networks China has built, under which all countries, big or small, rich or poor, strong or weak, are all equal.",
+      "prop_index": 31,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_032",
+      "text": "The West is stuck in a zero-sum game mentality.",
+      "is_factual_claim": true,
+      "topic_hint": "Western zero-sum mentality",
+      "source_sentence": "Stuck in a zero-sum game mentality, they often talk about the \"Thucydides Trap,\" unwilling to believe in win-win cooperation.",
+      "prop_index": 32,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_033",
+      "text": "The West often talks about the \"Thucydides Trap.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Western Thucydides Trap",
+      "source_sentence": "Stuck in a zero-sum game mentality, they often talk about the \"Thucydides Trap,\" unwilling to believe in win-win cooperation.",
+      "prop_index": 33,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_034",
+      "text": "The West is unwilling to believe in win-win cooperation.",
+      "is_factual_claim": true,
+      "topic_hint": "Western win-win cooperation",
+      "source_sentence": "Stuck in a zero-sum game mentality, they often talk about the \"Thucydides Trap,\" unwilling to believe in win-win cooperation.",
+      "prop_index": 34,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_035",
+      "text": "China calls for an immediate cessation of hostilities in the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "China Middle East peace",
+      "source_sentence": "In response to the rising tensions in the Middle East, in order to prevent further escalation and spillover of the conflict and spare the people in the region the scourge of war, China calls for an immediate cessation of the hostilities and an early return to the path of dialogue and negotiation.",
+      "prop_index": 35,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_036",
+      "text": "China calls for an early return to the path of dialogue and negotiation in the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "China Middle East dialogue",
+      "source_sentence": "In response to the rising tensions in the Middle East, in order to prevent further escalation and spillover of the conflict and spare the people in the region the scourge of war, China calls for an immediate cessation of the hostilities and an early return to the path of dialogue and negotiation.",
+      "prop_index": 36,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_037",
+      "text": "China's calls are in response to rising tensions in the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "China Middle East tensions",
+      "source_sentence": "In response to the rising tensions in the Middle East, in order to prevent further escalation and spillover of the conflict and spare the people in the region the scourge of war, China calls for an immediate cessation of the hostilities and an early return to the path of dialogue and negotiation.",
+      "prop_index": 37,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_038",
+      "text": "China aims to prevent further escalation of the conflict in the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "China Middle East de-escalation",
+      "source_sentence": "In response to the rising tensions in the Middle East, in order to prevent further escalation and spillover of the conflict and spare the people in the region the scourge of war, China calls for an immediate cessation of the hostilities and an early return to the path of dialogue and negotiation.",
+      "prop_index": 38,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_039",
+      "text": "China aims to prevent spillover of the conflict in the Middle East.",
+      "is_factual_claim": true,
+      "topic_hint": "China Middle East spillover",
+      "source_sentence": "In response to the rising tensions in the Middle East, in order to prevent further escalation and spillover of the conflict and spare the people in the region the scourge of war, China calls for an immediate cessation of the hostilities and an early return to the path of dialogue and negotiation.",
+      "prop_index": 39,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_040",
+      "text": "China aims to spare the people in the Middle East the scourge of war.",
+      "is_factual_claim": true,
+      "topic_hint": "China Middle East people",
+      "source_sentence": "In response to the rising tensions in the Middle East, in order to prevent further escalation and spillover of the conflict and spare the people in the region the scourge of war, China calls for an immediate cessation of the hostilities and an early return to the path of dialogue and negotiation.",
+      "prop_index": 40,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_041",
+      "text": "The Chinese side has repeatedly stressed that peaceful dialogue is the only viable option to solve the Iranian nuclear issue.",
+      "is_factual_claim": true,
+      "topic_hint": "China Iranian nuclear",
+      "source_sentence": "As the Chinese side has repeatedly stressed, peaceful dialogue remains the only viable option to solve the Iranian nuclear issue and to start to bring an end to regional instability.",
+      "prop_index": 41,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_042",
+      "text": "The Chinese side has repeatedly stressed that peaceful dialogue is the only viable option to bring an end to regional instability.",
+      "is_factual_claim": true,
+      "topic_hint": "China regional instability",
+      "source_sentence": "As the Chinese side has repeatedly stressed, peaceful dialogue remains the only viable option to solve the Iranian nuclear issue and to start to bring an end to regional instability.",
+      "prop_index": 42,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_043",
+      "text": "China urges all nations to jointly reject the notion that \"might makes right.\"",
+      "is_factual_claim": true,
+      "topic_hint": "China international norms",
+      "source_sentence": "To this end, China urges all nations to jointly reject the notion that \"might makes right,\" and oppose hegemonism and unilateral actions.",
+      "prop_index": 43,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_044",
+      "text": "China urges all nations to oppose hegemonism.",
+      "is_factual_claim": true,
+      "topic_hint": "China anti-hegemonism",
+      "source_sentence": "To this end, China urges all nations to jointly reject the notion that \"might makes right,\" and oppose hegemonism and unilateral actions.",
+      "prop_index": 44,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_045",
+      "text": "China urges all nations to oppose unilateral actions.",
+      "is_factual_claim": true,
+      "topic_hint": "China anti-unilateralism",
+      "source_sentence": "To this end, China urges all nations to jointly reject the notion that \"might makes right,\" and oppose hegemonism and unilateral actions.",
+      "prop_index": 45,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_046",
+      "text": "China's handling of global hotspot issues has been consistent.",
+      "is_factual_claim": true,
+      "topic_hint": "China foreign policy",
+      "source_sentence": "Its handling of global hotspot issues has been consistent and will not be swayed by some jarring noises from Western media.",
+      "prop_index": 46,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_047",
+      "text": "China's handling of global hotspot issues will not be swayed by jarring noises from Western media.",
+      "is_factual_claim": true,
+      "topic_hint": "China media influence",
+      "source_sentence": "Its handling of global hotspot issues has been consistent and will not be swayed by some jarring noises from Western media.",
+      "prop_index": 47,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_048",
+      "text": "The author is a commentator on international affairs.",
+      "is_factual_claim": true,
+      "topic_hint": "Author background",
+      "source_sentence": "The author is a commentator on international affairs, writing regularly for Xinhua News, Global Times, China Daily, CGTN.",
+      "prop_index": 48,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_049",
+      "text": "The author writes regularly for Xinhua News.",
+      "is_factual_claim": true,
+      "topic_hint": "Author publications",
+      "source_sentence": "The author is a commentator on international affairs, writing regularly for Xinhua News, Global Times, China Daily, CGTN.",
+      "prop_index": 49,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_050",
+      "text": "The author writes regularly for Global Times.",
+      "is_factual_claim": true,
+      "topic_hint": "Author publications",
+      "source_sentence": "The author is a commentator on international affairs, writing regularly for Xinhua News, Global Times, China Daily, CGTN.",
+      "prop_index": 50,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_051",
+      "text": "The author writes regularly for China Daily.",
+      "is_factual_claim": true,
+      "topic_hint": "Author publications",
+      "source_sentence": "The author is a commentator on international affairs, writing regularly for Xinhua News, Global Times, China Daily, CGTN.",
+      "prop_index": 51,
+      "article_id": "gt_002"
+    },
+    {
+      "prop_id": "gt_002_prop_052",
+      "text": "The author writes regularly for CGTN.",
+      "is_factual_claim": true,
+      "topic_hint": "Author publications",
+      "source_sentence": "The author is a commentator on international affairs, writing regularly for Xinhua News, Global Times, China Daily, CGTN.",
+      "prop_index": 52,
+      "article_id": "gt_002"
+    }
+  ]
+}

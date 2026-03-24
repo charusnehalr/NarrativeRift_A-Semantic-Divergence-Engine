@@ -1,0 +1,403 @@
+{
+  "article_id": "reuters_001",
+  "source_name": "Reuters",
+  "total_propositions": 44,
+  "propositions": [
+    {
+      "prop_id": "reuters_001_prop_000",
+      "text": "Russian state-run news agencies quoted top general Valery Gerasimov as saying on Monday that Russia has taken control of 12 settlements in Ukraine in the first two weeks of March.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia territorial gains",
+      "source_sentence": "Russia has taken control of 12 settlements in Ukraine in the first two weeks of March as part of advances along the front line in eastern and southern Ukraine, Russian state-run news agencies quoted top general Valery Gerasimov as saying on Monday.",
+      "prop_index": 0,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_001",
+      "text": "Russian state-run news agencies quoted top general Valery Gerasimov as saying on Monday that Russia's control of 12 settlements is part of advances along the front line in eastern and southern Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia frontline advances",
+      "source_sentence": "Russia has taken control of 12 settlements in Ukraine in the first two weeks of March as part of advances along the front line in eastern and southern Ukraine, Russian state-run news agencies quoted top general Valery Gerasimov as saying on Monday.",
+      "prop_index": 1,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_002",
+      "text": "Ukrainian President Volodymyr Zelenskiy said in Kyiv that Ukraine's armed forces had disrupted Russian plans for an offensive.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine defense claims",
+      "source_sentence": "In Kyiv, Ukrainian President Volodymyr Zelenskiy said the country's armed forces had disrupted Russian plans for an offensive, with Moscow failing to reinforce its troops.",
+      "prop_index": 2,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_003",
+      "text": "Ukrainian President Volodymyr Zelenskiy said in Kyiv that Moscow was failing to reinforce its troops.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia troop reinforcement",
+      "source_sentence": "In Kyiv, Ukrainian President Volodymyr Zelenskiy said the country's armed forces had disrupted Russian plans for an offensive, with Moscow failing to reinforce its troops.",
+      "prop_index": 3,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_004",
+      "text": "Valery Gerasimov is the chief of Russia's General Staff.",
+      "is_factual_claim": true,
+      "topic_hint": "Valery Gerasimov role",
+      "source_sentence": "Gerasimov, the chief of Russia's General Staff, was speaking during a visit to the southern grouping of forces and pointed to gains around major Ukrainian cities in the more than four-year-old conflict, known in Russia as a special military operation.",
+      "prop_index": 4,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_005",
+      "text": "Valery Gerasimov was speaking during a visit to the southern grouping of forces.",
+      "is_factual_claim": true,
+      "topic_hint": "Gerasimov visit",
+      "source_sentence": "Gerasimov, the chief of Russia's General Staff, was speaking during a visit to the southern grouping of forces and pointed to gains around major Ukrainian cities in the more than four-year-old conflict, known in Russia as a special military operation.",
+      "prop_index": 5,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_006",
+      "text": "Valery Gerasimov pointed to gains around major Ukrainian cities.",
+      "is_factual_claim": true,
+      "topic_hint": "Gerasimov on gains",
+      "source_sentence": "Gerasimov, the chief of Russia's General Staff, was speaking during a visit to the southern grouping of forces and pointed to gains around major Ukrainian cities in the more than four-year-old conflict, known in Russia as a special military operation.",
+      "prop_index": 6,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_007",
+      "text": "The conflict is more than four years old.",
+      "is_factual_claim": true,
+      "topic_hint": "Conflict duration",
+      "source_sentence": "Gerasimov, the chief of Russia's General Staff, was speaking during a visit to the southern grouping of forces and pointed to gains around major Ukrainian cities in the more than four-year-old conflict, known in Russia as a special military operation.",
+      "prop_index": 7,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_008",
+      "text": "The conflict is known in Russia as a special military operation.",
+      "is_factual_claim": true,
+      "topic_hint": "Conflict terminology",
+      "source_sentence": "Gerasimov, the chief of Russia's General Staff, was speaking during a visit to the southern grouping of forces and pointed to gains around major Ukrainian cities in the more than four-year-old conflict, known in Russia as a special military operation.",
+      "prop_index": 8,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_009",
+      "text": "The Russian Defence Ministry quoted Valery Gerasimov as saying on its Telegram channel that the offensive is being conducted in all directions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia offensive directions",
+      "source_sentence": "\"The offensive is being conducted in all directions,\" the Russian Defence Ministry quoted him as saying on its Telegram channel.",
+      "prop_index": 9,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_010",
+      "text": "Valery Gerasimov stated that in two weeks in March, 12 settlements have been liberated by units and military formations of the United Group of troops.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia liberated settlements",
+      "source_sentence": "\"In two weeks in March, 12 settlements have been liberated by units and military formations of the United Group of troops.\"",
+      "prop_index": 10,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_011",
+      "text": "Valery Gerasimov said Russian forces were actively moving towards Sloviansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia advance Sloviansk",
+      "source_sentence": "Gerasimov said Russian forces were \"actively moving towards Sloviansk,\" a heavily defended town in eastern Ukraine's Donetsk region long seen as one of Moscow's major targets.",
+      "prop_index": 11,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_012",
+      "text": "Sloviansk is a heavily defended town in eastern Ukraine's Donetsk region.",
+      "is_factual_claim": true,
+      "topic_hint": "Sloviansk description",
+      "source_sentence": "Gerasimov said Russian forces were \"actively moving towards Sloviansk,\" a heavily defended town in eastern Ukraine's Donetsk region long seen as one of Moscow's major targets.",
+      "prop_index": 12,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_013",
+      "text": "Sloviansk has long been seen as one of Moscow's major targets.",
+      "is_factual_claim": true,
+      "topic_hint": "Sloviansk Moscow target",
+      "source_sentence": "Gerasimov said Russian forces were \"actively moving towards Sloviansk,\" a heavily defended town in eastern Ukraine's Donetsk region long seen as one of Moscow's major targets.",
+      "prop_index": 13,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_014",
+      "text": "Valery Gerasimov said Kostiantynivka was now 60% in Russian hands.",
+      "is_factual_claim": true,
+      "topic_hint": "Kostiantynivka control",
+      "source_sentence": "He said Kostiantynivka, another town long subject to Russian pressure, was now 60% in Russian hands, with Ukrainian forces \"taking all possible measures to stop our advance\".",
+      "prop_index": 14,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_015",
+      "text": "Kostiantynivka is a town long subject to Russian pressure.",
+      "is_factual_claim": true,
+      "topic_hint": "Kostiantynivka pressure",
+      "source_sentence": "He said Kostiantynivka, another town long subject to Russian pressure, was now 60% in Russian hands, with Ukrainian forces \"taking all possible measures to stop our advance\".",
+      "prop_index": 15,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_016",
+      "text": "Valery Gerasimov said Ukrainian forces were taking all possible measures to stop the Russian advance.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine defense Kostiantynivka",
+      "source_sentence": "He said Kostiantynivka, another town long subject to Russian pressure, was now 60% in Russian hands, with Ukrainian forces \"taking all possible measures to stop our advance\".",
+      "prop_index": 16,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_017",
+      "text": "Valery Gerasimov was quoted as saying there are street battles in the northwestern district of Kostiantynivka.",
+      "is_factual_claim": true,
+      "topic_hint": "Kostiantynivka street battles",
+      "source_sentence": "\"In Kostiantynivka itself, there are street battles in the northwestern district,\" Gerasimov was quoted as saying, adding that assault troops were pushing their way into the city.",
+      "prop_index": 17,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_018",
+      "text": "Valery Gerasimov was quoted as saying assault troops were pushing their way into Kostiantynivka.",
+      "is_factual_claim": true,
+      "topic_hint": "Kostiantynivka assault troops",
+      "source_sentence": "\"In Kostiantynivka itself, there are street battles in the northwestern district,\" Gerasimov was quoted as saying, adding that assault troops were pushing their way into the city.",
+      "prop_index": 18,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_019",
+      "text": "Russian forces were making headway further south in Zaporizhzhia region.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia advance Zaporizhzhia",
+      "source_sentence": "Russian forces were also making headway further south in Zaporizhzhia region, were \"actively advancing westward\" and were also continuing to set up buffer zones in Kharkiv and Sumy regions on the border.",
+      "prop_index": 19,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_020",
+      "text": "Russian forces were actively advancing westward in Zaporizhzhia region.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia westward advance",
+      "source_sentence": "Russian forces were also making headway further south in Zaporizhzhia region, were \"actively advancing westward\" and were also continuing to set up buffer zones in Kharkiv and Sumy regions on the border.",
+      "prop_index": 20,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_021",
+      "text": "Russian forces were continuing to set up buffer zones in Kharkiv region on the border.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia buffer zones Kharkiv",
+      "source_sentence": "Russian forces were also making headway further south in Zaporizhzhia region, were \"actively advancing westward\" and were also continuing to set up buffer zones in Kharkiv and Sumy regions on the border.",
+      "prop_index": 21,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_022",
+      "text": "Russian forces were continuing to set up buffer zones in Sumy region on the border.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia buffer zones Sumy",
+      "source_sentence": "Russian forces were also making headway further south in Zaporizhzhia region, were \"actively advancing westward\" and were also continuing to set up buffer zones in Kharkiv and Sumy regions on the border.",
+      "prop_index": 22,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_023",
+      "text": "Volodymyr Zelenskiy spoke in his nightly video address after meeting Ukraine's top commander, Oleksandr Syrskyi.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy address Syrskyi",
+      "source_sentence": "Zelenskiy, speaking in his nightly video address after meeting Ukraine's top commander, Oleksandr Syrskyi, said Russian assaults had become less intense.",
+      "prop_index": 23,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_024",
+      "text": "Volodymyr Zelenskiy said Russian assaults had become less intense.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy on assault intensity",
+      "source_sentence": "Zelenskiy, speaking in his nightly video address after meeting Ukraine's top commander, Oleksandr Syrskyi, said Russian assaults had become less intense.",
+      "prop_index": 24,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_025",
+      "text": "Volodymyr Zelenskiy said Ukraine's defence forces have disrupted Russia's strategic offensive operation.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine defense disruption",
+      "source_sentence": "\"Ukraine's defence forces have disrupted Russia's strategic offensive operation that the enemy had planned for March,\" he said.",
+      "prop_index": 25,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_026",
+      "text": "Volodymyr Zelenskiy said Russia had planned a strategic offensive operation for March.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia offensive planning",
+      "source_sentence": "\"Ukraine's defence forces have disrupted Russia's strategic offensive operation that the enemy had planned for March,\" he said.",
+      "prop_index": 26,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_027",
+      "text": "Volodymyr Zelenskiy said attacks are constant.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy on constant attacks",
+      "source_sentence": "\"Although attacks are constant and assaults continue, their intensity and the scale of the confrontation are not what Russia had planned and what its command promised to Russia's political leadership.\"",
+      "prop_index": 27,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_028",
+      "text": "Volodymyr Zelenskiy said assaults continue.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy on continuing assaults",
+      "source_sentence": "\"Although attacks are constant and assaults continue, their intensity and the scale of the confrontation are not what Russia had planned and what its command promised to Russia's political leadership.\"",
+      "prop_index": 28,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_029",
+      "text": "Volodymyr Zelenskiy said the intensity and scale of the confrontation are not what Russia had planned.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy on confrontation scale",
+      "source_sentence": "\"Although attacks are constant and assaults continue, their intensity and the scale of the confrontation are not what Russia had planned and what its command promised to Russia's political leadership.\"",
+      "prop_index": 29,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_030",
+      "text": "Volodymyr Zelenskiy said the intensity and scale of the confrontation are not what Russia's command promised to Russia's political leadership.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy on command promises",
+      "source_sentence": "\"Although attacks are constant and assaults continue, their intensity and the scale of the confrontation are not what Russia had planned and what its command promised to Russia's political leadership.\"",
+      "prop_index": 30,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_031",
+      "text": "Volodymyr Zelenskiy and Oleksandr Syrskyi have pointed in recent weeks to successes in Zaporizhzhia region.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine successes Zaporizhzhia",
+      "source_sentence": "Zelenskiy and Syrskyi have pointed in recent weeks to successes in Zaporizhzhia region, recapturing about 400 sq. km. (154 sq. miles) of territory and retaking eight settlements.",
+      "prop_index": 31,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_032",
+      "text": "Volodymyr Zelenskiy and Oleksandr Syrskyi have pointed to recapturing about 400 sq. km. (154 sq. miles) of territory in Zaporizhzhia region.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine territory recaptured",
+      "source_sentence": "Zelenskiy and Syrskyi have pointed in recent weeks to successes in Zaporizhzhia region, recapturing about 400 sq. km. (154 sq. miles) of territory and retaking eight settlements.",
+      "prop_index": 32,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_033",
+      "text": "Volodymyr Zelenskiy and Oleksandr Syrskyi have pointed to retaking eight settlements in Zaporizhzhia region.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine settlements retaken",
+      "source_sentence": "Zelenskiy and Syrskyi have pointed in recent weeks to successes in Zaporizhzhia region, recapturing about 400 sq. km. (154 sq. miles) of territory and retaking eight settlements.",
+      "prop_index": 33,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_034",
+      "text": "Russia's top military offices have repeatedly said their forces have been making constant gains all along the front line.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia claims constant gains",
+      "source_sentence": "Russia's top military offices have repeatedly said their forces have been making constant gains all along the front line.",
+      "prop_index": 34,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_035",
+      "text": "The Ukrainian DeepState military blog relies on open sources to determine the position of both sides.",
+      "is_factual_claim": true,
+      "topic_hint": "DeepState blog methodology",
+      "source_sentence": "The Ukrainian DeepState military blog, which relies on open sources to determine the position of both sides, said Russian forces were attempting a breakthrough in Kostiantynivka and had made some gains around Sloviansk.",
+      "prop_index": 35,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_036",
+      "text": "The Ukrainian DeepState military blog said Russian forces were attempting a breakthrough in Kostiantynivka.",
+      "is_factual_claim": true,
+      "topic_hint": "DeepState Kostiantynivka",
+      "source_sentence": "The Ukrainian DeepState military blog, which relies on open sources to determine the position of both sides, said Russian forces were attempting a breakthrough in Kostiantynivka and had made some gains around Sloviansk.",
+      "prop_index": 36,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_037",
+      "text": "The Ukrainian DeepState military blog said Russian forces had made some gains around Sloviansk.",
+      "is_factual_claim": true,
+      "topic_hint": "DeepState Sloviansk gains",
+      "source_sentence": "The Ukrainian DeepState military blog, which relies on open sources to determine the position of both sides, said Russian forces were attempting a breakthrough in Kostiantynivka and had made some gains around Sloviansk.",
+      "prop_index": 37,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_038",
+      "text": "The issue of territory remains the key sticking point in slow-moving negotiations.",
+      "is_factual_claim": true,
+      "topic_hint": "Negotiations sticking point",
+      "source_sentence": "The issue of territory remains the key sticking point in slow-moving negotiations aimed at clinching a settlement to the conflict.",
+      "prop_index": 38,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_039",
+      "text": "The slow-moving negotiations are aimed at clinching a settlement to the conflict.",
+      "is_factual_claim": true,
+      "topic_hint": "Negotiations objective",
+      "source_sentence": "The issue of territory remains the key sticking point in slow-moving negotiations aimed at clinching a settlement to the conflict.",
+      "prop_index": 39,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_040",
+      "text": "Russia is pressing for Ukraine to give up all of the Donbas.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia Donbas demand",
+      "source_sentence": "Russia is pressing for Ukraine to give up all of the Donbas (made up of the Donetsk and Luhansk regions), including areas its forces have not captured, a demand Zelenskiy has rejected.",
+      "prop_index": 40,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_041",
+      "text": "The Donbas is made up of the Donetsk and Luhansk regions.",
+      "is_factual_claim": true,
+      "topic_hint": "Donbas composition",
+      "source_sentence": "Russia is pressing for Ukraine to give up all of the Donbas (made up of the Donetsk and Luhansk regions), including areas its forces have not captured, a demand Zelenskiy has rejected.",
+      "prop_index": 41,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_042",
+      "text": "Russia's demand includes areas its forces have not captured.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia demand scope",
+      "source_sentence": "Russia is pressing for Ukraine to give up all of the Donbas (made up of the Donetsk and Luhansk regions), including areas its forces have not captured, a demand Zelenskiy has rejected.",
+      "prop_index": 42,
+      "article_id": "reuters_001"
+    },
+    {
+      "prop_id": "reuters_001_prop_043",
+      "text": "Volodymyr Zelenskiy has rejected Russia's demand.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy rejects demand",
+      "source_sentence": "Russia is pressing for Ukraine to give up all of the Donbas (made up of the Donetsk and Luhansk regions), including areas its forces have not captured, a demand Zelenskiy has rejected.",
+      "prop_index": 43,
+      "article_id": "reuters_001"
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "article_id": "kyivind_004",
+  "source_name": "Kyiv Independent",
+  "total_propositions": 59,
+  "propositions": [
+    {
+      "prop_id": "kyivind_004_prop_000",
+      "text": "Moscow is struggling to provide water in Russian-occupied Ukrainian land.",
+      "is_factual_claim": true,
+      "topic_hint": "water supply struggle",
+      "source_sentence": "All across the Russian-occupied Ukrainian land, Moscow is struggling to provide one of the most basic needs of the very people it claims to have \"liberated\" — water.",
+      "prop_index": 0,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_001",
+      "text": "Moscow claims to have \"liberated\" the people in Russian-occupied Ukrainian land.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow's liberation claim",
+      "source_sentence": "All across the Russian-occupied Ukrainian land, Moscow is struggling to provide one of the most basic needs of the very people it claims to have \"liberated\" — water.",
+      "prop_index": 1,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_002",
+      "text": "Years of neglect and war damage have left Russian-occupied areas of Luhansk and Donetsk oblasts with barely functioning infrastructure.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk Donetsk infrastructure",
+      "source_sentence": "Years of neglect and war damage have left Russian-occupied areas of Luhansk and Donetsk oblasts with barely functioning infrastructure, while in the more recently occupied areas of Kherson and Zaporizhzhia oblasts, the destruction of the Kahovka Dam by Russian forces in June 2023 has left reservoirs nearly empty.",
+      "prop_index": 2,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_003",
+      "text": "Russian forces destroyed the Kahovka Dam in June 2023.",
+      "is_factual_claim": true,
+      "topic_hint": "Kahovka Dam destruction",
+      "source_sentence": "Years of neglect and war damage have left Russian-occupied areas of Luhansk and Donetsk oblasts with barely functioning infrastructure, while in the more recently occupied areas of Kherson and Zaporizhzhia oblasts, the destruction of the Kahovka Dam by Russian forces in June 2023 has left reservoirs nearly empty.",
+      "prop_index": 3,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_004",
+      "text": "The destruction of the Kahovka Dam left reservoirs nearly empty in recently occupied areas of Kherson and Zaporizhzhia oblasts.",
+      "is_factual_claim": true,
+      "topic_hint": "Kherson Zaporizhzhia reservoirs",
+      "source_sentence": "Years of neglect and war damage have left Russian-occupied areas of Luhansk and Donetsk oblasts with barely functioning infrastructure, while in the more recently occupied areas of Kherson and Zaporizhzhia oblasts, the destruction of the Kahovka Dam by Russian forces in June 2023 has left reservoirs nearly empty.",
+      "prop_index": 4,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_005",
+      "text": "Water shortages are looming in the occupied Crimean Peninsula after a second year of drought.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea water shortages",
+      "source_sentence": "In the occupied Crimean Peninsula, partially fed by those same reservoirs, water shortages are looming after a second year of drought.",
+      "prop_index": 5,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_006",
+      "text": "A Yellow Ribbon activist stated that people in occupied territories are deliberately kept in a state of survival by being busy queuing for water.",
+      "is_factual_claim": true,
+      "topic_hint": "Yellow Ribbon activist claim",
+      "source_sentence": "\"It seems that people are deliberately being kept in a state of survival so that they are busy queuing for water and not thinking about politics, resistance, or protests,\" a Yellow Ribbon activist living in the occupied territories told the Kyiv Independent.",
+      "prop_index": 6,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_007",
+      "text": "Russian President Vladimir Putin demands more Ukrainian territory as part of any U.S.-brokered peace deal.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin territorial demands",
+      "source_sentence": "The ever-worsening crisis comes as Russian President Vladimir Putin demands even more Ukrainian territory as part of any U.S.-brokered peace deal, with U.S. President Donald Trump reportedly being on board with handing Moscow full control of the partially occupied Luhansk and Donetsk oblasts.",
+      "prop_index": 7,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_008",
+      "text": "U.S. President Donald Trump is reportedly on board with handing Moscow full control of partially occupied Luhansk and Donetsk oblasts.",
+      "is_factual_claim": true,
+      "topic_hint": "Trump Moscow control",
+      "source_sentence": "The ever-worsening crisis comes as Russian President Vladimir Putin demands even more Ukrainian territory as part of any U.S.-brokered peace deal, with U.S. President Donald Trump reportedly being on board with handing Moscow full control of the partially occupied Luhansk and Donetsk oblasts.",
+      "prop_index": 8,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_009",
+      "text": "Water shortages are largely a result of Russian aggression against Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "water shortages cause",
+      "source_sentence": "Yet the water shortages are largely a result of Russian aggression against Ukraine and despite acknowledging their existence, the Kremlin has not taken adequate steps to fix them.",
+      "prop_index": 9,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_010",
+      "text": "The Kremlin acknowledges the existence of water shortages.",
+      "is_factual_claim": true,
+      "topic_hint": "Kremlin water acknowledgment",
+      "source_sentence": "Yet the water shortages are largely a result of Russian aggression against Ukraine and despite acknowledging their existence, the Kremlin has not taken adequate steps to fix them.",
+      "prop_index": 10,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_011",
+      "text": "The Kremlin has not taken adequate steps to fix the water shortages.",
+      "is_factual_claim": true,
+      "topic_hint": "Kremlin inaction water",
+      "source_sentence": "Yet the water shortages are largely a result of Russian aggression against Ukraine and despite acknowledging their existence, the Kremlin has not taken adequate steps to fix them.",
+      "prop_index": 11,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_012",
+      "text": "It is still possible to buy bottled drinking water in shops in the occupied territories.",
+      "is_factual_claim": true,
+      "topic_hint": "bottled water availability",
+      "source_sentence": "It is still possible to buy bottled drinking water in shops in the occupied territories, but water prices rise on a daily basis due to surging demand.",
+      "prop_index": 12,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_013",
+      "text": "Water prices in the occupied territories rise daily due to surging demand.",
+      "is_factual_claim": true,
+      "topic_hint": "water price increase",
+      "source_sentence": "It is still possible to buy bottled drinking water in shops in the occupied territories, but water prices rise on a daily basis due to surging demand.",
+      "prop_index": 13,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_014",
+      "text": "Boiling and purifying tap water is no longer an option for many in the occupied territories.",
+      "is_factual_claim": true,
+      "topic_hint": "tap water purification",
+      "source_sentence": "The cheaper option — boiling and purifying tap water — is no longer an option for many.",
+      "prop_index": 14,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_015",
+      "text": "A woman from Luhansk reported that tap water is yellow, smelly, and bad.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk tap water quality",
+      "source_sentence": "\"Because the water that comes out of the tap is yellow, smelly, and bad, we buy drinking water, but it is not cheap,\" a woman from Luhansk told the Kyiv Independent.",
+      "prop_index": 15,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_016",
+      "text": "Water problems are particularly acute in areas of Donetsk and Luhansk oblasts that Russia has occupied since 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk Luhansk water",
+      "source_sentence": "The problems are particularly acute in areas of Donetsk and Luhansk oblasts that Russia has occupied since 2014.",
+      "prop_index": 16,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_017",
+      "text": "A female member of the Zla Mavka partisan group stated that the Kirovsky district in Donetsk has been almost completely without water.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk Kirovsky water",
+      "source_sentence": "\"In Donetsk, in the Kirovsky district, we've been almost completely without water. Before, at least a thin trickle would come through for half an hour, but now sometimes the tap stays dry all day long,\" she added.",
+      "prop_index": 17,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_018",
+      "text": "Vladimir Putin is aware of the water issue.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin water awareness",
+      "source_sentence": "Putin himself is aware of the issue — in a meeting earlier this month with Denis Pushilin, the head of the Russian illegal occupation administration in Donetsk Oblast, he discussed the \"crisis situation\" and supported a reduction in water prices.",
+      "prop_index": 18,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_019",
+      "text": "Vladimir Putin discussed the \"crisis situation\" with Denis Pushilin, head of the Russian illegal occupation administration in Donetsk Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin Pushilin meeting",
+      "source_sentence": "Putin himself is aware of the issue — in a meeting earlier this month with Denis Pushilin, the head of the Russian illegal occupation administration in Donetsk Oblast, he discussed the \"crisis situation\" and supported a reduction in water prices.",
+      "prop_index": 19,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_020",
+      "text": "Vladimir Putin supported a reduction in water prices.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin water price support",
+      "source_sentence": "Putin himself is aware of the issue — in a meeting earlier this month with Denis Pushilin, the head of the Russian illegal occupation administration in Donetsk Oblast, he discussed the \"crisis situation\" and supported a reduction in water prices.",
+      "prop_index": 20,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_021",
+      "text": "Problems with the water supply in Donetsk began at the start of Russian occupation in 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk water problems start",
+      "source_sentence": "Problems with the water supply in Donetsk began at the start of Russian occupation in 2014 when supplies were rationed and only turned on according to schedule, which is usually unreliable and continues to this day.",
+      "prop_index": 21,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_022",
+      "text": "Water supplies in Donetsk were rationed and turned on according to an unreliable schedule since 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk water rationing",
+      "source_sentence": "Problems with the water supply in Donetsk began at the start of Russian occupation in 2014 when supplies were rationed and only turned on according to schedule, which is usually unreliable and continues to this day.",
+      "prop_index": 22,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_023",
+      "text": "Russia's full-scale invasion of Ukraine exacerbated the water crisis.",
+      "is_factual_claim": true,
+      "topic_hint": "invasion water crisis",
+      "source_sentence": "Russia's full-scale invasion of Ukraine has only exacerbated the crisis.",
+      "prop_index": 23,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_024",
+      "text": "Elina Beketova stated that water flowed from Ukrainian territory via the Seversky Donets-Donbas Canal from 2014 to 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Seversky Donets-Donbas Canal",
+      "source_sentence": "\"From 2014 to 2022, water still flowed from Ukrainian territory via the Seversky Donets-Donbas Canal,\" Elina Beketova, a non-resident fellow with the Center for European Policy Analysis (CEPA)'s Democratic Resilience Program, told the Kyiv Independent.",
+      "prop_index": 24,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_025",
+      "text": "Russia destroyed key filtration stations, dams, and the Seversky Donets-Donbas Canal during the 2022 invasion.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia destroyed infrastructure",
+      "source_sentence": "During the 2022 invasion, Russia destroyed key filtration stations, dams, and the canal. Their attempt to fix it with a new Don-Donbas pipeline failed — it can't deliver enough water.",
+      "prop_index": 25,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_026",
+      "text": "Russia's attempt to fix the water supply with a new Don-Donbas pipeline failed.",
+      "is_factual_claim": true,
+      "topic_hint": "Don-Donbas pipeline failure",
+      "source_sentence": "During the 2022 invasion, Russia destroyed key filtration stations, dams, and the canal. Their attempt to fix it with a new Don-Donbas pipeline failed — it can't deliver enough water.",
+      "prop_index": 26,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_027",
+      "text": "The new Don-Donbas pipeline cannot deliver enough water.",
+      "is_factual_claim": true,
+      "topic_hint": "Don-Donbas pipeline capacity",
+      "source_sentence": "Their attempt to fix it with a new Don-Donbas pipeline failed — it can't deliver enough water.",
+      "prop_index": 27,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_028",
+      "text": "Children in the occupied territories record videos appealing directly to Vladimir Putin, which are posted on social media.",
+      "is_factual_claim": true,
+      "topic_hint": "children's appeals Putin",
+      "source_sentence": "The current situation is so acute that children in the occupied territories have taken to recording videos appealing directly to Putin which are then posted on social media.",
+      "prop_index": 28,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_029",
+      "text": "A woman from Donetsk stated that people fill plastic bottles and cans with water because they do not know when it will be available again.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk water storage",
+      "source_sentence": "\"We fill plastic bottles and cans with water in the bathroom because we never know when it will be available again,\" the woman from Donetsk said.",
+      "prop_index": 29,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_030",
+      "text": "The collected drinking water has to be filtered and boiled to prevent poisoning.",
+      "is_factual_claim": true,
+      "topic_hint": "water purification necessity",
+      "source_sentence": "\"And this is drinking water, which then has to be filtered and boiled to be sure that we won't get poisoned.\"",
+      "prop_index": 30,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_031",
+      "text": "Residents in Luhansk Oblast have grown used to water shortages.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk water shortages",
+      "source_sentence": "Those living in neighboring Luhansk Oblast have also grown used to water shortages.",
+      "prop_index": 31,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_032",
+      "text": "A woman from Luhansk reported that water was cut off for three months when fighting started.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk water cut-off",
+      "source_sentence": "\"When the fighting started, the water was cut off for three months. It was a real disaster,\" the woman from Luhansk told the Kyiv Independent.",
+      "prop_index": 32,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_033",
+      "text": "The woman from Luhansk is now in Ukraine-controlled territory.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk woman location",
+      "source_sentence": "She is now in Ukraine-controlled territory, but her parents still live under occupation in Luhansk.",
+      "prop_index": 33,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_034",
+      "text": "The woman from Luhansk's parents still live under occupation in Luhansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk parents occupation",
+      "source_sentence": "She is now in Ukraine-controlled territory, but her parents still live under occupation in Luhansk.",
+      "prop_index": 34,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_035",
+      "text": "Elina Beketova stated that only around 2.5% of the water network in Luhansk Oblast is usable after years of neglect and damage from fighting.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk water network",
+      "source_sentence": "In the years since, the problem has only worsened, with Beketova saying that only around 2.5% of the water network in Luhansk Oblast left usable after \"years of neglect and damage from fighting.\"",
+      "prop_index": 35,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_036",
+      "text": "The woman from Luhansk stated it is impossible to drink tap water due to its quality, describing it as \"poison.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk tap water poison",
+      "source_sentence": "The woman from Luhansk said that it is now impossible to drink tap water because of its quality, describing it as \"poison.\"",
+      "prop_index": 36,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_037",
+      "text": "The woman from Luhansk heard rumors that the tap water might have come from flooded mines.",
+      "is_factual_claim": true,
+      "topic_hint": "Luhansk water rumors",
+      "source_sentence": "She has heard rumors that it might have come from flooded mines.",
+      "prop_index": 37,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_038",
+      "text": "The woman from Luhansk reported that tap water filters get clogged with rust, metals, and limescale after about a month.",
+      "is_factual_claim": true,
+      "topic_hint": "tap water filter issues",
+      "source_sentence": "\"Some people I know installed a filter for tap water. They say that the filter breaks down after about a month. It gets completely clogged with rust, metals, and limescale,\" she said.",
+      "prop_index": 38,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_039",
+      "text": "The Yellow Ribbon activist stated that Russian authorities do not care about people living under occupation.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian authorities care",
+      "source_sentence": "The Yellow Ribbon activist said that Russian authorities \"simply don't care\" about people living under occupation.",
+      "prop_index": 39,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_040",
+      "text": "The Yellow Ribbon activist stated that the water problem is widespread, but no steps are being taken to alleviate it.",
+      "is_factual_claim": true,
+      "topic_hint": "widespread water problem",
+      "source_sentence": "\"The problem is widespread, but even the smallest steps that could alleviate the situation are not being taken,\" they said.",
+      "prop_index": 40,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_041",
+      "text": "The Yellow Ribbon activist stated that in Donetsk, utility workers take photos for reports and disappear without fixing issues.",
+      "is_factual_claim": true,
+      "topic_hint": "Donetsk utility workers",
+      "source_sentence": "\"In Donetsk, utility workers arrive when called, take photos for their report, and disappear. Russia is spending money on war, not on improving people's lives.\"",
+      "prop_index": 41,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_042",
+      "text": "The Yellow Ribbon activist stated Russia is spending money on war, not on improving people's lives.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia spending priorities",
+      "source_sentence": "\"In Donetsk, utility workers arrive when called, take photos for their report, and disappear. Russia is spending money on war, not on improving people's lives.\"",
+      "prop_index": 42,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_043",
+      "text": "The destruction of the Kahovka Dam by Russian forces in June 2023 is the main cause of water shortages in Kherson and Zaporizhzhia oblasts occupied after 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Kahovka Dam water shortages",
+      "source_sentence": "In the south of Ukraine, in areas of Kherson and Zaporizhzhia oblasts that were occupied after 2022, the destruction of the Kahovka Dam by Russian forces in June 2023 has been the main cause of water shortages.",
+      "prop_index": 43,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_044",
+      "text": "Serhii Danylov stated that Kakhovka Reservoir was a crucial source of water in the area.",
+      "is_factual_claim": true,
+      "topic_hint": "Kakhovka Reservoir source",
+      "source_sentence": "Serhii Danylov, a deputy head of the Association of Middle East Studies who also focuses on Kherson Oblast, said that Kakhovka Reservoir was a crucial source of water in the area.",
+      "prop_index": 44,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_045",
+      "text": "Serhii Danylov stated the Russian military destroyed pumping stations that lifted water from the Kakhovka Reservoir during the partial occupation of Kherson.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian military destruction",
+      "source_sentence": "\"During the (partial occupation of Kherson), the (Russian military) behaved barbarically and irrationally and they destroyed the pumping stations that lifted water from the Kakhovka Reservoir to the main canals,\" he said.",
+      "prop_index": 45,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_046",
+      "text": "Serhii Danylov stated there is currently a small amount of standing water in the Kakhovka Reservoir.",
+      "is_factual_claim": true,
+      "topic_hint": "Kakhovka Reservoir water",
+      "source_sentence": "As far as I know, there is currently a small amount of water in the Kakhovka Reservoir, but it is simply standing there. The entire system of main and branch canals of the North Crimean Canal has dried up.",
+      "prop_index": 46,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_047",
+      "text": "Serhii Danylov stated the entire system of main and branch canals of the North Crimean Canal has dried up.",
+      "is_factual_claim": true,
+      "topic_hint": "North Crimean Canal dry",
+      "source_sentence": "As far as I know, there is currently a small amount of water in the Kakhovka Reservoir, but it is simply standing there. The entire system of main and branch canals of the North Crimean Canal has dried up.",
+      "prop_index": 47,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_048",
+      "text": "Serhii Danylov stated it is impossible to restore the canals, and they need to be built from scratch.",
+      "is_factual_claim": true,
+      "topic_hint": "canal restoration impossible",
+      "source_sentence": "\"Even if we imagine that water will appear now, it is impossible to restore the canals — they need to be built from scratch,\" he added.",
+      "prop_index": 48,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_049",
+      "text": "A resident from the Russian-occupied Kahovka district reported that all fruit trees are dry and villagers grow vegetables only for themselves.",
+      "is_factual_claim": true,
+      "topic_hint": "Kahovka district agriculture",
+      "source_sentence": "A resident from the Russian-occupied Kahovka district told Danylov that \"all the fruit trees are dry\" and that \"in the villages, people grow some vegetables, but only for themselves.\"",
+      "prop_index": 49,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_050",
+      "text": "Serhii Danylov stated water supplies in occupied Crimea are on the verge of becoming critical.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea water critical",
+      "source_sentence": "Even in occupied Crimea, home to Russia's Black Sea Fleet and recipient of significant investment, water supplies are \"on the verge of becoming critical,\" Danylov said.",
+      "prop_index": 50,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_051",
+      "text": "The critical water supplies in Crimea are partly due to a second year of drought and the drying up of the North Crimean Canal.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea water causes",
+      "source_sentence": "This is in part due to a second year of drought, as well as the drying up of the North Crimean Canal which supplies the Crimean peninsula.",
+      "prop_index": 51,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_052",
+      "text": "Elina Beketova stated water shortages existed in Crimea before the 2014 annexation due to technical and natural reasons.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea pre-annexation water",
+      "source_sentence": "\"In Crimea, water shortages existed before the annexation due to both technical and natural reasons,\" Beketova said.",
+      "prop_index": 52,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_053",
+      "text": "Russia illegally annexed the Crimean peninsula in 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea annexation 2014",
+      "source_sentence": "After Russia illegally annexed the peninsula in 2014, Ukraine cut off access to the canal. It was temporarily restored when Russia partially occupied Kherson Oblast in 2022 but the water supply was short-lived.",
+      "prop_index": 53,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_054",
+      "text": "Ukraine cut off access to the North Crimean Canal after Russia annexed Crimea in 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine canal cut-off",
+      "source_sentence": "After Russia illegally annexed the peninsula in 2014, Ukraine cut off access to the canal. It was temporarily restored when Russia partially occupied Kherson Oblast in 2022 but the water supply was short-lived.",
+      "prop_index": 54,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_055",
+      "text": "Access to the North Crimean Canal was temporarily restored when Russia partially occupied Kherson Oblast in 2022, but the water supply was short-lived.",
+      "is_factual_claim": true,
+      "topic_hint": "canal restoration temporary",
+      "source_sentence": "It was temporarily restored when Russia partially occupied Kherson Oblast in 2022 but the water supply was short-lived.",
+      "prop_index": 55,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_056",
+      "text": "Elina Beketova stated the destruction of the Kakhovka Dam and lack of water inflow caused water problems to resume in Crimea.",
+      "is_factual_claim": true,
+      "topic_hint": "Kakhovka Dam Crimea water",
+      "source_sentence": "While they initially could have supplied water to the peninsula quickly, the destruction of the Kakhovka Dam and the lack of water inflow caused water problems to resume,\" Beketova said.",
+      "prop_index": 56,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_057",
+      "text": "Elina Beketova reported that local specialists stated water levels in Crimea's reservoirs dropped significantly this summer.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea reservoir levels",
+      "source_sentence": "\"According to local specialists, water levels in Crimea's reservoirs dropped significantly this summer,\" she added.",
+      "prop_index": 57,
+      "article_id": "kyivind_004"
+    },
+    {
+      "prop_id": "kyivind_004_prop_058",
+      "text": "Elina Beketova stated that if it does not rain, Crimea could face a severe water crisis by October.",
+      "is_factual_claim": true,
+      "topic_hint": "Crimea severe water crisis",
+      "source_sentence": "\"Rain could help, but if it doesn't, Crimea could face a severe water crisis by October.\"",
+      "prop_index": 58,
+      "article_id": "kyivind_004"
+    }
+  ]
+}

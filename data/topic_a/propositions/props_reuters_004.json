@@ -1,0 +1,439 @@
+{
+  "article_id": "reuters_004",
+  "source_name": "Reuters",
+  "total_propositions": 48,
+  "propositions": [
+    {
+      "prop_id": "reuters_004_prop_000",
+      "text": "Russia's all-out invasion of Ukraine in February 2022 led to Europe's bloodiest conflict since World War Two.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia-Ukraine conflict start",
+      "source_sentence": "Russia's all-out invasion of Ukraine in February, 2022, has led to Europe's bloodiest conflict since World War Two.",
+      "prop_index": 0,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_001",
+      "text": "Ukrainian forces withstood Moscow's initial assault and won back territory in the second half of 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian resistance 2022",
+      "source_sentence": "Kyiv's outgunned and outmanned forces withstood Moscow's initial assault and won back territory in the second half of 2022, but the failure of a Western-backed Ukrainian counteroffensive in 2023 has allowed the Russian army to reclaim the battlefield initiative this year.",
+      "prop_index": 1,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_002",
+      "text": "A Western-backed Ukrainian counteroffensive in 2023 failed, allowing the Russian army to reclaim the battlefield initiative in 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian counteroffensive 2023",
+      "source_sentence": "Kyiv's outgunned and outmanned forces withstood Moscow's initial assault and won back territory in the second half of 2022, but the failure of a Western-backed Ukrainian counteroffensive in 2023 has allowed the Russian army to reclaim the battlefield initiative this year.",
+      "prop_index": 2,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_003",
+      "text": "Ukrainian President Volodymyr Zelenskiy attends a summit of at least 90 leaders and organisations in Switzerland on Saturday.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy peace summit",
+      "source_sentence": "On Saturday, Ukrainian President Volodymyr Zelenskiy attends a summit of at least 90 leaders and organisations in Switzerland at which he hopes to lay out a path to peace.",
+      "prop_index": 3,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_004",
+      "text": "Russia, which was not invited, dismissed the peace initiative as a waste of time.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia dismisses summit",
+      "source_sentence": "Russia, which has not been invited, has dismissed the initiative as a waste of time, and China, its key ally since the war began, has said it would not attend.",
+      "prop_index": 4,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_005",
+      "text": "China, Russia's key ally, said it would not attend the summit.",
+      "is_factual_claim": true,
+      "topic_hint": "China skips summit",
+      "source_sentence": "Russia, which has not been invited, has dismissed the initiative as a waste of time, and China, its key ally since the war began, has said it would not attend.",
+      "prop_index": 5,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_006",
+      "text": "In 2014, forces loyal to pro-Russian Ukrainian President Viktor Yanukovich killed demonstrators in Kyiv, leading him to flee to Russia amid a popular uprising.",
+      "is_factual_claim": true,
+      "topic_hint": "Yanukovich flees Ukraine",
+      "source_sentence": "2014: After forces loyal to pro-Russian Ukrainian President Viktor Yanukovich kill scores of demonstrators in Kyiv, he flees to Russia amid a popular uprising.",
+      "prop_index": 6,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_007",
+      "text": "Moscow sent undercover troops to seize and swiftly annex the Crimea peninsula in 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia annexes Crimea",
+      "source_sentence": "Moscow responds by sending undercover troops to seize the Crimea peninsula, which Russia swiftly annexes.",
+      "prop_index": 7,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_008",
+      "text": "Russian agents and pro-Russian Ukrainian rebels launched an armed revolt and declared two independent \"people's republics\" in eastern Ukraine's Donbas region in 2014.",
+      "is_factual_claim": true,
+      "topic_hint": "Donbas revolt 2014",
+      "source_sentence": "In eastern Ukraine's Donbas region, Russian agents and pro-Russian Ukrainian rebels launch an armed revolt and declare two independent \"people's republics\".",
+      "prop_index": 8,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_009",
+      "text": "Thousands were killed in Donbas fighting before the \"Minsk accords\" largely froze frontlines but left rebel-occupied areas unresolved.",
+      "is_factual_claim": true,
+      "topic_hint": "Minsk accords impact",
+      "source_sentence": "Thousands are killed in fighting before the \"Minsk accords\" ceasefire agreements largely freeze the frontlines while leaving the status of rebel-occupied areas unresolved.",
+      "prop_index": 9,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_010",
+      "text": "President Vladimir Putin ordered tens of thousands of Russian troops into Ukraine on February 22, 2022, calling it a \"special military operation\".",
+      "is_factual_claim": true,
+      "topic_hint": "Putin orders invasion 2022",
+      "source_sentence": "Feb. 22, 2022: After building up forces for months but denying plans for an invasion, President Vladimir Putin orders tens of thousands of Russian troops into Ukraine in a \"special military operation\".",
+      "prop_index": 10,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_011",
+      "text": "Russian invaders attacked from the north, northeast, and east, making rapid initial advances while largely avoiding population centres.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian initial advances",
+      "source_sentence": "The invaders attack from the north, northeast and east, and make rapid initial advances, largely avoiding population centres.",
+      "prop_index": 11,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_012",
+      "text": "Western intelligence agencies predicted Ukraine could fall within days in February 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Western intelligence prediction",
+      "source_sentence": "Western intelligence agencies predict Ukraine could fall within days, but even in the initial hours there are signs that the Russian battle plan is faltering as Ukraine repels Russian commandos attempting to seize an airbase north of Kyiv as a beachhead for a swift assault on the capital.",
+      "prop_index": 12,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_013",
+      "text": "Ukraine repelled Russian commandos attempting to seize an airbase north of Kyiv for an assault on the capital.",
+      "is_factual_claim": true,
+      "topic_hint": "Kyiv airbase defense",
+      "source_sentence": "Western intelligence agencies predict Ukraine could fall within days, but even in the initial hours there are signs that the Russian battle plan is faltering as Ukraine repels Russian commandos attempting to seize an airbase north of Kyiv as a beachhead for a swift assault on the capital.",
+      "prop_index": 13,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_014",
+      "text": "Advancing Russian forces were halted at the outskirts of Kyiv and retreated from northern Ukraine between February and April 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian retreat Kyiv",
+      "source_sentence": "Feb-April, 2022: Advancing Russian forces are halted at the outskirts of Kyiv after meeting stiffer-than-expected resistance. The Russians retreat from all territory in northern Ukraine, leaving behind the bodies of civilians strewn along the streets of villages and towns - evidence of what Kyiv calls atrocities which Moscow will deny throughout the war.",
+      "prop_index": 14,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_015",
+      "text": "Russian forces left behind bodies of civilians in northern Ukraine, which Kyiv calls atrocities, but Moscow denies.",
+      "is_factual_claim": true,
+      "topic_hint": "Civilian deaths northern Ukraine",
+      "source_sentence": "The Russians retreat from all territory in northern Ukraine, leaving behind the bodies of civilians strewn along the streets of villages and towns - evidence of what Kyiv calls atrocities which Moscow will deny throughout the war.",
+      "prop_index": 15,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_016",
+      "text": "Moscow announced its aim was to protect and expand territory controlled by its proxies in the east.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow's war aims",
+      "source_sentence": "Moscow announces its aim is now to protect and expand the territory controlled by its proxies in the east.",
+      "prop_index": 16,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_017",
+      "text": "Ceasefire talks between February and April 2022 failed to halt fighting, with Moscow demanding territorial gains and Kyiv vowing to recover land.",
+      "is_factual_claim": true,
+      "topic_hint": "Failed ceasefire talks",
+      "source_sentence": "Ceasefire talks are held but fail to halt the fighting, with Moscow demanding recognition of its territorial gains and Kyiv vowing to recover its land.",
+      "prop_index": 17,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_018",
+      "text": "Russian forces captured Mariupol in southeastern Ukraine on May 20, 2022, after a three-month siege.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol capture 2022",
+      "source_sentence": "May 20, 2022: Russian forces capture Mariupol in southeastern Ukraine after a three-month siege, during which Kyiv estimates more than 20,000 civilians were killed.",
+      "prop_index": 18,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_019",
+      "text": "Kyiv estimates more than 20,000 civilians were killed during the siege of Mariupol.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol civilian casualties",
+      "source_sentence": "May 20, 2022: Russian forces capture Mariupol in southeastern Ukraine after a three-month siege, during which Kyiv estimates more than 20,000 civilians were killed.",
+      "prop_index": 19,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_020",
+      "text": "Mariupol is largely destroyed.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol destruction",
+      "source_sentence": "The city, home to 450,000 people before the war, is largely destroyed.",
+      "prop_index": 20,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_021",
+      "text": "The capture of Mariupol completed Russia's conquest of Ukraine's southeastern coast and secured the land bridge to Crimea.",
+      "is_factual_claim": true,
+      "topic_hint": "Mariupol strategic importance",
+      "source_sentence": "This completes Russia's conquest of Ukraine's southeastern coast and secures the land bridge connecting Russia to Crimea.",
+      "prop_index": 21,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_022",
+      "text": "Ukrainian forces made a surprise breakthrough in the northeast in September 2022, recapturing nearly all Russian-occupied territory in Kharkiv province.",
+      "is_factual_claim": true,
+      "topic_hint": "Kharkiv counteroffensive 2022",
+      "source_sentence": "Sept 2022: In one of the biggest shifts of battlefield momentum of the war, Ukrainian forces make a surprise breakthrough in the northeast and recapture nearly all Russian-occupied territory in Kharkiv province.",
+      "prop_index": 22,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_023",
+      "text": "President Vladimir Putin announced the annexation of four partially occupied Ukrainian provinces and ordered a call-up of reservists after September 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Putin annexation, mobilization",
+      "source_sentence": "Soon after, Putin announces the annexation of four partially occupied Ukrainian provinces in the east and south, and orders a call-up of reservists, triggering an exodus of hundreds of thousands of Russian men seeking to avoid conscription.",
+      "prop_index": 23,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_024",
+      "text": "The reservist call-up triggered an exodus of hundreds of thousands of Russian men seeking to avoid conscription.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian mobilization exodus",
+      "source_sentence": "Soon after, Putin announces the annexation of four partially occupied Ukrainian provinces in the east and south, and orders a call-up of reservists, triggering an exodus of hundreds of thousands of Russian men seeking to avoid conscription.",
+      "prop_index": 24,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_025",
+      "text": "Ukrainian forces recaptured the city of Kherson in November 2022, forcing Russian troops to retreat across the Dnipro river.",
+      "is_factual_claim": true,
+      "topic_hint": "Kherson recapture 2022",
+      "source_sentence": "Nov. 2022: In another major breakthrough, Ukrainian forces recapture the city of Kherson and surrounding countryside in southern Ukraine and force Russian troops to retreat across the Dnipro river that bisects the country.",
+      "prop_index": 25,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_026",
+      "text": "The recapture of Kherson was the last rapid shift in front lines before the war settled into intense, attritional trench warfare.",
+      "is_factual_claim": true,
+      "topic_hint": "Trench warfare begins",
+      "source_sentence": "This will prove to be the last rapid shift in the position of the front lines before the war settles into intense, attritional trench warfare, in which attacking forces on both sides can make only slow gains against heavily fortified defenders.",
+      "prop_index": 26,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_027",
+      "text": "Western countries pledged billions of dollars worth of weapons to arm Kyiv between December 2022 and May 2023.",
+      "is_factual_claim": true,
+      "topic_hint": "Western aid pledges",
+      "source_sentence": "Dec. 2022-May 2023: Buoyed by Ukraine's battlefield success in the second half of 2022, Western countries led by the United States pledge billions of dollars worth of weapons to arm Kyiv for a counteroffensive to win back its territory.",
+      "prop_index": 27,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_028",
+      "text": "Russia reinforced its defensive lines, mounted a long-range missile and drone campaign, and launched a ground offensive focused on Bakhmut during winter 2022-2023.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia winter offensive",
+      "source_sentence": "Russia uses the winter to reinforce its defensive lines, mount a long-range missile and drone campaign against Ukrainian cities and launch a ground offensive focused on Bakhmut, a small city in the east where assaults are led by Wagner, a private army that recruits prisoners from Russian jails.",
+      "prop_index": 28,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_029",
+      "text": "Wagner, a private army that recruits prisoners from Russian jails, led assaults in Bakhmut.",
+      "is_factual_claim": true,
+      "topic_hint": "Wagner in Bakhmut",
+      "source_sentence": "Russia uses the winter to reinforce its defensive lines, mount a long-range missile and drone campaign against Ukrainian cities and launch a ground offensive focused on Bakhmut, a small city in the east where assaults are led by Wagner, a private army that recruits prisoners from Russian jails.",
+      "prop_index": 29,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_030",
+      "text": "Ukrainian commanders elected to defend Bakhmut.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine defends Bakhmut",
+      "source_sentence": "Ukrainian commanders elect to defend Bakhmut rather than retreat.",
+      "prop_index": 30,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_031",
+      "text": "The International Criminal Court issued arrest warrants for Russian officials, including President Vladimir Putin, on March 23, 2023, for allegedly deporting Ukrainian children.",
+      "is_factual_claim": true,
+      "topic_hint": "ICC arrest warrants",
+      "source_sentence": "March 23, 2023: The International Criminal Court in the Hague issues arrest warrants for Russian officials including Putin, wanted for the war crime of allegedly deporting Ukrainian children from occupied territory.",
+      "prop_index": 31,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_032",
+      "text": "Moscow denies the charges and denounces the International Criminal Court.",
+      "is_factual_claim": true,
+      "topic_hint": "Moscow denies ICC charges",
+      "source_sentence": "Moscow denies the charges and denounces the court.",
+      "prop_index": 32,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_033",
+      "text": "As of June 5, 2024, Ukrainian prosecutors opened proceedings in over 129,000 alleged war crimes cases by Russian troops.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian war crimes cases",
+      "source_sentence": "As of June 5, 2024, Ukrainian prosecutors have opened proceedings in more than 129,000 alleged war crimes cases by occupying Russian troops.",
+      "prop_index": 33,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_034",
+      "text": "Russian forces captured Bakhmut on May 20, 2023, after nine months of fighting, in Europe's bloodiest land battle since World War Two.",
+      "is_factual_claim": true,
+      "topic_hint": "Bakhmut capture 2023",
+      "source_sentence": "May 20, 2023: Russian forces finally capture Bakhmut after nine months of fighting, in Europe's bloodiest land battle since World War Two.",
+      "prop_index": 34,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_035",
+      "text": "The capture of Bakhmut had limited direct strategic impact, but both armies suffered crippling losses.",
+      "is_factual_claim": true,
+      "topic_hint": "Bakhmut battle impact",
+      "source_sentence": "The capture of the largely depopulated and destroyed city has limited direct strategic impact, but both armies suffer crippling losses.",
+      "prop_index": 35,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_036",
+      "text": "Wagner leader Yevgeny Prigozhin launched a mutiny on June 23-24, 2023, vowing to topple Russia's military leadership, which he blamed for battlefield failures.",
+      "is_factual_claim": true,
+      "topic_hint": "Prigozhin mutiny",
+      "source_sentence": "June 23-24, 2023: Wagner leader Yevgeny Prigozhin launches a mutiny vowing to topple Russia's military leadership which he blames for battlefield failures.",
+      "prop_index": 36,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_037",
+      "text": "Yevgeny Prigozhin's forces raced towards Moscow but stood down under an agreement brokered by the leader of Belarus.",
+      "is_factual_claim": true,
+      "topic_hint": "Wagner march on Moscow",
+      "source_sentence": "His forces race towards Moscow meeting little resistance, before abruptly standing down under an agreement brokered by the leader of Belarus.",
+      "prop_index": 37,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_038",
+      "text": "Yevgeny Prigozhin and top lieutenants died in a plane crash two months after the mutiny.",
+      "is_factual_claim": true,
+      "topic_hint": "Prigozhin plane crash",
+      "source_sentence": "Two months later, Prigozhin and top lieutenants die in a plane crash.",
+      "prop_index": 38,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_039",
+      "text": "Ukraine launched a counteroffensive between June and December 2023, equipped with billions of dollars of Western weaponry including advanced tanks.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine 2023 counteroffensive",
+      "source_sentence": "June-December 2023: Newly equipped with billions of dollars of Western weaponry including advanced tanks, Ukraine launches a long-awaited counteroffensive to recapture Russian-held territory.",
+      "prop_index": 39,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_040",
+      "text": "Ukrainian forces failed to achieve a breakthrough against Russian defensive lines in the 2023 counteroffensive.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian counteroffensive failure",
+      "source_sentence": "The Ukrainian forces attempt to pierce the Russian defensive line at multiple points along the southern front but fail to achieve the hoped-for breakthrough.",
+      "prop_index": 40,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_041",
+      "text": "Russian forces seized battlefield momentum in Spring 2024, taking advantage of superior manpower and firepower.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia gains momentum 2024",
+      "source_sentence": "Spring 2024: Following the failure of Ukraine's 2023 counteroffensive, Russian forces seize the battlefield momentum, taking advantage of superior manpower and firepower.",
+      "prop_index": 41,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_042",
+      "text": "Ukraine complains its troops are running out of weapons and ammunition due to stalled foreign aid.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine aid shortage",
+      "source_sentence": "Ukraine complains that its troops are running out of weapons and ammunition, with foreign aid stalled, including a $61 billion package held up by Republicans in the U.S. Congress.",
+      "prop_index": 42,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_043",
+      "text": "The U.S. House of Representatives approved a $61 billion aid package on April 21, 2024, after months of delay.",
+      "is_factual_claim": true,
+      "topic_hint": "US aid approval",
+      "source_sentence": "After months of delay, the U.S. House of Representatives finally approves the aid on April 21.",
+      "prop_index": 43,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_044",
+      "text": "Russian forces opened a new front with an assault on Ukraine's northeastern Kharkiv province in May 2024.",
+      "is_factual_claim": true,
+      "topic_hint": "Kharkiv offensive 2024",
+      "source_sentence": "In May, Russian forces open a new front with an assault on Ukraine's northeastern Kharkiv province, which Kyiv's commanders say risks diverting resources from defending against the main Russian effort in the east.",
+      "prop_index": 44,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_045",
+      "text": "Kyiv's commanders say the Kharkiv assault risks diverting resources from defending against the main Russian effort in the east.",
+      "is_factual_claim": true,
+      "topic_hint": "Kharkiv resource diversion",
+      "source_sentence": "In May, Russian forces open a new front with an assault on Ukraine's northeastern Kharkiv province, which Kyiv's commanders say risks diverting resources from defending against the main Russian effort in the east.",
+      "prop_index": 45,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_046",
+      "text": "A new Ukrainian mobilisation law came into force in May 2024, which will make it easier to call up more men to fight.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine mobilization law",
+      "source_sentence": "May 2024: A new mobilisation law comes into force that will make it easier for Ukraine to call up more men to fight.",
+      "prop_index": 46,
+      "article_id": "reuters_004"
+    },
+    {
+      "prop_id": "reuters_004_prop_047",
+      "text": "The number of new recruits from the Ukrainian mobilisation legislation is unclear but could involve hundreds of thousands of people.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian recruit numbers",
+      "source_sentence": "The number of new recruits the legislation will provide is unclear, but it could involve hundreds of thousands of people.",
+      "prop_index": 47,
+      "article_id": "reuters_004"
+    }
+  ]
+}

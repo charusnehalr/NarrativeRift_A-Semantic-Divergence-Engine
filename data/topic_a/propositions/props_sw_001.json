@@ -1,0 +1,781 @@
+{
+  "article_id": "sw_001",
+  "source_name": "ISW (Institute for the Study of War)",
+  "total_propositions": 86,
+  "propositions": [
+    {
+      "prop_id": "sw_001_prop_000",
+      "text": "A senior Ukrainian military official forecasted that Russia will begin using mobilized personnel on the battlefield in Ukraine on April 1.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian mobilization forecast",
+      "source_sentence": "A senior Ukrainian military official forecasted that Russia will begin using mobilized personnel on the battlefield in Ukraine on April 1.",
+      "prop_index": 0,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_001",
+      "text": "Ukrainian Southern Defense Forces Spokesperson Colonel Vladyslav Voloshyn told Interfax Ukraine on March 21 that Russia will begin involving all mobilized personnel currently in Crimea in combat operations in Ukraine starting April 1.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian mobilization in Crimea",
+      "source_sentence": "Ukrainian Southern Defense Forces Spokesperson Colonel Vladyslav Voloshyn told Ukrainian outlet Interfax Ukraine on March 21 that Russia will begin involving all mobilized personnel currently in Crimea in combat operations in Ukraine starting April 1.",
+      "prop_index": 1,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_002",
+      "text": "Colonel Vladyslav Voloshyn stated that mobilized personnel will replace wounded personnel.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian personnel replacement",
+      "source_sentence": "Voloshyn stated that mobilized personnel will replace wounded personnel and replenish the Russian 810th Separate Naval Infantry Brigade (Black Sea Fleet), elements of which are currently operating in the Kursk direction and in the \"Crimea\" operational-tactical group.",
+      "prop_index": 2,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_003",
+      "text": "Colonel Vladyslav Voloshyn stated that mobilized personnel will replenish the Russian 810th Separate Naval Infantry Brigade (Black Sea Fleet).",
+      "is_factual_claim": true,
+      "topic_hint": "Russian brigade replenishment",
+      "source_sentence": "Voloshyn stated that mobilized personnel will replace wounded personnel and replenish the Russian 810th Separate Naval Infantry Brigade (Black Sea Fleet), elements of which are currently operating in the Kursk direction and in the \"Crimea\" operational-tactical group.",
+      "prop_index": 3,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_004",
+      "text": "Elements of the Russian 810th Separate Naval Infantry Brigade (Black Sea Fleet) are currently operating in the Kursk direction.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian brigade location",
+      "source_sentence": "Voloshyn stated that mobilized personnel will replace wounded personnel and replenish the Russian 810th Separate Naval Infantry Brigade (Black Sea Fleet), elements of which are currently operating in the Kursk direction and in the \"Crimea\" operational-tactical group.",
+      "prop_index": 4,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_005",
+      "text": "Elements of the Russian 810th Separate Naval Infantry Brigade (Black Sea Fleet) are currently operating in the \"Crimea\" operational-tactical group.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian brigade location",
+      "source_sentence": "Voloshyn stated that mobilized personnel will replace wounded personnel and replenish the Russian 810th Separate Naval Infantry Brigade (Black Sea Fleet), elements of which are currently operating in the Kursk direction and in the \"Crimea\" operational-tactical group.",
+      "prop_index": 5,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_006",
+      "text": "Russian forces continue to incur heavy losses on the battlefield.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian forces losses",
+      "source_sentence": "Russia may be resorting to deploying mobilized personnel as Russian forces continue to incur heavy losses on the battlefield while struggling to recruit enough new volunteers to replace its losses.",
+      "prop_index": 6,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_007",
+      "text": "Russian forces are struggling to recruit enough new volunteers to replace their losses.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian recruitment difficulties",
+      "source_sentence": "Russia may be resorting to deploying mobilized personnel as Russian forces continue to incur heavy losses on the battlefield while struggling to recruit enough new volunteers to replace its losses.",
+      "prop_index": 7,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_008",
+      "text": "Colonel Vladyslav Voloshyn added that the Russian military command plans to reorganize its 810th Separate Naval Infantry Brigade into a naval infantry division.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian brigade reorganization",
+      "source_sentence": "Voloshyn added that the Russian military command plans to reorganize its 810th Separate Naval Infantry Brigade into a naval infantry division, which would be the tenth new maneuver division that Russia has formed since 2022.",
+      "prop_index": 8,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_009",
+      "text": "The reorganization of the 810th Separate Naval Infantry Brigade would make it the tenth new maneuver division that Russia has formed since 2022.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian division formation",
+      "source_sentence": "Voloshyn added that the Russian military command plans to reorganize its 810th Separate Naval Infantry Brigade into a naval infantry division, which would be the tenth new maneuver division that Russia has formed since 2022.",
+      "prop_index": 9,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_010",
+      "text": "Ukrainian counterattacks in southern Ukraine continue to create operational effects against Russian forces.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian counterattack effects",
+      "source_sentence": "Ukrainian counterattacks in southern Ukraine continue to create operational and strategic effects against Russian forces going into the Spring-Summer 2026 offensive.",
+      "prop_index": 10,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_011",
+      "text": "Ukrainian counterattacks in southern Ukraine continue to create strategic effects against Russian forces.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian counterattack effects",
+      "source_sentence": "Ukrainian counterattacks in southern Ukraine continue to create operational and strategic effects against Russian forces going into the Spring-Summer 2026 offensive.",
+      "prop_index": 11,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_012",
+      "text": "Colonel Vladyslav Voloshyn stated that the Russian military command is transferring elements of the Russian 55th naval infantry division to the 29th Combined Arms Army's area of responsibility in the Oleksandrivka direction.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop transfers",
+      "source_sentence": "Voloshyn stated that the Russian military command is transferring elements of the Russian 55th and 120th naval infantry divisions to the 29th Combined Arms Army's area of responsibility in the Oleksandrivka and northern Hulyaipole directions.",
+      "prop_index": 12,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_013",
+      "text": "Colonel Vladyslav Voloshyn stated that the Russian military command is transferring elements of the Russian 55th naval infantry division to the 29th Combined Arms Army's area of responsibility in the northern Hulyaipole direction.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop transfers",
+      "source_sentence": "Voloshyn stated that the Russian military command is transferring elements of the Russian 55th and 120th naval infantry divisions to the 29th Combined Arms Army's area of responsibility in the Oleksandrivka and northern Hulyaipole directions.",
+      "prop_index": 13,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_014",
+      "text": "Colonel Vladyslav Voloshyn stated that the Russian military command is transferring elements of the Russian 120th naval infantry division to the 29th Combined Arms Army's area of responsibility in the Oleksandrivka direction.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop transfers",
+      "source_sentence": "Voloshyn stated that the Russian military command is transferring elements of the Russian 55th and 120th naval infantry divisions to the 29th Combined Arms Army's area of responsibility in the Oleksandrivka and northern Hulyaipole directions.",
+      "prop_index": 14,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_015",
+      "text": "Colonel Vladyslav Voloshyn stated that the Russian military command is transferring elements of the Russian 120th naval infantry division to the 29th Combined Arms Army's area of responsibility in the northern Hulyaipole direction.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop transfers",
+      "source_sentence": "Voloshyn stated that the Russian military command is transferring elements of the Russian 55th and 120th naval infantry divisions to the 29th Combined Arms Army's area of responsibility in the Oleksandrivka and northern Hulyaipole directions.",
+      "prop_index": 15,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_016",
+      "text": "ISW recently observed reports that elements of the 55th Naval Infantry Division redeployed from the Dobropillya tactical area to the Hulyaipole direction as of late February 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop redeployment",
+      "source_sentence": "ISW recently observed reports that elements of the 55th Naval Infantry Division and 120th Naval Infantry Division redeployed from the Dobropillya tactical area to the Hulyaipole and Oleksandrivka directions as of late February 2026 and mid-March 2026 respectively, likely in response to the successful Ukrainian counterattacks in the area.",
+      "prop_index": 16,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_017",
+      "text": "ISW recently observed reports that elements of the 55th Naval Infantry Division redeployed from the Dobropillya tactical area to the Oleksandrivka direction as of late February 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop redeployment",
+      "source_sentence": "ISW recently observed reports that elements of the 55th Naval Infantry Division and 120th Naval Infantry Division redeployed from the Dobropillya tactical area to the Hulyaipole and Oleksandrivka directions as of late February 2026 and mid-March 2026 respectively, likely in response to the successful Ukrainian counterattacks in the area.",
+      "prop_index": 17,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_018",
+      "text": "ISW recently observed reports that elements of the 120th Naval Infantry Division redeployed from the Dobropillya tactical area to the Hulyaipole direction as of mid-March 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop redeployment",
+      "source_sentence": "ISW recently observed reports that elements of the 55th Naval Infantry Division and 120th Naval Infantry Division redeployed from the Dobropillya tactical area to the Hulyaipole and Oleksandrivka directions as of late February 2026 and mid-March 2026 respectively, likely in response to the successful Ukrainian counterattacks in the area.",
+      "prop_index": 18,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_019",
+      "text": "ISW recently observed reports that elements of the 120th Naval Infantry Division redeployed from the Dobropillya tactical area to the Oleksandrivka direction as of mid-March 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop redeployment",
+      "source_sentence": "ISW recently observed reports that elements of the 55th Naval Infantry Division and 120th Naval Infantry Division redeployed from the Dobropillya tactical area to the Hulyaipole and Oleksandrivka directions as of late February 2026 and mid-March 2026 respectively, likely in response to the successful Ukrainian counterattacks in the area.",
+      "prop_index": 19,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_020",
+      "text": "The redeployments were likely in response to successful Ukrainian counterattacks in the area.",
+      "is_factual_claim": true,
+      "topic_hint": "Redeployment reason",
+      "source_sentence": "ISW recently observed reports that elements of the 55th Naval Infantry Division and 120th Naval Infantry Division redeployed from the Dobropillya tactical area to the Hulyaipole and Oleksandrivka directions as of late February 2026 and mid-March 2026 respectively, likely in response to the successful Ukrainian counterattacks in the area.",
+      "prop_index": 20,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_021",
+      "text": "Russian forces have reportedly been deploying forces from their operational reserve to support ongoing combat operations.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian reserve deployment",
+      "source_sentence": "Russian forces have reportedly already been deploying forces from their operational reserve simply to support ongoing combat operations and likely laterally redeployed elite VDV and naval infantry units from Donetsk Oblast to the southern frontline in early March 2026.",
+      "prop_index": 21,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_022",
+      "text": "Russian forces likely laterally redeployed elite VDV units from Donetsk Oblast to the southern frontline in early March 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop redeployment",
+      "source_sentence": "Russian forces have reportedly already been deploying forces from their operational reserve simply to support ongoing combat operations and likely laterally redeployed elite VDV and naval infantry units from Donetsk Oblast to the southern frontline in early March 2026.",
+      "prop_index": 22,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_023",
+      "text": "Russian forces likely laterally redeployed elite naval infantry units from Donetsk Oblast to the southern frontline in early March 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian troop redeployment",
+      "source_sentence": "Russian forces have reportedly already been deploying forces from their operational reserve simply to support ongoing combat operations and likely laterally redeployed elite VDV and naval infantry units from Donetsk Oblast to the southern frontline in early March 2026.",
+      "prop_index": 23,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_024",
+      "text": "Ukrainian forces' dual tactical efforts are halting Russian gains in southern Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian tactical efforts",
+      "source_sentence": "Ukrainian forces' dual tactical efforts to halt and push back Russian gains in southern Ukraine are having cascading effects on other sectors of the front, forcing Russian forces to choose between defending against the Ukrainian counterattacks and allocating manpower and materiel for offensive operations elsewhere on the frontline.",
+      "prop_index": 24,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_025",
+      "text": "Ukrainian forces' dual tactical efforts are pushing back Russian gains in southern Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian tactical efforts",
+      "source_sentence": "Ukrainian forces' dual tactical efforts to halt and push back Russian gains in southern Ukraine are having cascading effects on other sectors of the front, forcing Russian forces to choose between defending against the Ukrainian counterattacks and allocating manpower and materiel for offensive operations elsewhere on the frontline.",
+      "prop_index": 25,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_026",
+      "text": "Ukrainian forces' dual tactical efforts are having cascading effects on other sectors of the front.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian tactical effects",
+      "source_sentence": "Ukrainian forces' dual tactical efforts to halt and push back Russian gains in southern Ukraine are having cascading effects on other sectors of the front, forcing Russian forces to choose between defending against the Ukrainian counterattacks and allocating manpower and materiel for offensive operations elsewhere on the frontline.",
+      "prop_index": 26,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_027",
+      "text": "Ukrainian forces' dual tactical efforts are forcing Russian forces to choose between defending against Ukrainian counterattacks and allocating manpower and materiel for offensive operations elsewhere on the frontline.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian strategic dilemma",
+      "source_sentence": "Ukrainian forces' dual tactical efforts to halt and push back Russian gains in southern Ukraine are having cascading effects on other sectors of the front, forcing Russian forces to choose between defending against the Ukrainian counterattacks and allocating manpower and materiel for offensive operations elsewhere on the frontline.",
+      "prop_index": 27,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_028",
+      "text": "Russia's redeployments to southern Ukraine are in response to Ukrainian counterattacks.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian redeployment reason",
+      "source_sentence": "Russia's redeployments to southern Ukraine in response to Ukrainian counterattacks are likely disrupting the Russian military command's plans for the Spring-Summer 2026 offensive against the Fortress Belt.",
+      "prop_index": 28,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_029",
+      "text": "Russia's redeployments to southern Ukraine are likely disrupting the Russian military command's plans for the Spring-Summer 2026 offensive against the Fortress Belt.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian offensive disruption",
+      "source_sentence": "Russia's redeployments to southern Ukraine in response to Ukrainian counterattacks are likely disrupting the Russian military command's plans for the Spring-Summer 2026 offensive against the Fortress Belt.",
+      "prop_index": 29,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_030",
+      "text": "Russian forces have previously failed to conduct simultaneous offensives in different sectors of the front.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian offensive history",
+      "source_sentence": "Russian forces have previously failed to conduct simultaneous offensives in different sectors of the front, and it is unlikely that they will be able to make significant efforts to advance in the Fortress Belt area while contending with Ukraine's recent successes in the Hulyaipole and Oleksandrivka directions.",
+      "prop_index": 30,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_031",
+      "text": "It is unlikely that Russian forces will be able to make significant efforts to advance in the Fortress Belt area while contending with Ukraine's recent successes in the Hulyaipole and Oleksandrivka directions.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian offensive unlikelihood",
+      "source_sentence": "Russian forces have previously failed to conduct simultaneous offensives in different sectors of the front, and it is unlikely that they will be able to make significant efforts to advance in the Fortress Belt area while contending with Ukraine's recent successes in the Hulyaipole and Oleksandrivka directions.",
+      "prop_index": 31,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_032",
+      "text": "Likely Belarusian balloons recently landed in Poland.",
+      "is_factual_claim": true,
+      "topic_hint": "Belarusian balloons in Poland",
+      "source_sentence": "Likely Belarusian balloons recently landed in Poland, possibly as part of Russia's ongoing use of Belarus in its \"Phase Zero\" effort, setting conditions for a potential future war with NATO.",
+      "prop_index": 32,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_033",
+      "text": "The balloons are possibly part of Russia's ongoing use of Belarus in its \"Phase Zero\" effort.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian \"Phase Zero\" effort",
+      "source_sentence": "Likely Belarusian balloons recently landed in Poland, possibly as part of Russia's ongoing use of Belarus in its \"Phase Zero\" effort, setting conditions for a potential future war with NATO.",
+      "prop_index": 33,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_034",
+      "text": "Russia's \"Phase Zero\" effort is setting conditions for a potential future war with NATO.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia-NATO war conditions",
+      "source_sentence": "Likely Belarusian balloons recently landed in Poland, possibly as part of Russia's ongoing use of Belarus in its \"Phase Zero\" effort, setting conditions for a potential future war with NATO.",
+      "prop_index": 34,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_035",
+      "text": "Polish authorities reported on March 21 that they found five balloons in fields across Podlaskie Voivodeship along Poland's eastern border with Belarus.",
+      "is_factual_claim": true,
+      "topic_hint": "Polish balloon discovery",
+      "source_sentence": "Polish authorities reported on March 21 that they found five balloons and 10 foil-wrapped packages in fields across Podlaskie Voivodeship along Poland's eastern border with Belarus.",
+      "prop_index": 35,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_036",
+      "text": "Polish authorities reported on March 21 that they found 10 foil-wrapped packages in fields across Podlaskie Voivodeship along Poland's eastern border with Belarus.",
+      "is_factual_claim": true,
+      "topic_hint": "Polish package discovery",
+      "source_sentence": "Polish authorities reported on March 21 that they found five balloons and 10 foil-wrapped packages in fields across Podlaskie Voivodeship along Poland's eastern border with Belarus.",
+      "prop_index": 36,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_037",
+      "text": "ISW continues to assess that Russia has de facto annexed Belarus.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia-Belarus annexation",
+      "source_sentence": "ISW continues to assess that Russia has de facto annexed Belarus and that Russia is likely using airspace incursions into NATO states like Lithuania and Poland from Belarus as part of its \"Phase Zero\" effort — the informational and psychological condition-setting phase — to prepare for a possible NATO-Russia war in the future.",
+      "prop_index": 37,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_038",
+      "text": "ISW assesses that Russia is likely using airspace incursions into NATO states like Lithuania from Belarus as part of its \"Phase Zero\" effort.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian airspace incursions",
+      "source_sentence": "ISW continues to assess that Russia has de facto annexed Belarus and that Russia is likely using airspace incursions into NATO states like Lithuania and Poland from Belarus as part of its \"Phase Zero\" effort — the informational and psychological condition-setting phase — to prepare for a possible NATO-Russia war in the future.",
+      "prop_index": 38,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_039",
+      "text": "ISW assesses that Russia is likely using airspace incursions into NATO states like Poland from Belarus as part of its \"Phase Zero\" effort.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian airspace incursions",
+      "source_sentence": "ISW continues to assess that Russia has de facto annexed Belarus and that Russia is likely using airspace incursions into NATO states like Lithuania and Poland from Belarus as part of its \"Phase Zero\" effort — the informational and psychological condition-setting phase — to prepare for a possible NATO-Russia war in the future.",
+      "prop_index": 39,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_040",
+      "text": "\"Phase Zero\" is the informational and psychological condition-setting phase.",
+      "is_factual_claim": true,
+      "topic_hint": "\"Phase Zero\" definition",
+      "source_sentence": "ISW continues to assess that Russia has de facto annexed Belarus and that Russia is likely using airspace incursions into NATO states like Lithuania and Poland from Belarus as part of its \"Phase Zero\" effort — the informational and psychological condition-setting phase — to prepare for a possible NATO-Russia war in the future.",
+      "prop_index": 40,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_041",
+      "text": "Russia's \"Phase Zero\" effort is to prepare for a possible NATO-Russia war in the future.",
+      "is_factual_claim": true,
+      "topic_hint": "Russia-NATO war preparation",
+      "source_sentence": "ISW continues to assess that Russia has de facto annexed Belarus and that Russia is likely using airspace incursions into NATO states like Lithuania and Poland from Belarus as part of its \"Phase Zero\" effort — the informational and psychological condition-setting phase — to prepare for a possible NATO-Russia war in the future.",
+      "prop_index": 41,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_042",
+      "text": "Ukrainian forces recently advanced in the Kostyantynivka-Druzhkivka tactical area.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian forces advance",
+      "source_sentence": "Ukrainian forces recently advanced in the Kostyantynivka-Druzhkivka tactical area.",
+      "prop_index": 42,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_043",
+      "text": "Geolocated footage published on March 22 indicates that Ukrainian forces recently advanced along the T-0504 Pokrovsk-Kostyantynivka highway in eastern Kostyantynivka.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian forces advance",
+      "source_sentence": "Geolocated footage published on March 22 indicates that Ukrainian forces recently advanced along the T-0504 Pokrovsk-Kostyantynivka highway in eastern Kostyantynivka.",
+      "prop_index": 43,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_044",
+      "text": "Ukrainian forces struck military assets in Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strikes in Russia",
+      "source_sentence": "Ukrainian forces struck military assets and oil infrastructure in Russia.",
+      "prop_index": 44,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_045",
+      "text": "Ukrainian forces struck oil infrastructure in Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strikes in Russia",
+      "source_sentence": "Ukrainian forces struck military assets and oil infrastructure in Russia.",
+      "prop_index": 45,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_046",
+      "text": "The Ukrainian General Staff reported that Ukrainian forces struck a Russian command and observation post near Smorodino, Belgorod Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strikes in Russia",
+      "source_sentence": "The Ukrainian General Staff reported that Ukrainian forces struck a Russian command and observation post near Smorodino, Belgorod Oblast and a Buk-M1 anti-aircraft missile system near Pervoye Maya, Bryansk Oblast.",
+      "prop_index": 46,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_047",
+      "text": "The Ukrainian General Staff reported that Ukrainian forces struck a Buk-M1 anti-aircraft missile system near Pervoye Maya, Bryansk Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strikes in Russia",
+      "source_sentence": "The Ukrainian General Staff reported that Ukrainian forces struck a Russian command and observation post near Smorodino, Belgorod Oblast and a Buk-M1 anti-aircraft missile system near Pervoye Maya, Bryansk Oblast.",
+      "prop_index": 47,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_048",
+      "text": "Ukrainian forces likely struck oil infrastructure in the Republic of Bashkortostan on March 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strikes in Bashkortostan",
+      "source_sentence": "Ukrainian forces likely struck oil infrastructure in the Republic of Bashkortostan on March 22.",
+      "prop_index": 48,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_049",
+      "text": "Russian opposition media Astra reported that geolocated photographs from local eyewitnesses indicate that Ukrainian drones struck the northern industrial zone in Ufa on the morning of March 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian drone strikes",
+      "source_sentence": "Russian opposition media Astra reported that geolocated photographs from local eyewitnesses indicate that Ukrainian drones struck the northern industrial zone in Ufa on the morning of March 22.",
+      "prop_index": 49,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_050",
+      "text": "Rosneft's Bashneft operates three oil refineries in the industrial zone in Ufa.",
+      "is_factual_claim": true,
+      "topic_hint": "Oil refineries in Ufa",
+      "source_sentence": "Astra noted that Rosneft's Bashneft operates three oil refineries in the industrial zone.",
+      "prop_index": 50,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_051",
+      "text": "Russian forces launched 139 drones against Ukraine on the night of March 21 to 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian drone launches",
+      "source_sentence": "Russian forces launched 139 drones against Ukraine on the night of March 21 to 22.",
+      "prop_index": 51,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_052",
+      "text": "The Ukrainian Air Force reported that Ukrainian forces downed 127 drones.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian drone defense",
+      "source_sentence": "The Ukrainian Air Force reported that Ukrainian forces downed 127 drones, that eight drones struck seven locations, and that drone debris fell at seven locations.",
+      "prop_index": 52,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_053",
+      "text": "The Ukrainian Air Force reported that eight drones struck seven locations.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian drone strikes",
+      "source_sentence": "The Ukrainian Air Force reported that Ukrainian forces downed 127 drones, that eight drones struck seven locations, and that drone debris fell at seven locations.",
+      "prop_index": 53,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_054",
+      "text": "The Ukrainian Air Force reported that drone debris fell at seven locations.",
+      "is_factual_claim": true,
+      "topic_hint": "Drone debris locations",
+      "source_sentence": "The Ukrainian Air Force reported that Ukrainian forces downed 127 drones, that eight drones struck seven locations, and that drone debris fell at seven locations.",
+      "prop_index": 54,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_055",
+      "text": "Sumy Oblast State Emergency Service reported that Russian forces conducted a \"double tap\" strike against rescue workers.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian \"double tap\" strike",
+      "source_sentence": "Sumy Oblast State Emergency Service reported that Russian forces conducted a \"double tap\" strike against rescue workers responding to a Russian strike against Sumy City.",
+      "prop_index": 55,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_056",
+      "text": "The rescue workers were responding to a Russian strike against Sumy City.",
+      "is_factual_claim": true,
+      "topic_hint": "Rescue worker response",
+      "source_sentence": "Sumy Oblast State Emergency Service reported that Russian forces conducted a \"double tap\" strike against rescue workers responding to a Russian strike against Sumy City.",
+      "prop_index": 56,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_057",
+      "text": "Ukrainian President Volodymyr Zelensky reported that Russian forces launched almost 1,550 drones against Ukraine in the past week (March 15 to 21).",
+      "is_factual_claim": true,
+      "topic_hint": "Russian drone launches",
+      "source_sentence": "Ukrainian President Volodymyr Zelensky reported that Russian forces launched almost 1,550 drones; over 1,260 guided glide bombs; and two missiles against Ukraine in the past week (March 15 to 21).",
+      "prop_index": 57,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_058",
+      "text": "Ukrainian President Volodymyr Zelensky reported that Russian forces launched over 1,260 guided glide bombs against Ukraine in the past week (March 15 to 21).",
+      "is_factual_claim": true,
+      "topic_hint": "Russian glide bomb launches",
+      "source_sentence": "Ukrainian President Volodymyr Zelensky reported that Russian forces launched almost 1,550 drones; over 1,260 guided glide bombs; and two missiles against Ukraine in the past week (March 15 to 21).",
+      "prop_index": 58,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_059",
+      "text": "Ukrainian President Volodymyr Zelensky reported that Russian forces launched two missiles against Ukraine in the past week (March 15 to 21).",
+      "is_factual_claim": true,
+      "topic_hint": "Russian missile launches",
+      "source_sentence": "Ukrainian President Volodymyr Zelensky reported that Russian forces launched almost 1,550 drones; over 1,260 guided glide bombs; and two missiles against Ukraine in the past week (March 15 to 21).",
+      "prop_index": 59,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_060",
+      "text": "Russian forces are significantly increasing their strikes against Ukraine's Black Sea ports.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian port strikes",
+      "source_sentence": "Russian forces are significantly increasing their strikes against Ukraine's Black Sea ports.",
+      "prop_index": 60,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_061",
+      "text": "Ukrainian Minister Oleksiy Kuleba reported on March 22 that Russian forces struck port infrastructure in Odesa City about 150 times in all of 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian strikes Odesa",
+      "source_sentence": "Ukrainian Minister of Community and Territorial Development Oleksiy Kuleba reported on March 22 that Russian forces struck port infrastructure in Odesa City and Chornomorsk about 150 times in all of 2025 but have already conducted over 180 such strikes since the start of 2026.",
+      "prop_index": 61,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_062",
+      "text": "Ukrainian Minister Oleksiy Kuleba reported on March 22 that Russian forces struck port infrastructure in Chornomorsk about 150 times in all of 2025.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian strikes Chornomorsk",
+      "source_sentence": "Ukrainian Minister of Community and Territorial Development Oleksiy Kuleba reported on March 22 that Russian forces struck port infrastructure in Odesa City and Chornomorsk about 150 times in all of 2025 but have already conducted over 180 such strikes since the start of 2026.",
+      "prop_index": 62,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_063",
+      "text": "Ukrainian Minister Oleksiy Kuleba reported on March 22 that Russian forces have already conducted over 180 strikes against port infrastructure in Odesa City and Chornomorsk since the start of 2026.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian strikes 2026",
+      "source_sentence": "Ukrainian Minister of Community and Territorial Development Oleksiy Kuleba reported on March 22 that Russian forces struck port infrastructure in Odesa City and Chornomorsk about 150 times in all of 2025 but have already conducted over 180 such strikes since the start of 2026.",
+      "prop_index": 63,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_064",
+      "text": "Ukrainian Minister Oleksiy Kuleba stated that Ukrainian forces have improved their shoot down rate in the area by 25 to 35 percent compared to an unspecified time period.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian shoot down rate",
+      "source_sentence": "Kuleba stated that Ukrainian forces have improved their shoot down rate in the area by 25 to 35 percent compared to an unspecified time period.",
+      "prop_index": 64,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_065",
+      "text": "Russian forces conducted another mechanized assault of an unspecified echelon in the Slovyansk direction on March 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian mechanized assault",
+      "source_sentence": "Russian forces conducted another mechanized assault of an unspecified echelon in the Slovyansk direction on March 22 but did not make confirmed advances.",
+      "prop_index": 65,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_066",
+      "text": "Russian forces did not make confirmed advances in the Slovyansk direction on March 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian advances",
+      "source_sentence": "Russian forces conducted another mechanized assault of an unspecified echelon in the Slovyansk direction on March 22 but did not make confirmed advances.",
+      "prop_index": 66,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_067",
+      "text": "Ukraine's Joint Forces Task Force stated that Russian forces unsuccessfully conducted a mechanized assault in the Lyman direction on the morning of March 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian mechanized assault",
+      "source_sentence": "Ukraine's Joint Forces Task Force stated that Russian forces unsuccessfully conducted a mechanized assault in the Lyman direction on the morning of March 22.",
+      "prop_index": 67,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_068",
+      "text": "Russian forces conducted a roughly battalion-sized mechanized and motorized assault in the Lyman direction on March 19.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian assault Lyman",
+      "source_sentence": "Russian forces conducted a roughly battalion-sized mechanized and motorized assault in the Lyman direction on March 19, indicating that Russian forces began their Spring-Summer 2026 offensive against the northern flank of the Fortress Belt.",
+      "prop_index": 68,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_069",
+      "text": "The assault in the Lyman direction on March 19 indicates that Russian forces began their Spring-Summer 2026 offensive against the northern flank of the Fortress Belt.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian offensive start",
+      "source_sentence": "Russian forces conducted a roughly battalion-sized mechanized and motorized assault in the Lyman direction on March 19, indicating that Russian forces began their Spring-Summer 2026 offensive against the northern flank of the Fortress Belt.",
+      "prop_index": 69,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_070",
+      "text": "Russian milbloggers continue to deny the Russian military command's claim that Russian forces seized Kupyansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Kupyansk seizure denial",
+      "source_sentence": "Russian milbloggers continue to deny the Russian military command's claim that Russian forces seized Kupyansk.",
+      "prop_index": 70,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_071",
+      "text": "The Russian military command claimed that Russian forces seized Kupyansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian Kupyansk claim",
+      "source_sentence": "Russian milbloggers continue to deny the Russian military command's claim that Russian forces seized Kupyansk.",
+      "prop_index": 71,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_072",
+      "text": "A Russian milblogger criticized on March 22 how unspecified actors are smearing independent Russian milbloggers.",
+      "is_factual_claim": true,
+      "topic_hint": "Milblogger criticism",
+      "source_sentence": "A Russian milblogger criticized on March 22 how unspecified actors are smearing independent Russian milbloggers who are trying to report on the \"difficult\" situation in Kupyansk, which the milblogger characterized as a contested \"gray zone.\"",
+      "prop_index": 72,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_073",
+      "text": "Independent Russian milbloggers are trying to report on the \"difficult\" situation in Kupyansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Kupyansk situation reporting",
+      "source_sentence": "A Russian milblogger criticized on March 22 how unspecified actors are smearing independent Russian milbloggers who are trying to report on the \"difficult\" situation in Kupyansk, which the milblogger characterized as a contested \"gray zone.\"",
+      "prop_index": 73,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_074",
+      "text": "A Russian milblogger characterized Kupyansk as a contested \"gray zone.\"",
+      "is_factual_claim": true,
+      "topic_hint": "Kupyansk status",
+      "source_sentence": "A Russian milblogger criticized on March 22 how unspecified actors are smearing independent Russian milbloggers who are trying to report on the \"difficult\" situation in Kupyansk, which the milblogger characterized as a contested \"gray zone.\"",
+      "prop_index": 74,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_075",
+      "text": "Russian forces are intensifying assault operations towards Kupyansk.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian Kupyansk assaults",
+      "source_sentence": "Russian forces are intensifying assault operations towards Kupyansk.",
+      "prop_index": 75,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_076",
+      "text": "A spokesperson for a Ukrainian brigade stated that the Russian military command is using barrier troops to force Russian infantry to advance.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian barrier troops",
+      "source_sentence": "A spokesperson for a Ukrainian brigade operating in the Kupyansk direction stated that the Russian military command is using barrier troops to force Russian infantry to advance.",
+      "prop_index": 76,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_077",
+      "text": "The spokesperson reported that Russian forces are struggling to survive due to insufficient food supplies.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian supply issues",
+      "source_sentence": "The spokesperson reported that Russian forces are struggling to survive due to insufficient food and ammunition supplies.",
+      "prop_index": 77,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_078",
+      "text": "The spokesperson reported that Russian forces are struggling to survive due to insufficient ammunition supplies.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian supply issues",
+      "source_sentence": "The spokesperson reported that Russian forces are struggling to survive due to insufficient food and ammunition supplies.",
+      "prop_index": 78,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_079",
+      "text": "The Russian military command has reportedly deployed unspecified Spetsnaz forces to the Oleksandrivka direction.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian Spetsnaz deployment",
+      "source_sentence": "The Russian military command has reportedly deployed unspecified Spetsnaz forces to the Oleksandrivka direction.",
+      "prop_index": 79,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_080",
+      "text": "The chief of staff of a Ukrainian battalion reported that intelligence indicates that the Russian military command is planning to transfer unspecified brigades to the Oleksandrivka area.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian brigade transfer plans",
+      "source_sentence": "The chief of staff of a Ukrainian battalion operating in the Oleksandrivka direction reported that intelligence indicates that the Russian military command is planning to transfer unspecified brigades to the area and that an unspecified Russian Spetsnaz unit has arrived.",
+      "prop_index": 80,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_081",
+      "text": "The chief of staff of a Ukrainian battalion reported that an unspecified Russian Spetsnaz unit has arrived in the Oleksandrivka area.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian Spetsnaz arrival",
+      "source_sentence": "The chief of staff of a Ukrainian battalion operating in the Oleksandrivka direction reported that intelligence indicates that the Russian military command is planning to transfer unspecified brigades to the area and that an unspecified Russian Spetsnaz unit has arrived.",
+      "prop_index": 81,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_082",
+      "text": "Ukrainian forces continued their frontline strike campaign against Russian military assets in occupied Donetsk Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strike campaign",
+      "source_sentence": "Ukrainian forces continued their frontline and mid-range strike campaign against Russian military assets in occupied Donetsk Oblast and reportedly destroyed 26 Russian air defense systems between March 1 and 22.",
+      "prop_index": 82,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_083",
+      "text": "Ukrainian forces continued their mid-range strike campaign against Russian military assets in occupied Donetsk Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strike campaign",
+      "source_sentence": "Ukrainian forces continued their frontline and mid-range strike campaign against Russian military assets in occupied Donetsk Oblast and reportedly destroyed 26 Russian air defense systems between March 1 and 22.",
+      "prop_index": 83,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_084",
+      "text": "Ukrainian forces reportedly destroyed 26 Russian air defense systems in occupied Donetsk Oblast between March 1 and 22.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian air defense destruction",
+      "source_sentence": "Ukrainian forces continued their frontline and mid-range strike campaign against Russian military assets in occupied Donetsk Oblast and reportedly destroyed 26 Russian air defense systems between March 1 and 22.",
+      "prop_index": 84,
+      "article_id": "sw_001"
+    },
+    {
+      "prop_id": "sw_001_prop_085",
+      "text": "Ukrainian Unmanned Systems Forces Commander Major Robert \"Magyar\" Brovdi reported on March 22 that Ukrainian forces struck a Russian S-400 air defense system radar in an unspecified area of occupied Donetsk Oblast.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian strike S-400",
+      "source_sentence": "Ukrainian Unmanned Systems Forces Commander Major Robert \"Magyar\" Brovdi reported on March 22 that Ukrainian forces struck a Russian S-400 air defense system radar in an unspecified area of occupied Donetsk Oblast.",
+      "prop_index": 85,
+      "article_id": "sw_001"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "article_id": "reuters_003",
+  "source_name": "Reuters",
+  "total_propositions": 45,
+  "propositions": [
+    {
+      "prop_id": "reuters_003_prop_000",
+      "text": "Ukrainian and U.S. delegations concluded a second day of talks in Florida.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukraine US talks",
+      "source_sentence": "Ukrainian and U.S. delegations concluded a second day of talks in Florida on finding ways to end the four-year war with Russia, President Volodymyr Zelenskiy said on Sunday.",
+      "prop_index": 0,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_001",
+      "text": "The talks were aimed at finding ways to end the four-year war with Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Talks purpose",
+      "source_sentence": "Ukrainian and U.S. delegations concluded a second day of talks in Florida on finding ways to end the four-year war with Russia, President Volodymyr Zelenskiy said on Sunday.",
+      "prop_index": 1,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_002",
+      "text": "President Volodymyr Zelenskiy said on Sunday that Ukrainian and U.S. delegations concluded a second day of talks in Florida.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy statement talks",
+      "source_sentence": "Ukrainian and U.S. delegations concluded a second day of talks in Florida on finding ways to end the four-year war with Russia, President Volodymyr Zelenskiy said on Sunday.",
+      "prop_index": 2,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_003",
+      "text": "The war with Russia has been ongoing for four years.",
+      "is_factual_claim": true,
+      "topic_hint": "War duration",
+      "source_sentence": "Ukrainian and U.S. delegations concluded a second day of talks in Florida on finding ways to end the four-year war with Russia, President Volodymyr Zelenskiy said on Sunday.",
+      "prop_index": 3,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_004",
+      "text": "Russian representatives were not present at the talks.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian absence talks",
+      "source_sentence": "Russian representatives were not present at the talks, which opened in Florida on Saturday.",
+      "prop_index": 4,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_005",
+      "text": "The talks opened in Florida on Saturday.",
+      "is_factual_claim": true,
+      "topic_hint": "Talks location date",
+      "source_sentence": "Russian representatives were not present at the talks, which opened in Florida on Saturday.",
+      "prop_index": 5,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_006",
+      "text": "Russian representatives were originally expected to attend the negotiations.",
+      "is_factual_claim": true,
+      "topic_hint": "Russian expected attendance",
+      "source_sentence": "They were originally expected to attend the negotiations, which were due to take place in Abu Dhabi.",
+      "prop_index": 6,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_007",
+      "text": "The negotiations were due to take place in Abu Dhabi.",
+      "is_factual_claim": true,
+      "topic_hint": "Original talks location",
+      "source_sentence": "They were originally expected to attend the negotiations, which were due to take place in Abu Dhabi.",
+      "prop_index": 7,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_008",
+      "text": "The U.S. team is led by special envoy Steve Witkoff.",
+      "is_factual_claim": true,
+      "topic_hint": "US team leader",
+      "source_sentence": "The U.S. team is led by special envoy Steve Witkoff and Jared Kushner, President Donald Trump's son-in-law.",
+      "prop_index": 8,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_009",
+      "text": "The U.S. team is led by Jared Kushner.",
+      "is_factual_claim": true,
+      "topic_hint": "US team leader",
+      "source_sentence": "The U.S. team is led by special envoy Steve Witkoff and Jared Kushner, President Donald Trump's son-in-law.",
+      "prop_index": 9,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_010",
+      "text": "Jared Kushner is President Donald Trump's son-in-law.",
+      "is_factual_claim": true,
+      "topic_hint": "Jared Kushner relation",
+      "source_sentence": "The U.S. team is led by special envoy Steve Witkoff and Jared Kushner, President Donald Trump's son-in-law.",
+      "prop_index": 10,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_011",
+      "text": "President Volodymyr Zelenskiy said in an evening address that it is clear the U.S. side's attention is focused primarily on the situation surrounding Iran and the wider region.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy US focus",
+      "source_sentence": "\"It is clear that the U.S. side's attention at the moment is focused primarily on the situation surrounding Iran and the wider region, but Russia's war against Ukraine must also be brought to an end,\" Zelenskiy said in an evening address.",
+      "prop_index": 11,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_012",
+      "text": "President Volodymyr Zelenskiy said in an evening address that Russia's war against Ukraine must also be brought to an end.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy war end",
+      "source_sentence": "\"It is clear that the U.S. side's attention at the moment is focused primarily on the situation surrounding Iran and the wider region, but Russia's war against Ukraine must also be brought to an end,\" Zelenskiy said in an evening address.",
+      "prop_index": 12,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_013",
+      "text": "President Volodymyr Zelenskiy said there are indications that further prisoner of war exchanges may take place.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy POW exchanges",
+      "source_sentence": "\"There are indications that further (prisoner of war) exchanges may take place, which would indeed be very good news and confirmation that diplomacy is working. We hope this will come to fruition,\" he added.",
+      "prop_index": 13,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_014",
+      "text": "President Volodymyr Zelenskiy said that further prisoner of war exchanges would be very good news.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy POW opinion",
+      "source_sentence": "\"There are indications that further (prisoner of war) exchanges may take place, which would indeed be very good news and confirmation that diplomacy is working. We hope this will come to fruition,\" he added.",
+      "prop_index": 14,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_015",
+      "text": "President Volodymyr Zelenskiy said that further prisoner of war exchanges would be confirmation that diplomacy is working.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy diplomacy opinion",
+      "source_sentence": "\"There are indications that further (prisoner of war) exchanges may take place, which would indeed be very good news and confirmation that diplomacy is working. We hope this will come to fruition,\" he added.",
+      "prop_index": 15,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_016",
+      "text": "President Volodymyr Zelenskiy hopes that further prisoner of war exchanges will come to fruition.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy POW hope",
+      "source_sentence": "\"There are indications that further (prisoner of war) exchanges may take place, which would indeed be very good news and confirmation that diplomacy is working. We hope this will come to fruition,\" he added.",
+      "prop_index": 16,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_017",
+      "text": "President Volodymyr Zelenskiy did not specify whether the talks would continue.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy talks continuation",
+      "source_sentence": "Zelenskiy did not specify whether the talks would continue, when or where they might take place, or in what format.",
+      "prop_index": 17,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_018",
+      "text": "President Volodymyr Zelenskiy did not specify when the talks might take place.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy talks timing",
+      "source_sentence": "Zelenskiy did not specify whether the talks would continue, when or where they might take place, or in what format.",
+      "prop_index": 18,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_019",
+      "text": "President Volodymyr Zelenskiy did not specify where the talks might take place.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy talks location",
+      "source_sentence": "Zelenskiy did not specify whether the talks would continue, when or where they might take place, or in what format.",
+      "prop_index": 19,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_020",
+      "text": "President Volodymyr Zelenskiy did not specify in what format the talks might take place.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy talks format",
+      "source_sentence": "Zelenskiy did not specify whether the talks would continue, when or where they might take place, or in what format.",
+      "prop_index": 20,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_021",
+      "text": "Earlier on Sunday, President Volodymyr Zelenskiy urged allies to keep up sanctions pressure on Russia.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy sanctions call",
+      "source_sentence": "Earlier on Sunday he urged allies to keep up sanctions pressure on Russia and called for tougher action against Russia's so-called shadow fleet of tankers used to avoid sanctions, and for Moscow to be denied oil revenues.",
+      "prop_index": 21,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_022",
+      "text": "Earlier on Sunday, President Volodymyr Zelenskiy called for tougher action against Russia's so-called shadow fleet of tankers.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy shadow fleet",
+      "source_sentence": "Earlier on Sunday he urged allies to keep up sanctions pressure on Russia and called for tougher action against Russia's so-called shadow fleet of tankers used to avoid sanctions, and for Moscow to be denied oil revenues.",
+      "prop_index": 22,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_023",
+      "text": "Russia's so-called shadow fleet of tankers is used to avoid sanctions.",
+      "is_factual_claim": true,
+      "topic_hint": "Shadow fleet purpose",
+      "source_sentence": "Earlier on Sunday he urged allies to keep up sanctions pressure on Russia and called for tougher action against Russia's so-called shadow fleet of tankers used to avoid sanctions, and for Moscow to be denied oil revenues.",
+      "prop_index": 23,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_024",
+      "text": "Earlier on Sunday, President Volodymyr Zelenskiy called for Moscow to be denied oil revenues.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy oil revenues",
+      "source_sentence": "Earlier on Sunday he urged allies to keep up sanctions pressure on Russia and called for tougher action against Russia's so-called shadow fleet of tankers used to avoid sanctions, and for Moscow to be denied oil revenues.",
+      "prop_index": 24,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_025",
+      "text": "President Volodymyr Zelenskiy said Russia's shadow fleet must not feel safe in European waters or anywhere else.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy shadow fleet safety",
+      "source_sentence": "\"Russia's shadow fleet must not feel safe in European waters or anywhere else. Tankers that serve the war budget can and must be stopped and blocked, not just let go,\" he added.",
+      "prop_index": 25,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_026",
+      "text": "President Volodymyr Zelenskiy said tankers that serve the war budget can and must be stopped and blocked.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy tankers blocking",
+      "source_sentence": "\"Russia's shadow fleet must not feel safe in European waters or anywhere else. Tankers that serve the war budget can and must be stopped and blocked, not just let go,\" he added.",
+      "prop_index": 26,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_027",
+      "text": "Washington has temporarily lifted some sanctions on Russian oil.",
+      "is_factual_claim": true,
+      "topic_hint": "US Russian oil sanctions",
+      "source_sentence": "Washington has temporarily lifted some sanctions on Russian oil to help cope with supply shortages caused by war in Iran.",
+      "prop_index": 27,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_028",
+      "text": "The lifting of sanctions on Russian oil is to help cope with supply shortages.",
+      "is_factual_claim": true,
+      "topic_hint": "Sanctions lifting reason",
+      "source_sentence": "Washington has temporarily lifted some sanctions on Russian oil to help cope with supply shortages caused by war in Iran.",
+      "prop_index": 28,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_029",
+      "text": "Supply shortages were caused by war in Iran.",
+      "is_factual_claim": true,
+      "topic_hint": "Supply shortages cause",
+      "source_sentence": "Washington has temporarily lifted some sanctions on Russian oil to help cope with supply shortages caused by war in Iran.",
+      "prop_index": 29,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_030",
+      "text": "European countries have not temporarily lifted some sanctions on Russian oil.",
+      "is_factual_claim": true,
+      "topic_hint": "European oil sanctions",
+      "source_sentence": "European countries have not done so.",
+      "prop_index": 30,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_031",
+      "text": "A peace plan is being promoted by the U.S.",
+      "is_factual_claim": true,
+      "topic_hint": "US peace plan",
+      "source_sentence": "A peace plan being promoted by the U.S. would require a presidential election in Ukraine, alongside territorial concessions.",
+      "prop_index": 31,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_032",
+      "text": "The peace plan promoted by the U.S. would require a presidential election in Ukraine.",
+      "is_factual_claim": true,
+      "topic_hint": "US plan Ukraine election",
+      "source_sentence": "A peace plan being promoted by the U.S. would require a presidential election in Ukraine, alongside territorial concessions.",
+      "prop_index": 32,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_033",
+      "text": "The peace plan promoted by the U.S. would require territorial concessions.",
+      "is_factual_claim": true,
+      "topic_hint": "US plan territorial concessions",
+      "source_sentence": "A peace plan being promoted by the U.S. would require a presidential election in Ukraine, alongside territorial concessions.",
+      "prop_index": 33,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_034",
+      "text": "President Volodymyr Zelenskiy's term has already expired.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy term expired",
+      "source_sentence": "Zelenskiy, whose term has already expired, is under renewed pressure from Trump to hold a vote as Washington pushes Kyiv towards a peace deal.",
+      "prop_index": 34,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_035",
+      "text": "President Volodymyr Zelenskiy is under renewed pressure from Donald Trump to hold a vote.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy Trump pressure",
+      "source_sentence": "Zelenskiy, whose term has already expired, is under renewed pressure from Trump to hold a vote as Washington pushes Kyiv towards a peace deal.",
+      "prop_index": 35,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_036",
+      "text": "Washington is pushing Kyiv towards a peace deal.",
+      "is_factual_claim": true,
+      "topic_hint": "US pushing peace",
+      "source_sentence": "Zelenskiy, whose term has already expired, is under renewed pressure from Trump to hold a vote as Washington pushes Kyiv towards a peace deal.",
+      "prop_index": 36,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_037",
+      "text": "Ukrainian law bars wartime elections.",
+      "is_factual_claim": true,
+      "topic_hint": "Ukrainian election law",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskiy has said Ukraine would be ready to hold democratic elections if the U.S. secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 37,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_038",
+      "text": "President Volodymyr Zelenskiy has said Ukraine would be ready to hold democratic elections if the U.S. secured a two-month ceasefire.",
+      "is_factual_claim": true,
+      "topic_hint": "Zelenskiy election condition",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskiy has said Ukraine would be ready to hold democratic elections if the U.S. secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 38,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_039",
+      "text": "A two-month ceasefire would allow time to prepare infrastructure for elections.",
+      "is_factual_claim": true,
+      "topic_hint": "Ceasefire election prep",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskiy has said Ukraine would be ready to hold democratic elections if the U.S. secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 39,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_040",
+      "text": "A two-month ceasefire would allow time to put security guarantees in place for elections.",
+      "is_factual_claim": true,
+      "topic_hint": "Ceasefire security guarantees",
+      "source_sentence": "Ukrainian law bars wartime elections, but Zelenskiy has said Ukraine would be ready to hold democratic elections if the U.S. secured a two-month ceasefire to allow time to prepare infrastructure and put security guarantees in place.",
+      "prop_index": 40,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_041",
+      "text": "Valeriy Zaluzhnyi is Ukraine's former top general.",
+      "is_factual_claim": true,
+      "topic_hint": "Valeriy Zaluzhnyi role",
+      "source_sentence": "Ukraine's former top general, Valeriy Zaluzhnyi, now ambassador to Britain and seen as a potential presidential candidate, said Ukraine did not need a pause in fighting to vote.",
+      "prop_index": 41,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_042",
+      "text": "Valeriy Zaluzhnyi is now ambassador to Britain.",
+      "is_factual_claim": true,
+      "topic_hint": "Valeriy Zaluzhnyi role",
+      "source_sentence": "Ukraine's former top general, Valeriy Zaluzhnyi, now ambassador to Britain and seen as a potential presidential candidate, said Ukraine did not need a pause in fighting to vote.",
+      "prop_index": 42,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_043",
+      "text": "Valeriy Zaluzhnyi is seen as a potential presidential candidate.",
+      "is_factual_claim": true,
+      "topic_hint": "Valeriy Zaluzhnyi candidacy",
+      "source_sentence": "Ukraine's former top general, Valeriy Zaluzhnyi, now ambassador to Britain and seen as a potential presidential candidate, said Ukraine did not need a pause in fighting to vote.",
+      "prop_index": 43,
+      "article_id": "reuters_003"
+    },
+    {
+      "prop_id": "reuters_003_prop_044",
+      "text": "Valeriy Zaluzhnyi said Ukraine did not need a pause in fighting to vote.",
+      "is_factual_claim": true,
+      "topic_hint": "Zaluzhnyi election view",
+      "source_sentence": "Ukraine's former top general, Valeriy Zaluzhnyi, now ambassador to Britain and seen as a potential presidential candidate, said Ukraine did not need a pause in fighting to vote.",
+      "prop_index": 44,
+      "article_id": "reuters_003"
+    }
+  ]
+}
