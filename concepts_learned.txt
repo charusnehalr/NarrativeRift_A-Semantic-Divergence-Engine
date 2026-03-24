@@ -82,6 +82,59 @@ Where used: src/vector_store.py — stores all proposition embeddings, queried d
             contradiction detection to find similar propositions across articles
 
 
+5. Two-Tier NLI (Natural Language Inference)
+---------------------------------------------
+What: A pipeline that classifies the relationship between two text propositions.
+      Labels: contradiction, entailment (agreement), neutral.
+      "Two-tier" means a fast local model handles clear cases, and an LLM handles
+      ambiguous ones — saving API quota while maintaining quality.
+
+Tier 1 — DeBERTa (cross-encoder/nli-deberta-v3-base):
+  - Local model, runs on CPU, no API calls
+  - Takes a pair of sentences → outputs 3 raw logits → softmax → probabilities
+  - Label order: [contradiction, entailment, neutral] (index 0, 1, 2)
+  - Returns contradiction score 0.0–1.0
+  - Score > 0.85 → accept | Score < 0.4 → reject | 0.4–0.85 → Groq
+
+Tier 2 — Groq (llama-3.1-8b-instant):
+  - LLM hosted on Groq's hardware, free tier (14,400 RPD)
+  - Receives borderline pairs in batches of 5 per API call
+  - Returns verdict: CONTRADICTS / AGREES / NUANCE / TEMPORAL / UNRELATED
+  - Filters temporal (same event, different time) and nuance (framing, not fact)
+  - Only CONTRADICTS verdict adds to final output
+
+Why two-tier:
+  - DeBERTa is fast and free but has no understanding of time/context
+  - Groq/LLM is slower but understands "Sunday vs Friday = same event, not contradiction"
+  - Running LLM on all pairs would be slow and hit rate limits
+  - Running only DeBERTa misses temporal/nuance false positives
+
+6. Cross-Encoder Reranker (ms-marco-MiniLM-L-6-v2)
+----------------------------------------------------
+What: A model that scores relevance between a query and candidate text.
+      Unlike bi-encoders (BGE-M3 which embeds separately), cross-encoders
+      see BOTH texts at once → more accurate relevance score.
+
+Why used here:
+  - ChromaDB returns top-10 by cosine similarity (fast but approximate)
+  - Reranker re-scores these 10 candidates more precisely → keeps top-5
+  - Prunes irrelevant candidates before expensive DeBERTa NLI calls
+  - NOTE: reranker scores relevance, NOT contradiction — it's a pre-filter only
+
+Where NOT to use:
+  - First-pass retrieval over large corpora (too slow — use bi-encoder first)
+  - When you need embeddings (cross-encoders don't produce vectors)
+
+Where used: src/nli_engine.py — rerank_candidates() called before DeBERTa
+
+7. Deduplication with frozenset
+---------------------------------
+What: A frozenset is an immutable, unordered set. Used here to track seen pairs.
+      frozenset({A, B}) == frozenset({B, A}) → pair A-B and pair B-A are the same.
+Where used: src/nli_engine.py — seen_pairs set prevents scoring the same pair twice
+            since proposition A querying B and proposition B querying A would
+            both return the same pair without deduplication.
+
 2. Lazy Singleton Pattern
 --------------------------
 What: A module-level variable initialized to None, loaded only on first use, then reused.

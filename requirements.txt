@@ -1,5 +1,6 @@
 # LLM
 google-genai>=1.0.0
+groq>=0.8.0
 
 # Embeddings
 FlagEmbedding>=1.2.9

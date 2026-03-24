@@ -43,3 +43,28 @@ uv run python -m src.vector_store --mode stats --topic topic_a
 # Semantic query — embed your query text and find the 5 most similar propositions
 # Returns prop_id, cosine similarity score, text, source, and date
 uv run python -m src.vector_store --mode query --topic topic_a --query "ceasefire negotiations"
+
+# Verify Phase 3 is complete — checks two things:
+#   1. metadata.json: all articles should show status=embedded
+#   2. ChromaDB stats: total_propositions should be ~1500+ (30 articles x ~50 props each)
+uv run python -m src.vector_store --mode stats --topic topic_a
+
+
+Phase 4 — Contradiction Detection (NLI)
+-----------------------------------------
+# Run full contradiction detection pipeline for a topic
+# DeBERTa scores all cross-doc pairs → all non-rejected pairs go to Groq for verification
+# Output saved to data/topic_a/contradiction_pairs.json
+uv run python -m src.nli_engine --topic topic_a
+
+# Verify output — check how many contradiction pairs were found and how many used Groq
+python -c "
+import json
+data = json.load(open('data/topic_a/contradiction_pairs.json'))
+pairs = data['pairs']
+tier2 = sum(1 for p in pairs if p.get('tier_2_used'))
+print(f'Total pairs: {len(pairs)} | Groq verified: {tier2} | DeBERTa only: {len(pairs)-tier2}')
+"
+
+# Reset and re-run if you change thresholds (file is overwritten automatically)
+uv run python -m src.nli_engine --topic topic_a

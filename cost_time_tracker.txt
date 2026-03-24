@@ -23,3 +23,19 @@ Retrieving (every query):
 - Total per query: ~1-2 seconds end-to-end
 - Retrieval happens at pipeline runtime (contradiction detection) — not a one-time cost
 - Cost: $0 — all local, no API calls
+
+Phase 4 — Contradiction Detection (NLI)
+-----------------------------------------
+Tier 1 — DeBERTa (local):
+- Runs on every cross-doc proposition pair that passes cosine threshold (≥0.75)
+- ~1611 propositions × ~1-3 candidates each after filtering = ~500-2000 DeBERTa calls
+- Each DeBERTa inference: ~0.5-1 sec on CPU
+- Estimated time: ~15-30 minutes for full topic on CPU
+- Cost: $0 — local model, no API
+
+Tier 2 — Groq (LLM verification):
+- ALL non-rejected pairs (DeBERTa score > 0.4) go to Groq for temporal/nuance filtering
+- Groq batches 5 pairs per call → ~90 pairs / 5 = ~18 Groq calls
+- Rate limit: 30 RPM, 14,400 RPD (free tier) — well within limits
+- Sleep: 2 sec between calls → ~36 seconds total for Groq phase
+- Cost: $0 — Groq free tier (llama-3.1-8b-instant)
