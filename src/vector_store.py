@@ -272,3 +272,54 @@ def get_collection_stats(topic_key: str) -> dict:
         "collection_name": tc["chroma_collection"],
         "total_propositions": count,
     }
+
+
+# ── Quick test ────────────────────────────────────────────────────────────────
+# Run from project root:
+#   uv run python -m src.vector_store --mode single --article aljazeera_001
+#   uv run python -m src.vector_store --mode stats
+#   uv run python -m src.vector_store --mode query --query "ceasefire negotiations"
+
+if __name__ == "__main__":
+    import argparse
+    from src.utils import setup_logging
+    setup_logging()
+
+    parser = argparse.ArgumentParser(description="ChromaDB ingestion and inspection")
+    parser.add_argument("--mode", choices=["single", "all", "stats", "query"], required=True)
+    parser.add_argument("--article", default="aljazeera_001", help="article_id for single mode")
+    parser.add_argument("--topic", default="topic_a", help="topic key")
+    parser.add_argument("--query", default="ceasefire negotiations", help="query text for query mode")
+    args = parser.parse_args()
+
+    if args.mode == "single":
+        print(f"\nIngesting '{args.article}' into ChromaDB ...\n")
+        count = ingest_article_embeddings(args.topic, args.article)
+        print(f"\n--- Stored {count} propositions in ChromaDB ---")
+        props = get_all_propositions(args.topic, article_id=args.article)
+        print(f"\nSample (first 3 stored):")
+        for p in props[:3]:
+            print(f"  [{p['prop_id']}] {p['text'][:80]}")
+            print(f"    source={p.get('source_name')} | date={p.get('publish_date')}")
+            print()
+
+    elif args.mode == "all":
+        print(f"\nIngesting all chunked articles for '{args.topic}' ...\n")
+        results = ingest_all_articles(args.topic, skip_existing=True)
+        for article_id, result in results.items():
+            print(f"  {article_id}: {result}")
+
+    elif args.mode == "stats":
+        stats = get_collection_stats(args.topic)
+        print(f"\n--- ChromaDB Stats ---")
+        for k, v in stats.items():
+            print(f"  {k}: {v}")
+
+    elif args.mode == "query":
+        print(f"\nQuerying ChromaDB for: '{args.query}'\n")
+        results = query_similar_text(args.topic, args.query, top_k=5)
+        for r in results:
+            print(f"  [{r['prop_id']}] similarity={r['cosine_similarity']}")
+            print(f"  {r['text'][:80]}")
+            print(f"  source={r.get('source_name')} | date={r.get('publish_date')}")
+            print()

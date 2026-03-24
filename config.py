@@ -74,7 +74,6 @@ BGE_MODEL_NAME = "BAAI/bge-m3"
 BGE_EMBEDDING_DIM = 1024        # dense vector dimension
 BGE_MAX_LENGTH = 512            # propositions are short; 512 is sufficient
 BGE_BATCH_SIZE = 4              # safe for CPU with ~4GB RAM; increase to 16 on GPU
-BGE_USE_FP16 = True             # halves memory usage; safe for inference
 BGE_DEVICE = "cpu"              # set to "cuda" if GPU available
 
 # ── NLI Models ────────────────────────────────────────────────────────────────

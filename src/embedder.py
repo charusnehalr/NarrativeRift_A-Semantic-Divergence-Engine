@@ -1,16 +1,13 @@
 """
-embedder.py — BGE-M3 dense embedding via FlagEmbedding.
+embedder.py — BGE-M3 dense embedding via sentence-transformers.
 
 Uses only dense vectors (1024-dim) for ChromaDB storage.
-Sparse and ColBERT vectors are not used — they would violate ChromaDB's
-flat-scalar metadata constraint and are unnecessary for this pipeline.
+Switched from FlagEmbedding to sentence-transformers due to Python 3.13
+compatibility issues in FlagEmbedding. Same model, same vectors.
 """
 
 import logging
 from typing import Optional
-
-import numpy as np
-from tqdm import tqdm
 
 import config
 
@@ -22,28 +19,17 @@ _bge_model = None
 
 def load_bge_model():
     """
-    Load BAAI/bge-m3 via FlagEmbedding. Singleton — loads once, reused.
+    Load BAAI/bge-m3 via sentence-transformers. Singleton — loads once, reused.
 
-    Memory: ~4GB RAM on CPU with fp16=True.
-    First load downloads ~2.3GB from HuggingFace (cached afterward).
+    Memory: ~2-4GB RAM. First load downloads model from HuggingFace (cached afterward).
     """
     global _bge_model
     if _bge_model is not None:
         return _bge_model
 
     logger.info("Loading BGE-M3 model '%s' on device='%s'...", config.BGE_MODEL_NAME, config.BGE_DEVICE)
-    try:
-        from FlagEmbedding import BGEM3FlagModel
-    except ImportError:
-        raise ImportError(
-            "FlagEmbedding is not installed. Run: pip install FlagEmbedding"
-        )
-
-    _bge_model = BGEM3FlagModel(
-        config.BGE_MODEL_NAME,
-        use_fp16=config.BGE_USE_FP16,
-        device=config.BGE_DEVICE,
-    )
+    from sentence_transformers import SentenceTransformer
+    _bge_model = SentenceTransformer(config.BGE_MODEL_NAME, device=config.BGE_DEVICE)
     logger.info("BGE-M3 loaded successfully.")
     return _bge_model
 
@@ -69,26 +55,14 @@ def embed_texts(
 
     model = load_bge_model()
     bs = batch_size or config.BGE_BATCH_SIZE
-    all_vectors = []
 
-    batches = [texts[i: i + bs] for i in range(0, len(texts), bs)]
-    iterator = tqdm(batches, desc="Embedding", unit="batch") if show_progress else batches
-
-    for batch in iterator:
-        output = model.encode(
-            batch,
-            batch_size=len(batch),
-            max_length=config.BGE_MAX_LENGTH,
-            return_dense=True,
-            return_sparse=False,
-            return_colbert_vecs=False,
-        )
-        # output['dense_vecs'] is a numpy array of shape (batch_size, 1024)
-        dense: np.ndarray = output["dense_vecs"]
-        all_vectors.extend(dense.tolist())  # convert numpy → list[list[float]]
-
-    logger.debug("Embedded %d texts → %d vectors", len(texts), len(all_vectors))
-    return all_vectors
+    vectors = model.encode(
+        texts,
+        batch_size=bs,
+        show_progress_bar=show_progress,
+        normalize_embeddings=True,
+    )
+    return vectors.tolist()  # convert numpy → list[list[float]]
 
 
 def embed_single(text: str) -> list[float]:
@@ -145,3 +119,37 @@ def embed_propositions_for_article(
         metadatas.append(meta)
 
     return ids, embeddings, documents, metadatas
+
+
+# ── Quick test ────────────────────────────────────────────────────────────────
+# Run from project root:
+#   uv run python -m src.embedder --mode single --article aljazeera_001
+
+if __name__ == "__main__":
+    import argparse
+    from src.utils import setup_logging, load_propositions, load_metadata
+
+    setup_logging()
+
+    parser = argparse.ArgumentParser(description="Embed propositions with BGE-M3")
+    parser.add_argument("--mode", choices=["single", "all"], required=True, help="single: one article | all: batch")
+    parser.add_argument("--article", default="aljazeera_001", help="article_id for single mode")
+    parser.add_argument("--topic", default="topic_a", help="topic key")
+    args = parser.parse_args()
+
+    if args.mode == "single":
+        meta = load_metadata(args.topic)
+        article_meta = next((a for a in meta["articles"] if a["article_id"] == args.article), None)
+        propositions = load_propositions(args.topic, args.article)
+
+        if not propositions:
+            print(f"No propositions found for {args.article}. Run chunking first.")
+        else:
+            print(f"\nEmbedding {len(propositions)} propositions for '{args.article}' ...\n")
+            ids, embeddings, documents, metadatas = embed_propositions_for_article(
+                args.article, propositions, article_meta
+            )
+            print(f"\n--- Done ---")
+            print(f"  Propositions embedded : {len(embeddings)}")
+            print(f"  Vector dimensions     : {len(embeddings[0])}")
+            print(f"  Sample vector (first 5 dims): {embeddings[0][:5]}")
