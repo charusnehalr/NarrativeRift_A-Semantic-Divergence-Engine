@@ -168,6 +168,37 @@ Where NOT to use PyVis:
   - Production dashboards (use D3.js or Plotly instead — more control)
   - Graphs with thousands of nodes (PyVis is slow above ~500 nodes)
 
+9. Streamlit
+-------------
+What: A Python library that turns scripts into interactive web apps with no HTML/CSS/JS.
+      You write Python functions, Streamlit renders them as UI components in the browser.
+
+Key concepts used:
+  - st.cache_data: caches function return values — data only loaded once, reused on re-runs
+  - st.metric: displays a number with a label and optional delta (sub-label)
+  - st.expander: collapsible section — used for contradiction pair cards
+  - st.columns: creates side-by-side layout columns
+  - st.components.v1.html: embeds raw HTML (used for PyVis graph)
+  - st.bar_chart / st.dataframe: native chart and table components
+  - st.selectbox / st.slider / st.checkbox: interactive filter widgets
+
+Theme config (.streamlit/config.toml):
+  - Controls base theme (light/dark), primary color, background, font
+  - primaryColor affects buttons, sliders, links, progress bars
+  - Custom CSS injected via st.markdown(..., unsafe_allow_html=True)
+
+Why Streamlit over raw HTML/Flask:
+  - Zero frontend code — just Python
+  - Fast to build for data/ML projects
+  - Widely recognized in data science / AI portfolios
+
+Where NOT to use Streamlit:
+  - Production apps with many concurrent users (Streamlit reruns the whole script per interaction)
+  - Pixel-perfect custom UI (limited layout control vs raw HTML)
+  - Apps needing real-time updates / websockets
+
+Where used: app.py — single-page dashboard with 7 sections
+
 2. Lazy Singleton Pattern
 --------------------------
 What: A module-level variable initialized to None, loaded only on first use, then reused.

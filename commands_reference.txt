@@ -87,3 +87,21 @@ import json
 data = json.load(open('data/topic_a/graph_data.json'))
 print(f'Nodes: {data[\"total_nodes\"]} | Edges: {data[\"total_edges\"]} | Communities: {data[\"total_communities\"]}')
 "
+
+
+Phase 6 — Streamlit UI
+------------------------
+# Launch the web app (runs on http://localhost:8501)
+uv run streamlit run app.py
+
+# Theme is set in .streamlit/config.toml (light theme, blue primary color)
+# To change theme: edit .streamlit/config.toml
+
+# App sections (all on one page):
+#   1. Overview metrics — total claims, contradictions, clusters, sources, avg confidence
+#   2. Most Contradicted Source Pairs — ranked bar chart of outlet vs outlet
+#   3. Analytics — contradictions by source (bar chart) + source matrix
+#   4. Contradiction Graph — interactive PyVis embed
+#   5. Temporal Timeline — pairs sorted by date
+#   6. Narrative Stance — sources grouped by political lean
+#   7. Browse Pairs — filter by source, confidence, Groq-verified; side-by-side claim view

@@ -49,3 +49,12 @@ Phase 5 — Graph Builder
 - Total time: ~5-10 seconds (near instant)
 - Output: graph_data.json (~55 nodes, ~37 edges) + graph.html (interactive viz)
 - Cost: $0 — all local libraries (NetworkX, PyVis, python-louvain)
+
+Phase 6 — Streamlit UI
+------------------------
+- Startup time: ~3-5 seconds (loads graph_data.json + contradiction_pairs.json)
+- All data is cached with @st.cache_data — no re-loading on interaction
+- PyVis graph embedded as HTML component (height=680px)
+- No API calls at runtime — all data pre-computed from previous phases
+- Cost: $0 — Streamlit is free, all local
+- Run time: instant page interactions after initial load
