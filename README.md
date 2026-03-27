@@ -1,4 +1,4 @@
-# NarrativeRift
+# NarrativeRift - A Semantic Divergence Engine
 
 **Semantic contradiction detection across global news sources.**
 
